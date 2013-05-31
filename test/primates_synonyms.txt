@@ -1,0 +1,999 @@
+Megaladapidae	|	885703	|	
+Denisova hominin	|	933436	|	
+Ma's night monkey	|	913299	|	
+Grant's bushbaby	|	323055	|	
+Central African red Colobus	|	1013930	|	
+Ateles fusiceps	|	791687	|	
+Cercopithecus sabeus	|	571316	|	
+brown pale-fronted capuchin	|	197032	|	
+Saguinus bicolor martinsi	|	156862	|	
+Avahi peyrierasi Zaramody et al., 2006	|	3607508	|	
+Simias concolor Miller, 1903	|	621138	|	
+Simakobou	|	621138	|	
+northern white-cheeked gibbon	|	1029454	|	
+Black crested mangabey	|	554550	|	
+Cercopithecus mitis albotorquatus	|	4117772	|	
+agile gibbon	|	166550	|	
+Saguinus inustus (Schwartz, 1951)	|	765147	|	
+Microcebus arnholdi E. Lewis, Jr. et al. 2008	|	5149	|	
+Laotian langur	|	250663	|	
+Hylobates agilis albibarbis	|	96942	|	
+moor macaque	|	169928	|	
+brown howler monkey	|	558069	|	
+rhesus monkeys	|	689650	|	
+Rondon's marmoset	|	495388	|	
+toque macaque	|	115446	|	
+Trachypithecus cristatus (Raffles, 1821)	|	735418	|	
+purple-faced leaf monkey	|	721477	|	
+Procolobus badius preussi	|	437219	|	
+Coquerel's sifaka	|	402626	|	
+Trachypithecus phayrei crepuscula (Elliot, 1909)	|	157189	|	
+Cebus apella (Linnaeus, 1758)	|	197026	|	
+black-headed night monkey	|	685852	|	
+Strepsirrhini E. Geoffroy Saint-Hilaire, 1812	|	702147	|	
+thick-tailed bush baby	|	863763	|	
+common marmoset	|	1015223	|	
+Margot Marsh's mouse lemur	|	5146	|	
+malbrouck	|	250767	|	
+Mico cf. emiliae	|	172749	|	
+De Brazza's monkey	|	918233	|	
+white-tufted-ear marmoset	|	1015223	|	
+Nycticebus coucang menagensis	|	946859	|	
+Chimpansee troglodytes	|	417950	|	
+Callithrix jacchus aurita	|	341886	|	
+Pongo pygmaeus abelii	|	770295	|	
+Rhinopithecus roxellanae	|	77083	|	
+Papio ursinus (Kerr, 1792)	|	203159	|	
+Black capuchin	|	886278	|	
+Hylobates leucogenys Ogilby, 1840	|	1029454	|	
+Lagothrix cana (E. Geoffroy, 1812)	|	968680	|	
+Gorilla beringei Matschie, 1903	|	351685	|	
+Mittermeier's mouse lemur	|	387144	|	
+Pygathrix cinereus	|	786	|	
+Aotus Illiger, 1811	|	791708	|	
+guereza	|	565569	|	
+Lemur fulvus fulvus	|	433500	|	
+Cercopithecus wolfi elegans Dubois & Matschie, 1912	|	4117773	|	
+golden snub-nosed monkey	|	77083	|	
+Mentawai langur	|	704401	|	
+Homo Linnaeus, 1758	|	770309	|	
+crab eating macaque	|	689668	|	
+bush baby	|	151848	|	
+lesser apes	|	166544	|	
+yellow-handed titi	|	1058663	|	
+hairy-eared dwarf lemur	|	516007	|	
+Ugandan red Colobus	|	1013938	|	
+Chlorocebus cynosuros (Scopoli, 1786)	|	250767	|	
+Chamek spider monkey	|	814889	|	
+Sibree's dwarf lemur	|	682744	|	
+Pere David's macaque	|	111859	|	
+Daubetonia	|	190075	|	
+Macaca maurus	|	169928	|	
+Cercopithecus dianae	|	203187	|	
+black-and-red howler monkey	|	1058654	|	
+gold-and-black lion tamarin	|	341890	|	
+blue monkey	|	203191	|	
+western lowland gorilla	|	417953	|	
+Gorilla gorilla beringei	|	624503	|	
+Mona monkey	|	918231	|	
+Gorilla gorilla graueri	|	317556	|	
+bamboo lemur	|	789630	|	
+Marohita mouse lemur	|	4117712	|	
+Aotus azarae azarae	|	411832	|	
+Cercopithecus cephus (Linnaeus, 1758)	|	268334	|	
+Papio cynocephalus (Linnaeus, 1766)	|	115471	|	
+Tarsius spectrum	|	721280	|	
+Silky sifaka	|	1046413	|	
+thick-tailed galago	|	863763	|	
+Aotus lemurinus griseimembra	|	583084	|	
+cynomolgus monkey	|	689668	|	
+talapoin	|	975092	|	
+chimpanzee	|	417950	|	
+Azara's owl monkey	|	1058659	|	
+calabar angwantibo	|	323051	|	
+Papio cynocephalus ibeanus Thomas, 1893	|	485691	|	
+ape	|	386191	|	
+Colobus badius	|	640572	|	
+Cercopithecus aethiops pygerythrus	|	571323	|	
+L'Hoest's monkey	|	954691	|	
+long-tailed macaque	|	689668	|	
+Moholi bushbaby	|	311214	|	
+Galago alleni gabonensis	|	323060	|	
+Lagothrix lagotricha lugens	|	57134	|	
+Lemur mongoz	|	696004	|	
+Cercopithecus pogonias elegans	|	4117773	|	
+Cercopithecus mitis doggetti	|	3607605	|	
+Mico saterei	|	172747	|	
+white ear-tufted marmoset	|	1015223	|	
+Arnhold's mouse lemur	|	5149	|	
+Berthe's mouse lemur	|	765353	|	
+Mico rondoni Ferrari et al., 2010	|	495388	|	
+Presbytis potenziani siberu (Chasen & Kloss 1927)	|	512416	|	
+Emilia's marmoset	|	488310	|	
+Dent's mona monkey	|	198616	|	
+Panamanian night monkey	|	298340	|	
+Barbary ape	|	689645	|	
+Papio sphinx	|	741047	|	
+gray monk saki	|	1058640	|	
+gray woolly monkey	|	968680	|	
+Miopithecus ougouensis	|	949834	|	
+greater bamboo lemur	|	671258	|	
+man	|	770315	|	
+Bald Uacari	|	1058649	|	
+bear macaque	|	689665	|	
+Trachypithecus Reichenbach, 1862	|	721473	|	
+Cercopithecus diana (Linnaeus, 1758)	|	203187	|	
+Microcebus tanosi Rasoloarison, Weisrock, Yoder, Rakotondravony & Kappeler, 2013	|	4117710	|	
+Cercopithecus wolfi A. Meyer, 1891	|	375164	|	
+red howler monkey	|	791699	|	
+Ateles hybridus I. Geoffroy, 1829	|	645692	|	
+western baboon	|	115463	|	
+Callithrix humeralifera (E. Geoffroy, 1812)	|	683993	|	
+Chlorocebus aethiops tantalus	|	571312	|	
+purple-faced langur	|	721477	|	
+Cercopithecus preussi Matschie, 1898	|	283455	|	
+Guianan saki	|	235545	|	
+Somali galago	|	552578	|	
+Microcebus margotmarshae E. Lewis, Jr. et al. 2008	|	5146	|	
+Lemur fulvus	|	394961	|	
+Papio papio (Desmarest, 1820)	|	513904	|	
+cynomolgus monkeys	|	689668	|	
+Galago crassicaudatus	|	863763	|	
+greater galago	|	863763	|	
+Eastern hoolock gibbon	|	574262	|	
+prosimians	|	702147	|	
+Chlorocebus cynosurus	|	250767	|	
+stump-tail macaque	|	115444	|	
+Microcebus coquereli	|	16910	|	
+Eulemur fulvus albifrons	|	259258	|	
+Santarem marmoset	|	683993	|	
+Aotidae Elliot, 1913	|	702159	|	
+tarsier	|	339047	|	
+Eulemur albifrons (E. Geoffroy, 1796)	|	259258	|	
+Trachypithecus auratus pyrrhus (Horsfield, 1823)	|	975088	|	
+Aotus azarai infulatus (Kuhl, 1820)	|	210732	|	
+Alouatta belcebul	|	1058654	|	
+Callicebus coimbrai Kobayashi & Langguth, 1999	|	210726	|	
+Simia flavia Schreber, 1774	|	299416	|	
+Northern pig-tailed macaque	|	115044	|	
+Chiropotes satanas chiropotes	|	101531	|	
+Black-headed Uacari	|	1022358	|	
+Leontopithecus rosalia chrysopygus	|	566865	|	
+white-faced sapajou	|	217252	|	
+Indochinese lutung	|	597815	|	
+Small iron-gray dwarf lemur	|	311696	|	
+gorilla	|	351685	|	
+gorilla	|	417965	|	
+agile mangabey	|	363077	|	
+Saguinus fuscicollis lagonotus (Jimenez de la Espada, 1870)	|	809275	|	
+Randrianasolo's sportive lemur	|	848083	|	
+Galago garnettii	|	885705	|	
+Lagothrix lugens Elliot, 1907	|	57134	|	
+Golden-bellied mangabey	|	554545	|	
+Presbytis francoisi	|	43805	|	
+Hapale humeralifer	|	683993	|	
+Propithecus diadema edwardsi	|	571030	|	
+Cercopithecus roloway (Schreber, 1774)	|	699219	|	
+Cercopithecus aethiops sabaeus	|	571316	|	
+Pongidae	|	770311	|	
+Cercopithecus sabaeus	|	571316	|	
+Saguinus Hoffmannsegg, 1807	|	1015243	|	
+Macaca assamenses	|	115440	|	
+Geoffroy's tamarin	|	235534	|	
+Tarai gray langur	|	737534	|	
+Cheirogaleus crossleyi A. Grandidier, 1870	|	418718	|	
+gray-backed sportive lemur	|	231275	|	
+brown-headed tamarin	|	1015238	|	
+roloway monkey	|	699219	|	
+Zanzibar red Colobus	|	1013935	|	
+Petterus macaco	|	763521	|	
+Macaca mulatta (Zimmermann, 1780)	|	689650	|	
+Cheirogaleus major E. Geoffroy, 1812	|	589601	|	
+Japanese macaque	|	689660	|	
+Japanese macaque	|	689663	|	
+woolly monkeys	|	217262	|	
+Lemur rubriventer	|	696007	|	
+Cacajao sp. IPF-2008_ay	|	6557	|	
+Cacajao sp. IPF-2008_ho	|	6559	|	
+Perrier's sifaka	|	799550	|	
+black and white tassel-ear marmoset	|	683993	|	
+Japanese monkey	|	689660	|	
+bonobo	|	158484	|	
+Pygathrix brelichi	|	1068677	|	
+Hylobates klossi	|	995047	|	
+Procolobus badius temminckii (Kuhl, 1820)	|	941793	|	
+Callicebus caligatus (Wagner, 1842)	|	210729	|	
+Gorilla beringei beringei Matschie, 1903	|	624503	|	
+howler monkey	|	558069	|	
+howler monkey	|	791699	|	
+Lagothrix lagotricha cana	|	968680	|	
+Sciurocheirus alleni	|	173071	|	
+Gorilla gorilla (Savage, 1847)	|	417965	|	
+Papio leucophaeus	|	741057	|	
+eastern black-and -white colobus	|	565569	|	
+Saguinus fuscicollis illigeri (Pucheran, 1845)	|	285528	|	
+pied bare-faced tamarin	|	254275	|	
+douroucouli	|	791711	|	
+Red-backed bearded saki	|	101531	|	
+Saimiri boliviensis (I. Geoffroy & Blainville, 1834)	|	977385	|	
+proboscis monkey	|	860954	|	
+spectacled langur	|	43798	|	
+white sifaka	|	696018	|	
+Red-cheeked gibbon	|	847446	|	
+Presbytis melalophos sumatranus (Mueller & Schlegel 1841)	|	704355	|	
+white-faced saki	|	235545	|	
+Cercocebus aterrimus	|	554550	|	
+Delacour's langur	|	48788	|	
+Geoffroy's marmoset	|	683989	|	
+Chlorocebus aethiops djamdjamensis	|	875546	|	
+Allen's squirrel galago	|	173071	|	
+booted macaque	|	575293	|	
+Otolemur garnettii (Ogilby, 1838)	|	885705	|	
+Tonkean macaque	|	407753	|	
+golden-mantled tamarin	|	394176	|	
+slow loris	|	339043	|	
+woolly lemur	|	516002	|	
+Tarsius Storr, 1780	|	339047	|	
+Milne-Edwards's sportive lemur	|	148503	|	
+Cercopithecus aterrimus	|	554550	|	
+Preuss's red Colobus	|	437219	|	
+black-and-white colobus monkeys	|	1000283	|	
+Midas tamarin	|	532397	|	
+Tarsius bancanus Horsfield, 1821	|	339050	|	
+Anubis baboon	|	115449	|	
+Cercopithecus erythrotis Waterhouse, 1838	|	623302	|	
+Colobus abyssinicus (Oken, 1816)	|	565569	|	
+Rhinopithecus strykeri Geissmann et al., 2010	|	1072533	|	
+Cercocebus atys (Audebert, 1797)	|	268349	|	
+black-handed spider monkey	|	791691	|	
+Monk saki	|	340054	|	
+gibbon	|	995041	|	
+Pygathrix avunculus	|	514757	|	
+Papio cynocephalus kindae (Loennberg, 1919)	|	436611	|	
+Strepsirhini	|	702147	|	
+pigtail macaque	|	689656	|	
+bald-faced saki	|	1058640	|	
+pygmy marmoset	|	489225	|	
+Hylobates syndactylus	|	417961	|	
+Cercopithecus mitis labiatus	|	4117769	|	
+Saimiri oerstedtii	|	4337	|	
+Cercopithecus albogularis (Sykes, 1831)	|	311705	|	
+Presbytis frontata (Mueller 1838)	|	704371	|	
+Cacajao ouakary	|	1022358	|	
+Sambirano bamboo lemur	|	311692	|	
+red-chested mustached tamarin	|	68899	|	
+Procolobus badius pennantii	|	437216	|	
+Cercocebus torquatus (Kerr, 1792)	|	268353	|	
+golden lion tamarin	|	921451	|	
+tarsiers	|	933322	|	
+Chlorocebus pygerythrus cynosurus	|	250767	|	
+titi monkeys	|	842878	|	
+Bunopithecus hoolock hoolock	|	1029474	|	
+Pygathrix bieti	|	77080	|	
+galagos	|	786233	|	
+Galago thomasi Elliot, 1907	|	202831	|	
+Cercopithecus albogularis monoides I. Geoffroy, 1841	|	4117767	|	
+hussar	|	268326	|	
+Cercopithecus erythrogaster Gray, 1866	|	179316	|	
+Microcebus berthae Rasoloarison, Goodman & Ganzhorn 2000	|	765353	|	
+Western tarsier	|	339050	|	
+Doguera baboon	|	115449	|	
+Saguinus imperator (Goeldi, 1907)	|	489221	|	
+Hylobates concolor	|	180370	|	
+white-handed gibbon	|	995038	|	
+Cercocebus chrysogaster Lydekker, 1900	|	554545	|	
+tamarin	|	489221	|	
+gelada baboon	|	741053	|	
+red uakari	|	1058649	|	
+rhesus macaques	|	689650	|	
+ruffed lemur	|	388420	|	
+Tana river mangabey	|	268347	|	
+Eulemur Simons and Rumpler, 1988	|	394968	|	
+Eulemur collaris	|	589604	|	
+Presbytis melalophos (Raffles 1821)	|	406006	|	
+noisy night monkey	|	685855	|	
+Galagoides zanzibaricus granti	|	323055	|	
+Neanderthal man	|	83926	|	
+white-nosed guenon	|	203154	|	
+Petterus fulvus	|	394961	|	
+Western hoolock gibbon	|	1029474	|	
+greater bushbabies	|	885711	|	
+James' sportive lemur	|	3428	|	
+Procolobus badius rufomitratus	|	1013945	|	
+Midas goeldii	|	489230	|	
+Papio anubis (Lesson, 1827)	|	115449	|	
+tassel-eared marmoset	|	683993	|	
+Lariang tarsier	|	318683	|	
+Alouatta clamitans	|	142239	|	
+Gray snub-nosed monkey	|	1068677	|	
+buff-cheeked gibbon	|	847446	|	
+Bornean white-bearded gibbon	|	96942	|	
+orang utan	|	770295	|	
+orang utan	|	770302	|	
+Daubentonia madagascarensis	|	50727	|	
+Callibella humilis	|	298261	|	
+Semnopithecus johnii	|	514751	|	
+Eulemur rufus (Audebert, 1799)	|	22554	|	
+Procolobus badius parmentieri	|	1013930	|	
+Galago garnetti	|	885705	|	
+white-throated guenon	|	179316	|	
+Papio doguera	|	115449	|	
+Propithecus coquereli (A. Grandidier, 1867)	|	402626	|	
+pigtail monkey	|	689656	|	
+Cheirogaleus sibreei Forsyth Major, 1896	|	682744	|	
+maroon leaf-monkey	|	512403	|	
+human	|	770315	|	
+Cercopithecus nictitans (Linneaus, 1766)	|	203154	|	
+Pig-tailed langur	|	621138	|	
+Trachypithecus phayrei crepusculus	|	157189	|	
+Ateles geoffroyi panamensis Kellogg & Golman, 1944	|	814885	|	
+Cebuella	|	1015231	|	
+Bolivian titi	|	282614	|	
+Varecia variegata ruber	|	462792	|	
+Varecia variegata rubra	|	462792	|	
+Semnopithecus vetulus	|	721477	|	
+brown spider monkey	|	645692	|	
+brown lemur	|	394961	|	
+Cercopithecus mitis stuhlmanni Matschie, 1893	|	4117764	|	
+Pan sp. WO2007026120	|	417957	|	
+Cebus libidinosus Spix, 1823	|	748283	|	
+Callithrix humilis Roosmalen, Roosmalen, Mittermeier & de Fonseca, 1998	|	298261	|	
+gibbons	|	166544	|	
+king colobus	|	989400	|	
+chimpanzees	|	417957	|	
+Wolf's monkey	|	375164	|	
+gray-bellied night monkey	|	897634	|	
+western red colobus	|	640572	|	
+red-eared guenon	|	623302	|	
+Mico melanura	|	1031373	|	
+Cercopithecus pogonias grayi Fraser 1850	|	140200	|	
+Galago zanzibaricus	|	552575	|	
+Siberut macaque	|	311720	|	
+colobus monkeys	|	696016	|	
+Pygathrix roxellana	|	77083	|	
+Saguinus imperator subgrisescens (Loennberg, 1940)	|	809273	|	
+Tarsius sangirensis Meyer, 1897	|	49187	|	
+Papio hamadryas subsp.	|	115463	|	
+Papio hamadryas doguera	|	115449	|	
+Rhesus monkey	|	689650	|	
+Trachypithecus phayrei (Blyth, 1847)	|	703784	|	
+black-chested mustached tamarin	|	1015219	|	
+Angola colobus	|	721482	|	
+Hapalemur occidentalis Rumpler, 1975	|	311692	|	
+Callithrix pygmaea (Spix, 1823)	|	489225	|	
+dove langur	|	721486	|	
+Trachypithecus barbei holotephreus	|	844492	|	
+white-headed lemur	|	259258	|	
+Galago demidovii	|	653041	|	
+Chlorocebus djamdjamensis Neumann, 1902	|	875546	|	
+Lagothrix poeppigii Schinz, 1844	|	57313	|	
+Trachypithecus cristata pyrrhus	|	975088	|	
+Aotus griseimembra Elliot, 1912	|	583084	|	
+Lemur macaco albifrons	|	259258	|	
+Mico emiliae	|	488310	|	
+Wied's marmoset	|	947308	|	
+Arunachal macaque	|	927559	|	
+Cebus apella xanthosternos	|	331561	|	
+Cheirogaleus sp. 4 LFG-2010	|	682744	|	
+Cebus olivaceus nigrivittatus Wagner, 1848	|	1031385	|	
+Piliocolobus badius oustaleti	|	1013930	|	
+Homo neanderthalensis	|	83926	|	
+Papio cynocephalus papio	|	513904	|	
+crowned guenon	|	80548	|	
+Presbytis obscurus	|	43798	|	
+Cercopithecus aethiops tantalus	|	571312	|	
+pale-fronted capuchin	|	197032	|	
+Hoolock hoolock leuconedys	|	574262	|	
+Trachypithecus phayrei shanicus (Wroughton, 1917)	|	683655	|	
+Orangutan	|	770295	|	
+Orangutan	|	770302	|	
+gray mouse lemur	|	311211	|	
+variegated lemur	|	388420	|	
+Uzungwa red colobus	|	1013949	|	
+Lemuriformes Gray, 1821	|	702142	|	
+pig-tailed macaque	|	689656	|	
+white-throated capuchin	|	217252	|	
+Galago demidoff	|	653041	|	
+black lemur	|	763521	|	
+Cercopithecus aethiops aethiops	|	767718	|	
+Callithricidae	|	1015234	|	
+Tana river red Colobus	|	1013945	|	
+Cercopithecus ascanius (Audebert, 1799)	|	203184	|	
+southern white-cheeked gibbon	|	995043	|	
+Propithecus diadema candidus	|	1046413	|	
+northern sportive lemur	|	231273	|	
+Coimbra Filho's titi	|	210726	|	
+common gibbon	|	995038	|	
+Hylobates leucogenys leucogenys	|	1029454	|	
+Callicebus torquatus lugens	|	927108	|	
+pileated gibbon	|	995054	|	
+Presbytis rubicunda (Mueller 1838)	|	512403	|	
+mantled howler monkey	|	1012045	|	
+white-faced capuchin	|	217252	|	
+saddlebacked tamarin	|	1015238	|	
+Papio cynocephalus anubis	|	115449	|	
+Dusky leaf-monkey	|	43798	|	
+Spectral tarsier	|	721280	|	
+Papio hamadryas papio	|	513904	|	
+Mico	|	1015231	|	
+Presbytis entellus	|	276589	|	
+Preuss' monkey	|	283455	|	
+squirrel monkeys	|	842872	|	
+Black crested gibbon	|	180370	|	
+Cercocebus galeritus chrysogaster	|	554545	|	
+Chlorocebus aethiops cynosurus	|	250767	|	
+Chlorocebus aethiops cynosuros	|	250767	|	
+red guenon	|	268326	|	
+Cercopithecus campbelli Waterhouse, 1838	|	140251	|	
+Hoolock Mootnick & Groves 2005	|	712902	|	
+Mandrillus sphinx (Linnaeus, 1758)	|	741047	|	
+Ateles geoffroyi fusciceps	|	791687	|	
+drill	|	741057	|	
+Cercopithecus denti Thomas, 1907	|	198616	|	
+spider monkey	|	217256	|	
+Allouatta seniculus	|	791699	|	
+Lepilemur petteri Louis et al., 2006	|	3607512	|	
+Temminck's red colobus	|	941793	|	
+gray slender loris	|	673378	|	
+Horsfield's tarsier	|	339050	|	
+Microcebus E. Geoffroy, 1834	|	734824	|	
+olive baboon	|	115449	|	
+lesula	|	1072609	|	
+Cercopithecus patas	|	268326	|	
+Callimico goeldi	|	489230	|	
+Saguinus midas niger	|	156859	|	
+Simia badius Kerr, 1792	|	640572	|	
+Brachyteles arachnoides hypoxanthus	|	574171	|	
+Procolobus temminckii	|	941793	|	
+Aotus azarae	|	1058659	|	
+red-bellied lemur	|	696007	|	
+Saguinus fuscicollis leucogenys (Gray, 1866)	|	285526	|	
+Colobus abyssinicus	|	565569	|	
+Cercopithecus mitis moloneyi	|	4117770	|	
+Tufted capuchin	|	197026	|	
+Cercopithecus l'hoesti	|	954691	|	
+western gorilla	|	417965	|	
+gray-shanked douc	|	786	|	
+black-mantled tamarin	|	1015216	|	
+white-collared mangabey	|	268353	|	
+Callithrix jacchus jacchus	|	1015223	|	
+Martin's tamarin	|	156862	|	
+macaques	|	268324	|	
+potto	|	339040	|	
+Bunopithecus hoolock (Harlan, 1834)	|	1029474	|	
+Saguinus graellsi (Jimenez de la Espada, 1870)	|	955071	|	
+Anosy mouse lemur	|	4117710	|	
+Simmons' mouse lemur	|	133625	|	
+Primata	|	913935	|	
+Chacma baboon	|	203159	|	
+Cercopithecus sp. ASB-2012	|	1072609	|	
+Cebus cay Illiger, 1815	|	775268	|	
+Alouatta fusca	|	558069	|	
+Gorilla beringei graueri Matchie, 1914	|	317556	|	
+Simia flavia	|	299416	|	
+Callithrix jacchus humeralifer	|	683993	|	
+Cheirogaleus minusculus Groves, 2000	|	311696	|	
+Borneo gibbon	|	995050	|	
+olive colobus	|	24731	|	
+Bunopithecus hoolock leuconedys	|	574262	|	
+white-fronted capuchin	|	197032	|	
+Demidoff's galago	|	653041	|	
+Galagoides alleni	|	173071	|	
+Cercocebus torquatus lunulatus	|	33609	|	
+Hubbard's sportive lemur	|	112838	|	
+Campbell's monkey	|	140251	|	
+Goodman's mouse lemur	|	415576	|	
+Coquerel's mouse lemur	|	16910	|	
+Callithrix humeralifer	|	683993	|	
+dusky leaf monkey	|	43798	|	
+black spider monkey	|	217258	|	
+Cebus robustus	|	886281	|	
+dryas monkey	|	3607607	|	
+Perodictus	|	339045	|	
+Cercopithecus diana roloway	|	699219	|	
+white-eared marmoset	|	341886	|	
+Lepilemur hubbardi	|	112838	|	
+New World monkeys	|	339033	|	
+Celebes crested macaque	|	111862	|	
+Papio cynocephalus kindae	|	436611	|	
+western needle-clawed galago	|	323064	|	
+Cercopithecus albogularis moloneyi Sclater, 1893	|	4117770	|	
+bushbabies	|	863755	|	
+Propithecus perrieri Lavauden, 1931	|	799550	|	
+Chlorocebus aethiops sabaeus	|	571316	|	
+Cercopithecus aethiops vervet	|	513911	|	
+Angolan colobus	|	721482	|	
+Cebus flavius (Schreber, 1774)	|	299416	|	
+Senegal galago	|	863751	|	
+Eulemur macaco albifrons	|	259258	|	
+Lepilemur mitsinjonensis	|	68775	|	
+Greater dwarf lemur	|	589601	|	
+Lepilemur septentrionalis ankaranensis	|	414211	|	
+Tarsius dianae	|	712758	|	
+Hoolock gibbon	|	1029474	|	
+Propithecus verreauxi coronatus	|	729851	|	
+Ateles jeoffroyi	|	791691	|	
+emperor tamarin	|	489221	|	
+Lagothrix lagotricha poeppigii	|	57313	|	
+great apes	|	770311	|	
+Chiropotes chiropotes (Humboldt, 1811)	|	101531	|	
+Red ruffed lemur	|	462792	|	
+Mandrillus leucophaeus (F. Cuvier, 1807)	|	741057	|	
+eastern gorilla	|	351685	|	
+Hylobates gabriellae	|	847446	|	
+Neandertal	|	83926	|	
+Cercocebus torquatus lunulatus (Temminick, 1853)	|	33609	|	
+Cercopithecus dryas Schwartz, 1932	|	3607607	|	
+Central American squirrel monkey	|	4337	|	
+Alouatta nigerrima	|	1058654	|	
+Cercopithecus albogularis albotorquatus Pousargues, 1896	|	4117772	|	
+Microcebus gerpi Radespiel et al. 2011	|	732719	|	
+howler monkeys	|	489216	|	
+leaf monkeys	|	721473	|	
+Trachypithecus phayrei holotephreus (Anderson, 1878)	|	844492	|	
+Francois's langur	|	43805	|	
+Propithecus deckeni coronatus	|	729851	|	
+White-headed langur	|	250658	|	
+brown-headed spider monkey	|	791687	|	
+Bunopithecus	|	712902	|	
+Verreaux's sifaka	|	696018	|	
+Cercopithecus preussi insularis Thomas, 1910	|	4117766	|	
+rmr 209	|	4117710	|	
+Mico humeralifera	|	683993	|	
+mottle-faced tamarin	|	765147	|	
+Mico humilis	|	298261	|	
+Presbytis melalophos sumatrana	|	704355	|	
+Homo sapiens Linnaeus, 1758	|	770315	|	
+Cercopithecus mitis Wolf, 1822	|	203191	|	
+Matschie's galago	|	271531	|	
+Cercopithecus pogonias schwarzianus Schouteden, 1946	|	4117756	|	
+Chestnut-bellied titi	|	210729	|	
+common squirrel monkey	|	842875	|	
+Nomascus leucogenys leucogenys	|	1029454	|	
+Highland mangabey	|	665522	|	
+Presbytis cristata pyrrhus	|	975088	|	
+Pan sp. WO2005014654	|	417957	|	
+Presbytis potenziani (Bonaparte 1856)	|	704401	|	
+Semnopithecus hector (Pocock, 1928)	|	737534	|	
+Homo/Pan/Gorilla group	|	312031	|	
+Cercopithecus wolfi pyrogaster Loennberg, 1919	|	4117774	|	
+Pan troglodytes ellioti (Matschie, 1914)	|	112831	|	
+Trachypithecus johnii (J. Fischer, 1829)	|	514751	|	
+Gorilla I. Geoffroy, 1852	|	417969	|	
+Galago moholi A. Smith, 1836	|	311214	|	
+green monkey	|	571316	|	
+green monkey	|	268337	|	
+muriqui	|	1058645	|	
+RMR 136	|	4117712	|	
+Ateles geoffreyi	|	791691	|	
+Neandertal man	|	83926	|	
+Callicebus nigrifrons (Spix, 1823)	|	210741	|	
+Lepilemur hubbardorum Louis et al. 2006	|	112838	|	
+Mico mauesi	|	341884	|	
+Ring-tailed lemur	|	913930	|	
+Procolobus badius tephrosceles	|	1013938	|	
+Hylobates alibarbis Lyon, 1911	|	96942	|	
+Procolobus badius badius (Kerr, 1792)	|	941798	|	
+Presbytis melalophos bicolor Aimi & Bakar 1992	|	704361	|	
+Saguinus melanoleucus (Miranda Ribeiro, 1912)	|	429033	|	
+Galagoides granti	|	323055	|	
+Lepilemur jamesi Louis et al., 2006	|	3428	|	
+Trachypithecus shortridgei (Wroughton, 1915)	|	514267	|	
+bare-eared squirrel monkey	|	455668	|	
+Propithecus verreauxi coquereli	|	402626	|	
+Claire's mouse lemur	|	560998	|	
+woolly spider monkey	|	1058645	|	
+Phaner furcifer pallescens	|	3607528	|	
+Cercopithecus tantalus	|	571312	|	
+Cercocebus E. Geoffroy, 1812	|	842861	|	
+Lemur macaco	|	763521	|	
+Chlorocebus sabaeus (Linnaeus, 1776)	|	571316	|	
+weasel lemur	|	388426	|	
+Hatinh langur	|	1038626	|	
+YPM 14189	|	1072609	|	
+Alouatta macconnelli	|	512634	|	
+YPM 14191	|	1072609	|	
+YPM 14192	|	1072609	|	
+YPM 14080	|	1072609	|	
+Ateles belzebuth hybridus	|	645692	|	
+gray-shanked douc langur	|	786	|	
+silvery-brown bare-face tamarin	|	920962	|	
+northern night monkey	|	791711	|	
+Aotus lemurinus zonalis	|	298340	|	
+Symphalangus syndactylus (Raffles, 1821)	|	417961	|	
+monkey	|	339033	|	
+monkey	|	842868	|	
+Miopithecus ogouensis Kingdon, 1997	|	949834	|	
+South African galago	|	311214	|	
+Phayre's leaf monkey	|	703784	|	
+Galago senegalensis granti	|	323055	|	
+stump-tailed macaque	|	689665	|	
+Kloss's gibbon	|	995047	|	
+Cercopithecus sibatoi	|	3607605	|	
+Colobus guereza Rueppell, 1835	|	565569	|	
+lorises	|	863755	|	
+Presbytis hosei (Thomas 1889)	|	704364	|	
+Lagothrix lagothricha	|	297528	|	
+black-pencilled marmoset	|	341908	|	
+pygmy slow loris	|	101793	|	
+Lemur variegatus	|	388420	|	
+Cercopithecus petaurista buettikoferi Jentink, 1866	|	800090	|	
+Semnopithecus entellus hector	|	737534	|	
+crowned lemur	|	394965	|	
+Procolobus badius badius	|	941798	|	
+Galagonidae	|	786233	|	
+Callitrichidae	|	1015234	|	
+Chiropotes sagulatua	|	101531	|	
+Chiropotes sagulatus	|	101531	|	
+Bunopithecus hoolock	|	1029474	|	
+Cebus nigritus robustus Kuhl, 1820	|	886281	|	
+Papio hamadryas anubis	|	115449	|	
+Denisovans	|	933436	|	
+Homo sapiens ssp. 'Denisova'	|	933436	|	
+Nomascus leucogenys siki	|	995043	|	
+Mico rondoni	|	495388	|	
+red baboon	|	115463	|	
+Cercocebus torquatus atys	|	268349	|	
+small-eared galago	|	885705	|	
+Aotus nancymai	|	913299	|	
+Callicebus hoffmansi	|	442910	|	
+Aotus lemurinus zonalis Goldman, 1914	|	298340	|	
+Leontopithecus rosalia rosalia	|	921451	|	
+black howler monkey	|	791697	|	
+aye-aye	|	50727	|	
+Cercopithecus erythrogaster pococki Grubb, Lernould & Oates, 1999	|	4117757	|	
+Hainan gibbon	|	492226	|	
+brown-capped capuchin	|	197026	|	
+Taiwan macaque	|	1067495	|	
+Siamiri	|	842872	|	
+Hoffmanns's titi	|	442910	|	
+Burmese snub-nosed monkey	|	1072533	|	
+silver monkey	|	3607605	|	
+Procolobus badius kirkii	|	1013935	|	
+Leontopithecus rosalia chrysomelas	|	341890	|	
+lemurs	|	913933	|	
+South American squirrel monkey	|	842875	|	
+primate	|	913935	|	
+grizzled leaf monkey	|	68893	|	
+Cercocebus albigena	|	554556	|	
+fork-marked lemur	|	836057	|	
+Cercopithecus nictitans martini Waterhouse, 1838	|	4117758	|	
+mountain gorilla	|	351685	|	
+eastern mountain gorilla	|	624503	|	
+mongoose lemur	|	696004	|	
+Cercopithecus mitis erythrarchus	|	4117771	|	
+Cercopithecus aethiops	|	268337	|	
+Indridae	|	1058643	|	
+Lemur coronatus	|	394965	|	
+Van der Decken's Sifaka	|	729856	|	
+saddle-backed tamarin	|	1015238	|	
+Macaca siberu Fuentes & Olson, 1995	|	311720	|	
+Galagoides demidovii	|	653041	|	
+black tufted-ear marmoset	|	341908	|	
+Chlorocebus aethiops pygerythrus	|	571323	|	
+African green monkeys	|	268337	|	
+Trachypithecus margarita	|	597815	|	
+Cercopithecus pogonias pyrogaster	|	4117774	|	
+Macaca irus	|	689668	|	
+owl monkey	|	791711	|	
+Trachypithecus obscurus (Reid, 1837)	|	43798	|	
+Pongo pygmaeus abeli	|	770295	|	
+vervet monkey	|	268337	|	
+Primates Linnaeus, 1758	|	913935	|	
+black-cheeked white-nosed monkey	|	203184	|	
+brown capuchin	|	197026	|	
+Lophocebus albigena aterrimus	|	554550	|	
+Neanderthal	|	83926	|	
+Cercopithecus mitis kolbi	|	311701	|	
+Propithecus verreauxi deckeni	|	672751	|	
+Thollon's red Colobus	|	1013942	|	
+Central American spider monkey	|	791691	|	
+Mico argentata	|	1015228	|	
+golden angwantibo	|	673376	|	
+Cebuella pygmaea	|	489225	|	
+marmosets and tamarins	|	1015234	|	
+Presbytis comata fredericae (Sody, 1930)	|	1032604	|	
+Cercopithecus mitis heymansi Colyn & Verheyen, 1987	|	4117761	|	
+Saimiri oerstedii citrinellus Thomas, 1904	|	1021729	|	
+Cercopithecus mitis boutourlinii Gigliloli, 1887	|	4117762	|	
+fat-tailed dwarf lemur	|	863759	|	
+Aotus infulatus	|	210732	|	
+Eulemur fulvus rufus	|	22554	|	
+moustached monkey	|	268334	|	
+Ateles chamek	|	814889	|	
+YPM MAM 14080	|	1072609	|	
+diademed sifaka	|	979430	|	
+bonnet macaque	|	837392	|	
+YPM MAM 14192	|	1072609	|	
+YPM MAM 14191	|	1072609	|	
+YPM MAM 14189	|	1072609	|	
+Presbytis phayrei	|	703784	|	
+Papio hamadryas ursinus	|	203159	|	
+white-mantled tamarin	|	429033	|	
+Guinea baboon	|	513904	|	
+Cebus nigrivittatus	|	913293	|	
+Kinda baboon	|	436611	|	
+eastern lowland gorilla	|	317556	|	
+Presbytis leucocephalus	|	250658	|	
+black-handed tamarin	|	156859	|	
+toque monkey	|	115446	|	
+Thomas's langur	|	512437	|	
+Sarawak surili	|	471028	|	
+Procolobus badius tholloni	|	1013942	|	
+weeping capuchin	|	913293	|	
+silvery greater Galago	|	679564	|	
+Cheirogaleus medius E. Geoffroy, 1812	|	863759	|	
+Cercopithecus mitis albogularis	|	311705	|	
+Cebus nigritus (Goldfuss, 1809)	|	886278	|	
+weasel sportive lemur	|	388426	|	
+Cercopithecus mitis francescae	|	4117768	|	
+Lemur albifrons	|	259258	|	
+Microcebus marohita Rasoloarison, Weisrock, Yoder, Rakotondravony & Kappeler, 2013	|	4117712	|	
+Papio papio sensu Groves	|	513904	|	
+buffy-eared marmoset	|	341886	|	
+Thomas' bushbaby	|	202831	|	
+Alouatta macconelli	|	512634	|	
+Procolobus badius gordonorum	|	1013949	|	
+Francois's leaf monkey	|	43805	|	
+owl-faced monkey	|	268332	|	
+Otolemur garnetti	|	885705	|	
+lesser white-nosed monkey	|	949841	|	
+Procolobus badius temminckii	|	941793	|	
+pygmy chimpanzee	|	158484	|	
+Gabon talapoin	|	949834	|	
+Milne-Edwards sifaka	|	571030	|	
+Ateles paniscus chamek	|	814889	|	
+Red-fronted lemur	|	22554	|	
+Colobus guereza caudatu	|	24728	|	
+Callithrix cuprea	|	34118	|	
+Callicebus hoffmannsi Thomas, 1908	|	442910	|	
+Simia badius	|	640572	|	
+Procolobus verus (Van Beneden, 1838)	|	24731	|	
+Papio hamadryas (Linnaeus, 1758)	|	115463	|	
+golden bamboo lemur	|	671260	|	
+Simia hoolock Harlan, 1834	|	1029474	|	
+black-striped capuchin	|	748283	|	
+Bornean orangutan	|	770302	|	
+black snub-nosed monkey	|	77080	|	
+Cercopithecus talapoin	|	975092	|	
+cotton-top tamarin	|	489218	|	
+blonde capuchin	|	299416	|	
+Chiropotes satanas utahicki	|	571892	|	
+Microcebus sp. Ivorona/Manantantely	|	4117710	|	
+Sykes' monkey	|	311705	|	
+red-handed howler monkey	|	1058654	|	
+Bolivian red howler monkey	|	814670	|	
+Lepilemur mustellinus	|	388426	|	
+forest baboons	|	741055	|	
+Homo sp. Altai	|	933436	|	
+Cercopithecus kandti Matschie, 1905	|	3607604	|	
+Cercopithecus pogonias wolfi	|	375164	|	
+Lepilemur randrianasoli	|	848083	|	
+Macaca nemestrina pagensis	|	825636	|	
+Ceropithecus aethiops	|	268337	|	
+golden-rumped lion tamarin	|	566865	|	
+Crossley's dwarf lemur	|	418718	|	
+Orang-utan	|	770295	|	
+Orang-utan	|	770302	|	
+Trachypithecus leucocephalus	|	250658	|	
+sacred baboon	|	115463	|	
+Ateles geoffroyi Kuhl, 1820	|	791691	|	
+Goeldi's marmoset	|	489230	|	
+mantled guereza	|	565569	|	
+Lopocebus kipunji	|	665522	|	
+Nycticebus coucang javanicus	|	946857	|	
+Saguinus fuscicollis melanoleucus	|	429033	|	
+Hylobates muelleri Martin, 1841	|	995050	|	
+Jolly's mouse lemur	|	532147	|	
+Hose's langur	|	704364	|	
+Papio hamadryas cynocephalus	|	115471	|	
+Procolobus badius oustaleti	|	1013930	|	
+Tarsius wallacei Merker et al. 2010	|	234367	|	
+Procolobus badius	|	640572	|	
+Macaca ochreata (Ogilby, 1841)	|	575293	|	
+Zanzibar galago	|	552575	|	
+Hoolock hoolock hoolock	|	1029474	|	
+Humboldt's woolly monkey	|	297528	|	
+Presbytis johnii	|	514751	|	
+Callithrix melanura (E. Geoffroy, 1812)	|	1031373	|	
+liontail macaque	|	111864	|	
+Hylobates concolor gabriellae	|	847446	|	
+Ateles E. Geoffroy, 1806	|	791703	|	
+crested gibbon	|	180370	|	
+Presbytis chrysomelas (Mueller 1838)	|	471028	|	
+Bolivian squirrel monkey	|	326801	|	
+Bolivian squirrel monkey	|	977385	|	
+Mico emilia	|	488310	|	
+primates	|	913935	|	
+baboons	|	115460	|	
+Sangihe tarsier	|	49187	|	
+white-headed langur	|	250658	|	
+hooded leaf monkey	|	514751	|	
+Simias Miller, 1903	|	752305	|	
+red-crowned mangabey	|	268353	|	
+mitred leaf monkey	|	406006	|	
+Hylobates concolor leucogyneus	|	1029454	|	
+Papio Erxleben, 1777	|	115460	|	
+Hylobates concolor leucogenys	|	1029454	|	
+Saguinus martinsi (Thomas, 1912)	|	156862	|	
+Galago senegalensis moholi	|	311214	|	
+Pygathrix nemaeus nigripes	|	473243	|	
+Propithecus coronatus	|	729851	|	
+gray-cheeked mangabey	|	554556	|	
+black uakari	|	1022358	|	
+Red-bellied titi	|	842880	|	
+common woolly monkey	|	297528	|	
+coppery titi	|	34118	|	
+Cercopithecus albogularis francescae Thomas, 1902	|	4117768	|	
+Hylobates syndactylus syndactylus	|	1055751	|	
+yellow-breasted capuchin	|	331561	|	
+brow-ridged langurs	|	721473	|	
+Colobus verus	|	24731	|	
+black-capped capuchin	|	197026	|	
+Loris lydekkerianus nordicus	|	1049685	|	
+Nasalis concolor	|	621138	|	
+Presbytis thomasi (Collett 1893)	|	512437	|	
+Mirza coquerelli	|	16910	|	
+Aotus azarae boliviensis	|	56003	|	
+brown woolly monkey	|	297528	|	
+Old World monkeys	|	842868	|	
+highland gorilla	|	351685	|	
+Eastern red Colobus	|	1013945	|	
+Gray-headed lemur	|	975685	|	
+Cercopithecus petaurista buttikoferi	|	800090	|	
+Anthropoidea	|	386195	|	
+Cheirogaleus E. Geoffroy, 1812	|	388417	|	
+sifakas	|	311203	|	
+Sumatran orangutan	|	770295	|	
+monkeys	|	339033	|	
+monkeys	|	842868	|	
+black-bearded saki	|	842864	|	
+Propithecus deckenii coronatus Milne-Edwards, 1871	|	729851	|	
+white-fronted langur	|	704371	|	
+Black-shanked douc langur	|	473243	|	
+Callithrix jacchus geoffroyi	|	683989	|	
+Hylobates hoolock	|	1029474	|	
+African green monkey	|	268337	|	
+Presbytis potenziani potenziani (Bonaparte 1856)	|	455456	|	
+Hanuman langur	|	276589	|	
+Sanguinus oedipus	|	489218	|	
+Petterus	|	394968	|	
+Lepilemur randrianasoloi Andriaholinirina, Fausser, Roos, Rumpler et al. , 2006	|	848083	|	
+slender loris	|	152022	|	
+Tonkin snub-nosed monkey	|	514757	|	
+Mico humeralifer	|	683993	|	
+Saguinus fuscicollis (Spix, 1823)	|	1015238	|	
+Assam macaque	|	115440	|	
+silvery gibbon	|	732213	|	
+Colombian woolly monkey	|	57134	|	
+Hoolock leuconedys Groves, 1967	|	574262	|	
+Cercopithecus pygerythrus	|	571323	|	
+Saimiri boliviensis peruviensis Hershkovitz, 1984	|	390933	|	
+Cercopithecus erythrotis camerunensis Hayman, 1940	|	4117776	|	
+Callithrix kuhli	|	947308	|	
+saki monkeys	|	1058652	|	
+dwarf and mouse lemurs	|	885700	|	
+Lagothrix lagotricha lagotricha	|	297528	|	
+brown mouse lemur	|	148500	|	
+Cercopithecus albogularis labiatus I. Geoffroy, 1842	|	4117769	|	
+silvered leaf monkey	|	735418	|	
+Cercopithecus lomamiensis Hart et al. 2012	|	1072609	|	
+Presbytis obscura	|	43798	|	
+blond capuchin	|	299416	|	
+red-capped mangabey	|	268353	|	
+Presbytis cristata	|	735418	|	
+night monkey	|	791711	|	
+Propithecus deckeni deckeni	|	672751	|	
+Propithecus diadema perrieri	|	799550	|	
+Hylobates leucogenys	|	1029454	|	
+Javan langur	|	240209	|	
+Mueller's Borneo gibbon	|	995050	|	
+Procolobus rufomitratus tephrosceles	|	1013938	|	
+Cercopithecus albogularis kolbi Neumann, 1902	|	311701	|	
+black-tailed marmoset	|	1031373	|	
+brown titi	|	645175	|	
+banded leaf monkey	|	68891	|	
+Diana monkey	|	203187	|	
+Phaner pallescens Groves and Tattersall, 1991	|	3607528	|	
+black-and-red tamarin	|	1015216	|	
+Sambirano woolly lemur	|	132960	|	
+northern lesser bushbaby	|	863751	|	
+capuchin monkeys	|	217260	|	
+Hominidae Gray, 1825	|	770311	|	
+Red shanked douc langur	|	721486	|	
+siamang	|	417961	|	
+Cercopithecus albogularis erythrarchus Peters, 1852	|	4117771	|	
+Cheirogaleidae Gray, 1873	|	885700	|	
+Saguinus fuscicollis nigrifrons (I. Geoffroy, 1851)	|	285519	|	
+Lesser dwarf lemur	|	863759	|	
+Cercocebus agilis chrysogaster	|	554545	|	
+weeper capuchin monkey	|	913293	|	
+Brazilian Bare-faced tamarin	|	254273	|	
+patas monkey	|	268326	|	
+Eulemur albocollaris	|	671252	|	
+Lepilemur seali Louis et al., 2006	|	68773	|	
+Spix's night monkey	|	685855	|	
+Barbary macaque	|	689645	|	
+grey mouse lemur	|	311211	|	
+brown-bearded saki	|	842864	|	
+red-tailed sportive lemur	|	230531	|	
+Callithrix kuhlii Coimbra-Filho, 1985	|	947308	|	
+silvery woolly monkey	|	57313	|	
+red colobus	|	640572	|	
+Ateles geoffroyi robustus	|	142235	|	
+Pygathrix nemaeus cinerea	|	786	|	
+Indochinese langur	|	43805	|	
+Trachypithecus hatinhensis (Dao, 1970)	|	1038626	|	
+lemurine night monkey	|	897634	|	
+golden-crowned sifaka	|	311205	|	
+masked titi	|	546503	|	
+Silvery lutung	|	735418	|	
+Loridae	|	863755	|	
+Goeldi's monkey	|	489230	|	
+Gerp's mouse lemur	|	732719	|	
+Cercopithecus mitis monoides	|	4117767	|	
+Dian's tarsier	|	712758	|	
+Black-fronted titi	|	210741	|	
+long-haired spider monkey	|	791705	|	
+Black Colobus	|	189815	|	
+Saimiri peruviensis	|	390933	|	
+Mentawai macaque	|	825636	|	
+grivet	|	268337	|	
+Cercopithecus mitis opisthostictus Sclater, 1894	|	4117763	|	
+Shortridge's langur	|	514267	|	
+Nilgiri langur	|	514751	|	
+Macaca cynomolgus	|	689668	|	
+Aotus lemurinus (I. Geoffroy, 1843)	|	897634	|	
+sooty mangabey	|	268349	|	
+apes	|	386191	|	
+Rungwecebus Davenport 2006	|	665520	|	
+white-bellied spider monkey	|	791705	|	
+golden monkey	|	3607604	|	
+Phaner electromontis Groves and Tattersall, 1991	|	3607530	|	
+aye-ayes	|	915769	|	
+Kenya baboon	|	115449	|	
+Dusky titi	|	842880	|	
+Cercopithecus pogonias denti	|	198616	|	
+Roosmalens' dwarf marmoset	|	298261	|	
+White-cheeked Gibbon	|	1029454	|	
+Hylobates concolor siki	|	995043	|	
+Ateles geoffroyi frontatus (Gray, 1842)	|	90800	|	
+night monkeys	|	791708	|	
+rhesus macaque	|	689650	|	
+Lophocebus aterrimus (Oudemans, 1890)	|	554550	|	
+Silvery marmoset	|	1015228	|	
+white-footed sportive lemur	|	274698	|	
+hamadryas baboon	|	115463	|	
+Marcgrave's capuchin	|	299416	|	
+Phaner parienti Groves and Tattersall, 1991	|	3607529	|	
+sifaka	|	78157	|	
+Pan troglodytes elliotii	|	112831	|	
+Loris tardigradus malabaricus	|	673365	|	
+lowland gorilla	|	417953	|	
+Azara's night monkey	|	1058659	|	
+Cross River gorilla	|	835035	|	
+Pennant's red Colobus	|	437216	|	
+savanah monkey	|	268337	|	
+Procolobus badius (Kerr, 1792)	|	640572	|	
+moustached tamarin	|	1015219	|	
+Cercopithecus doggetti Pocock, 1907	|	3607605	|	
+Tattersall's sifaka	|	311205	|	
+Rungwecebus kipunji Jones et al. 2005	|	665522	|	
+Callithrix jacchus penicillata	|	341908	|	
+Bale Mountains vervet	|	875546	|	
+crab-eating macaque	|	689668	|	
+mandrill	|	741047	|	
+Myanmar snub-nosed monkey	|	1072533	|	
+Allen's swamp monkey	|	721471	|	
+Cercopithecus pogonias nigripes du Chaillu, 1860	|	4117754	|	
+Cercopithecus mitis kandti	|	3607604	|	
+Lagothrix E. Geoffroy, 1812	|	217262	|	
+Philippine tarsier	|	339031	|	
+Microcebus sp. Marolambo	|	4117712	|	
+Yellow baboon	|	115471	|	
+baboon	|	115449	|	
+baboon	|	115471	|	
+baboon	|	203159	|	
+baboon	|	115463	|	
+baboon	|	513904	|	
+Trachypithecus francoisi leucocephalus	|	278062	|	
