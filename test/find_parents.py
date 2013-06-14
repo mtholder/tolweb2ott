@@ -21,12 +21,6 @@ for n_element in root.findall('.//NODE'):
             #print '\t', oname
         xml_dict[n_id] = [n_id, n_par, name, oname]
 
-#
-# for on_element in root.findall('.//OTHERNAME'):
-#     oname_el = on_element.find('./NAME')
-#     oname = oname_el.text
-#     if oname is not None:
-#         print oname
 print xml_dict
 
 '''
