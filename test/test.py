@@ -28,6 +28,8 @@ def get_otolnames():
         syn = (line.split('\t|\t'))
         syn_names.append(syn[0])
 print list
+
+
 def find_missing():
     for taxon in cdata:
         if taxon == None:

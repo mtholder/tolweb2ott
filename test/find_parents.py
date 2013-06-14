@@ -6,6 +6,7 @@ tx_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
 xml = ET.parse('primates_tolweb.xml')
 root = xml.getroot()
+
 print root
 
 def find_parents():
