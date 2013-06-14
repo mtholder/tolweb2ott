@@ -7,16 +7,19 @@ import re
 import xml.etree.ElementTree as ET
 
 #functions
-def get_cdata():
-    #for some reason I can't get: if cdata = None or 'None': pass
-    # to work. It still adds it to cdata so i took it out
-    for NODES in root.iter():
-        t, a = str(NODES.tag), str(NODES.text)
-        p = ('..')
-        print p
-        #print a, '\t', t
-        if t == 'NAME' and a != 'None':
-            cdata.append(a)
+def populate_xml_dict():
+    for n_element in root.findall('.//NODE'):
+        n_id, n_par = n_element.attrib['ID'], n_element.attrib['ANCESTORWITHPAGE']
+        name_el = n_element.find('./NAME')
+        name = name_el.text
+        oname = None
+        if name is not None:
+            #print n_id, n_par, name
+            for on_element in n_element.findall('OTHERNAMES'):
+                oname_el = n_element.find('.//OTHERNAME/NAME')
+                oname = oname_el.text
+                #print '\t', oname
+        xml_dict[n_id] = [n_id, n_par, name, oname]
 
 
 def get_otolnames():
@@ -27,11 +30,9 @@ def get_otolnames():
     for line in syn_file:
         syn = (line.split('\t|\t'))
         syn_names.append(syn[0])
-print list
-
 
 def find_missing():
-    for taxon in cdata:
+    for node in xml_dict:
         if taxon == None:
             pass
         elif taxon in syn_names:
@@ -53,17 +54,15 @@ xml = ET.parse('primates_tolweb.xml')
 root = xml.getroot()
 #print root
 #print root.tag
-cdata = []
+xml_dict = []
 tx_names = []
 syn_names = []
 missing = []
-on=[]
 #let's go
-get_cdata()
-cdata.sort()
-#get_otolnames()
-#find_missing()
 
+get_otolnames()
+populate_xmldict()
+find_missing()
 
 print cdata
 print on
