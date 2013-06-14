@@ -7,9 +7,19 @@ syn_file = open('primates_synonyms.txt')
 xml = ET.parse('primates_tolweb.xml')
 root = xml.getroot()
 
+for n_element in root.findall('.//NODE'):
+    n_id = n_element.attrib['ID']
+    name_el = n_element.find('./NAME')
+    name = name_el.text
+    if name is not None:
+        print n_id, name
+
+'''
 print root
 
 def find_parents():
+
+
     for child in root.iter():
         n = str(child.text)
         a = str(child.attrib)
@@ -24,3 +34,4 @@ def find_parents():
 list = []
 find_parents()
 print list
+'''
