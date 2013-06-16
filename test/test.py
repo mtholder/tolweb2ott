@@ -3,11 +3,10 @@
 #RMJ
 
 #modules
-import re
 import xml.etree.ElementTree as ET
 
 #functions
-def populate_xml_dict():
+def populate_xmldict():
     for n_element in root.findall('.//NODE'):
         n_id, n_par = n_element.attrib['ID'], n_element.attrib['ANCESTORWITHPAGE']
         name_el = n_element.find('./NAME')
@@ -21,63 +20,54 @@ def populate_xml_dict():
                 #print '\t', oname
         xml_dict[n_id] = [n_id, n_par, name, oname]
 
-
-def get_otolnames():
+def populate_otoldict():
     for line in tx_file:
         taxon = (line.split('\t|\t'))
+        list = taxon[0:3]
+        list.append(None)
         if taxon[2] != 'name':
-            tx_names.append(taxon[2])
+            otol_dict[taxon[0]] = list
+        #now let's look for synonyms to populate list[3] with
     for line in syn_file:
-        syn = (line.split('\t|\t'))
-        syn_names.append(syn[0])
+        syn = line.split('\t|\t')
+        s, id = syn[0], syn[1]
+        if id in otol_dict:
+            otol_dict[id][3] = s
 
+def compare_dict():
+    for okey in xml_dict.iteritems():
+        list = []
+        for key in otol_dict.iteritems():
+            if okey[1][2] == key[1][2]:
+                #print okey[1][2]
+                pass
+#         for line in syn_file:
+#         syn = (line.split('\t|\t'))
+#         syn_names.append(taxon[0:3])
+#
 def find_missing():
-    for node in xml_dict:
-        if taxon == None:
-            pass
-        elif taxon in syn_names:
-            pass
-        elif taxon not in tx_names:
-            missing.append(taxon) # if taxon not in tx_names:
-
-
+    for id in xml_dict:
+        pass
+        #
 
 
 #init
 tx_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
 xml = ET.parse('primates_tolweb.xml')
-
-# <node><name>
-#
-#
 root = xml.getroot()
-#print root
-#print root.tag
-xml_dict = []
-tx_names = []
-syn_names = []
-missing = []
+xml_dict = {}
+otol_dict = {}
+matches_dict = {}
+
 #let's go
-
-get_otolnames()
+populate_otoldict()
 populate_xmldict()
-find_missing()
-
-print cdata
-print on
-
-#print tx_names[:10], 'twnames \n\n\n'
-#print cdata[:10], 'tw data\n\n\n'
-#print syn_names[:10], 'syn names'
+compare_dict()
+#print xml_dict
+#print xml_dict
+#print otol_dict
 
 #cleanup
 tx_file.close()
 syn_file.close()
-
-#print xml.findtext('OTHERNAMES')
-#I want to pull out all the cdata and then depending on the parent (nodes or othernames) sort it into different lists
-#First i'll look for mismatches within cdata and the taxonomy then synonyms file
-#If it's not in there, check missing list with the othernames (csv) and see if it might be there
-#Print missing
-#This is faster than going 'for every row in xml file' instead of parsing it right?
