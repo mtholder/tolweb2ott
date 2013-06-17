@@ -24,38 +24,33 @@ def populate_otoldict():
     for line in tx_file:
         taxon = (line.split('\t|\t'))
         list = taxon[0:3]
-        list.append(None)
         if taxon[2] != 'name':
             otol_dict[taxon[0]] = list
-        #now let's look for synonyms to populate list[3] with
+    #now let's look for synonyms to populate list[3] with
     for line in syn_file:
         syn = line.split('\t|\t')
         s, id = syn[0], syn[1]
-        if id in otol_dict:
-            otol_dict[id][3] = s
 
-def compare_dict():
+def combine_dict():
     for xkey in xml_dict.iteritems():
         for okey in otol_dict.iteritems():
             if okey[1][2] == xkey[1][2]:
+                ok = okey
+                oname = okey[1][2]
+                print type(oname), 'oname type'
+                olist = okey[1]
+                print oname
+                print olist, 'olist'
+                xlist = xkey[1]
+                print xlist, 'xlist'
+                xlist1 = xlist[:2]
+                newxlist = xlist1.append(xlist[3])
+                print xlist1, 'new xlist\n\n'
+                matches_dict[oname] = olist + xlist1
 
-                #these are backward: okey prints as the tolweb
-                #there's something wrong with my loop?
-                ok = str(okey[:2])
-                xk = str(xkey[0])
-
-#                 print ok, 'okey'
-#                 print xk, 'xkey'
-#                 #print okey[1][2]
-#                 print xkey, 'xkey\n\n'
-                matches_dict[ok] = xkey
-#         for line in syn_file:
-#         syn = (line.split('\t|\t'))
-#         syn_names.append(taxon[0:3])
-#
 def find_missing():
-        pass
-        #
+    pass
+
 
 
 #init
@@ -66,16 +61,19 @@ root = xml.getroot()
 xml_dict = {}
 otol_dict = {}
 matches_dict = {}
+nomatch_dict = {}
 
 #let's go
 populate_otoldict()
 populate_xmldict()
-compare_dict()
+combine_dict()
+
 #print xml_dict
 #print xml_dict
 #print otol_dict
-for key in matches_dict.iteritems():
-    print key, '\n\n'
+# for key in matches_dict.iteritems():
+#     print key, '\n'
+
 #cleanup
 tx_file.close()
 syn_file.close()
