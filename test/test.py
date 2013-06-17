@@ -35,18 +35,25 @@ def populate_otoldict():
             otol_dict[id][3] = s
 
 def compare_dict():
-    for okey in xml_dict.iteritems():
-        list = []
-        for key in otol_dict.iteritems():
-            if okey[1][2] == key[1][2]:
-                #print okey[1][2]
-                pass
+    for xkey in xml_dict.iteritems():
+        for okey in otol_dict.iteritems():
+            if okey[1][2] == xkey[1][2]:
+
+                #these are backward: okey prints as the tolweb
+                #there's something wrong with my loop?
+                ok = str(okey[:2])
+                xk = str(xkey[0])
+
+#                 print ok, 'okey'
+#                 print xk, 'xkey'
+#                 #print okey[1][2]
+#                 print xkey, 'xkey\n\n'
+                matches_dict[ok] = xkey
 #         for line in syn_file:
 #         syn = (line.split('\t|\t'))
 #         syn_names.append(taxon[0:3])
 #
 def find_missing():
-    for id in xml_dict:
         pass
         #
 
@@ -67,7 +74,8 @@ compare_dict()
 #print xml_dict
 #print xml_dict
 #print otol_dict
-
+for key in matches_dict.iteritems():
+    print key, '\n\n'
 #cleanup
 tx_file.close()
 syn_file.close()
