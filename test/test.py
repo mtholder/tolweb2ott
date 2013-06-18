@@ -76,6 +76,8 @@ def find_missing():
 #        for tskey in xml_syn_dict.iteritems():
 
 
+
+
 #init
 tax_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
@@ -97,8 +99,8 @@ populate_taxdicts()
 populate_xmldicts()
 combine_dicts()
 find_missing()
-#print syn_dict
-#print xml_dict
+#rint syn_dict
+#print matches_dict
 #print xml_dict
 
 #cleanup
