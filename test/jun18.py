@@ -53,6 +53,9 @@ def populate_dicts():
     print len(mismatches)
     print m, '/', t
 
+for name in mismatches:
+    print name
+
 
 #init
 tax_file = open('primates_taxonomy.txt')
