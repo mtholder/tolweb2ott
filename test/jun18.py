@@ -38,23 +38,26 @@ def populate_dicts():
             #print tax_by_id[n_id]
 
     for key in xml_by_name.iteritems():#
-#        print key
         name = key[0]
         t += 1
         if name in tax_by_name:
-            #print name
-            match_by_name[name] =  tax_by_name[name] + xml_by_name[name][0:]
-            #print match_by_name[name]
+            match_by_name[name] =  tax_by_name[name] + xml_by_name[name][1:]
             m += 1
+            #print match_by_name[name]
         else:
-            mismatches.append(xml_by_name[name])
+            mismatches[name] = (xml_by_name[name])
+            #print mismatches[name]
+
+    for key in tax_by_id.iteritems():
+        new = key[0]
+        name = key[1][0]
+        if name in match_by_name:
             print name
-    #print mismatches
+            match_by_name[name] = match_by_name[name] + tax_by_id[new][3:]
+            print match_by_name[name]
     print len(mismatches)
     print m, '/', t
 
-for name in mismatches:
-    print name
 
 
 #init
@@ -71,7 +74,7 @@ tax_by_id = {}
 xml_by_name = {}
 xml_by_id = {}
 match_by_name = {}
-mismatches = []
+mismatches = {}
 
 populate_dicts()
 
