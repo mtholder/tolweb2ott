@@ -54,7 +54,7 @@ def populate_dicts():
         if name in match_by_name:
             print name
             match_by_name[name] = match_by_name[name] + tax_by_id[new][3:]
-            print match_by_name[name]
+            print match_by_name[name], '\n'
     print len(mismatches)
     print m, '/', t
 
