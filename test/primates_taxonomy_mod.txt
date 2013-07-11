@@ -1386,6 +1386,6 @@ uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	uniqname	|
 3608032	|	3607911	|	Samburupithecus kiptalami	|	species	|	gbif:4974720	|		|
 3607909	|	913935	|	Oligopithecidae	|	family	|	gbif:4827179	|		|
 3607908	|	3607909	|	Catopithecus	|	genus	|	gbif:4827181	|		|
-3607907	|	3607908	|	Catopithecus 	|	species	|	gbif:4974678	|		|
+3607907	|	3607908	|	Catopithecus	|	species	|	gbif:4974678	|		|
 3608015	|	3607909	|	Oligopithecus	|	genus	|	gbif:4827180	|		|
 3608045	|	3607909	|	Talahpithecus	|	genus	|	gbif:4827182	|		|

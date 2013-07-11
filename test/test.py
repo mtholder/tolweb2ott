@@ -45,7 +45,6 @@ def populate_taxdicts():
         taxon = data[:3]
         name = taxon[2]
         if name != 'name':
-            print name
             if name in tnl:
                 i = tnl.index(name)
                 tnl[i] = [tnl[i], name]
