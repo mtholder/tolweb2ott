@@ -19,6 +19,8 @@ def populate_dicts():
                 oname_el = n_element.find('.//OTHERNAME/NAME')
                 otext = oname_el.text
                 #print '\t', otext
+        # if name in xml_by_name:
+
         xml_by_name[name] = [name, n_id, n_par, otext]
         xml_by_id[n_id] = [name, n_id, n_par, otext]
 
@@ -58,14 +60,13 @@ def populate_dicts():
         name = key[1][0]
         if name in match_by_name:
             match_by_name[name] = match_by_name[name] + tax_by_id[new][3:]
-
+            #print match_by_name[name]
         elif name in xml_by_syn:
-            print tax_by_id[new]
-            print type(tax_by_id[new]), 'hihihihih'
             temp = list(xml_by_syn[name])
-            print type(temp)
-            match_by_name[name] = tax_by_id[new] + temp
-
+            print temp
+            print tax_by_id[new]
+            match_by_name[name] = tax_by_id[new]
+            #print match_by_name[name]
 
 
     print len(mismatches)
