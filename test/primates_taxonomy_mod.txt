@@ -1,0 +1,1391 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	uniqname	|
+913935	|		|	Primates	|	order	|	ncbi:9443,gbif:798	|		|
+702147	|	913935	|	Strepsirrhini	|	suborder	|	ncbi:376911	|		|
+368560	|	702147	|	Palaeopropithecus	|	genus	|	ncbi:322024	|		|
+368559	|	368560	|	Palaeopropithecus sp. UA4466	|	species	|	ncbi:322025	|		|
+368561	|	368560	|	Palaeopropithecus sp. KPK-2005	|	species	|	ncbi:322027	|		|
+368562	|	368560	|	Palaeopropithecus sp. UA6184	|	species	|	ncbi:322026	|		|
+702142	|	702147	|	Lemuriformes	|	infraorder	|	ncbi:376915	|		|
+885700	|	702142	|	Cheirogaleidae	|	family	|	ncbi:30615,gbif:9419	|		|
+323054	|	885700	|	Phaner	|	genus	|	ncbi:261733,gbif:2436442	|		|
+3607528	|	323054	|	Phaner pallescens	|	species	|	ncbi:568393,gbif:4266965	|		|
+3607530	|	323054	|	Phaner electromontis	|	species	|	ncbi:1313324,gbif:4266967	|		|
+836057	|	323054	|	Phaner furcifer	|	species	|	ncbi:261734,gbif:2436443	|		|
+3607529	|	323054	|	Phaner parienti	|	species	|	ncbi:1313325,gbif:4266966	|		|
+388417	|	885700	|	Cheirogaleus	|	genus	|	ncbi:9459,gbif:2436450	|		|
+311696	|	388417	|	Cheirogaleus minusculus	|	species	|	ncbi:867375,gbif:4266972	|		|
+418718	|	388417	|	Cheirogaleus crossleyi	|	species	|	ncbi:291259,gbif:4266968	|		|
+589601	|	388417	|	Cheirogaleus major	|	species	|	ncbi:47177,gbif:2436452	|		|
+682744	|	388417	|	Cheirogaleus sibreei	|	species	|	ncbi:752538,gbif:4266969	|		|
+863759	|	388417	|	Cheirogaleus medius	|	species	|	ncbi:9460,gbif:2436451	|		|
+3607524	|	388417	|	Cheirogaleus ravus	|	species	|	gbif:4266971	|		|
+3607523	|	388417	|	Cheirogaleus adipicaudatus	|	species	|	gbif:4266970	|		|
+516001	|	885700	|	Allocebus	|	genus	|	ncbi:122247,gbif:2436444	|		|
+516007	|	516001	|	Allocebus trichotis	|	species	|	ncbi:122248,gbif:2436445	|		|
+734824	|	885700	|	Microcebus	|	genus	|	ncbi:13149,gbif:2436446	|		|
+5146	|	734824	|	Microcebus margotmarshae	|	species	|	ncbi:864581	|		|
+5149	|	734824	|	Microcebus arnholdi	|	species	|	ncbi:864580	|		|
+20534	|	734824	|	Microcebus macarthurii	|	species	|	ncbi:548481	|		|
+67369	|	734824	|	Microcebus myoxinus	|	species	|	ncbi:143283,gbif:4266979	|		|
+133625	|	734824	|	Microcebus simmonsi	|	species	|	ncbi:236272,gbif:5786016	|		|
+143211	|	734824	|	Microcebus sp. EELHDZ VEV33	|	species	|	ncbi:270674	|		|
+143212	|	734824	|	Microcebus sp. EELHDZ VEV35	|	species	|	ncbi:270675	|		|
+148500	|	734824	|	Microcebus rufus	|	species	|	ncbi:122232,gbif:2436448	|		|
+148505	|	734824	|	Microcebus ravelobensis	|	species	|	ncbi:122231,gbif:4266976	|		|
+4117710	|	734824	|	Microcebus tanosi	|	species	|	ncbi:1310123	|		|
+4117711	|	734824	|	Microcebus sp. d'Ambre	|	species	|	ncbi:1310125	|		|
+311211	|	734824	|	Microcebus murinus	|	species	|	ncbi:30608,gbif:2436447	|		|
+4117712	|	734824	|	Microcebus marohita	|	species	|	ncbi:1310124	|		|
+376519	|	734824	|	Microcebus sp. DWW-2010a	|	species	|	ncbi:764313	|		|
+387144	|	734824	|	Microcebus mittermeieri	|	species	|	ncbi:236274,gbif:5786011	|		|
+415576	|	734824	|	Microcebus lehilahytsara	|	species	|	ncbi:343908,gbif:5786008	|		|
+481550	|	734824	|	Microcebus danfossi	|	species	|	ncbi:412751	|		|
+481551	|	734824	|	Microcebus bongolavensis	|	species	|	ncbi:412750,gbif:5786012	|		|
+481552	|	734824	|	Microcebus lokobensis	|	species	|	ncbi:412752	|		|
+481553	|	734824	|	Microcebus sp. Bora	|	species	|	ncbi:412759	|		|
+481554	|	734824	|	Microcebus sp. Ambongabe	|	species	|	ncbi:412758	|		|
+532147	|	734824	|	Microcebus jollyae	|	species	|	ncbi:236275,gbif:5786013	|		|
+560998	|	734824	|	Microcebus mamiratra	|	species	|	ncbi:415757,gbif:5786014	|		|
+652357	|	734824	|	Microcebus sp. EELHDZ TAD23	|	species	|	ncbi:270540	|		|
+732719	|	734824	|	Microcebus gerpi	|	species	|	ncbi:1131379	|		|
+765339	|	734824	|	Microcebus griseorufus	|	species	|	ncbi:143354,gbif:4266977	|		|
+765352	|	734824	|	Microcebus tavaratra	|	species	|	ncbi:143351,gbif:4266975	|		|
+765353	|	734824	|	Microcebus berthae	|	species	|	ncbi:143352,gbif:4266980	|		|
+765356	|	734824	|	Microcebus sambiranensis	|	species	|	ncbi:143353,gbif:4266978	|		|
+923766	|	734824	|	Microcebus sp. Anjiahely	|	species	|	ncbi:548482	|		|
+1007771	|	734824	|	Microcebus sp. Mahajamba-Est	|	species	|	ncbi:412760	|		|
+1007772	|	734824	|	Microcebus sp. Maroakata	|	species	|	ncbi:412761	|		|
+1023955	|	734824	|	Microcebus sp. EELHDZ M98	|	species	|	ncbi:270538	|		|
+1026678	|	734824	|	Microcebus sp. ANT5.1	|	species	|	ncbi:388736	|		|
+3607527	|	734824	|	Microcebus danfossorum	|	species	|	gbif:5786009	|		|
+3607525	|	734824	|	Microcebus myonixus	|	species	|	gbif:4827345	|		|
+947510	|	885700	|	Mirza	|	genus	|	ncbi:83691,gbif:4266973	|		|
+16910	|	947510	|	Mirza coquereli	|	species	|	ncbi:47180,gbif:4266974	|		|
+480562	|	947510	|	Mirza sp. 001y03	|	species	|	ncbi:415977	|		|
+534565	|	947510	|	Mirza zaza	|	species	|	ncbi:339999,gbif:5786007	|		|
+3607531	|	885700	|	Cobugale	|	genus	|	gbif:4827357	|		|
+3607535	|	885700	|	Fendantia	|	genus	|	gbif:4827348	|		|
+4117713	|	885700	|	Bugtilemur	|	genus	|	gbif:4827339	|		|
+4117714	|	4117713	|	Bugtilemur mathesoni	|	species	|	gbif:4974648	|		|
+3607532	|	885700	|	Cebogale	|	genus	|	gbif:4827347	|		|
+3607534	|	885700	|	Glicebus	|	genus	|	gbif:4827340	|		|
+3607533	|	885700	|	Chasselasia	|	genus	|	gbif:4827358	|		|
+885703	|	702142	|	Lepilemuridae	|	family	|	ncbi:30614,gbif:4266927	|		|
+388425	|	885703	|	Lepilemur	|	genus	|	ncbi:9452,gbif:2436489	|		|
+3428	|	388425	|	Lepilemur jamesi	|	species	|	ncbi:486960	|		|
+28534	|	388425	|	Lepilemur otto	|	species	|	ncbi:458173,gbif:5786421	|		|
+28538	|	388425	|	Lepilemur manasamody	|	species	|	ncbi:458171	|		|
+68773	|	388425	|	Lepilemur seali	|	species	|	ncbi:236288,gbif:5786423	|		|
+68775	|	388425	|	Lepilemur mitsinjoensis	|	species	|	ncbi:236287	|		|
+112838	|	388425	|	Lepilemur hubbardorum	|	species	|	ncbi:756882,gbif:5786427	|		|
+148503	|	388425	|	Lepilemur edwardsi	|	species	|	ncbi:122230,gbif:2436494	|		|
+230531	|	388425	|	Lepilemur ruficaudatus	|	species	|	ncbi:78866,gbif:2436490	|		|
+231273	|	388425	|	Lepilemur septentrionalis	|	species	|	ncbi:78584,gbif:2436492	|		|
+231275	|	388425	|	Lepilemur dorsalis	|	species	|	ncbi:78583,gbif:2436496	|		|
+274698	|	388425	|	Lepilemur leucopus	|	species	|	ncbi:100475,gbif:2436491	|		|
+372112	|	388425	|	Lepilemur sp. RANO234	|	species	|	ncbi:185590	|		|
+372113	|	388425	|	Lepilemur sp. RANO235	|	species	|	ncbi:185591	|		|
+388426	|	388425	|	Lepilemur mustelinus	|	species	|	ncbi:9453,gbif:2436493	|		|
+414211	|	388425	|	Lepilemur ankaranensis	|	species	|	ncbi:342401,gbif:4266928	|		|
+441927	|	388425	|	Lepilemur mittermeieri	|	species	|	ncbi:378517,gbif:5786435	|		|
+731490	|	388425	|	Lepilemur sp. hubbardi	|	species	|	ncbi:400023	|		|
+757736	|	388425	|	Lepilemur aeeclis	|	species	|	ncbi:342399,gbif:5786432	|		|
+757737	|	388425	|	Lepilemur sahamalazensis	|	species	|	ncbi:342398,gbif:5786436	|		|
+848083	|	388425	|	Lepilemur randrianasoloi	|	species	|	ncbi:886965,gbif:5786425	|		|
+3607512	|	388425	|	Lepilemur petteri	|	species	|	ncbi:886964,gbif:5786422	|		|
+1094522	|	388425	|	Lepilemur microdon	|	species	|	ncbi:185457,gbif:2436495	|		|
+1094525	|	388425	|	Lepilemur sp. RANO236	|	species	|	ncbi:185458	|		|
+3607511	|	388425	|	Lepilemur betsileo	|	species	|	gbif:5786424	|		|
+3607513	|	388425	|	Lepilemur fleuretae	|	species	|	gbif:5786429	|		|
+3607519	|	388425	|	Lepilemur jamesorum	|	species	|	gbif:5786437	|		|
+3607515	|	388425	|	Lepilemur wrightae	|	species	|	gbif:5786430	|		|
+3607517	|	388425	|	Lepilemur tymerlachsonorum	|	species	|	gbif:5786433	|		|
+3607518	|	388425	|	Lepilemur milanoii	|	species	|	gbif:5786439	|		|
+3607516	|	388425	|	Lepilemur grewcockorum	|	species	|	gbif:5786418	|		|
+3607514	|	388425	|	Lepilemur ahmansonorum	|	species	|	gbif:5786416	|		|
+663303	|	885703	|	Megaladapis	|	genus	|	ncbi:126593,gbif:4827197	|		|
+15340	|	663303	|	Megaladapis sp. UA4823	|	species	|	ncbi:322021	|		|
+368564	|	663303	|	Megaladapis sp. UA5482	|	species	|	ncbi:322020	|		|
+368565	|	663303	|	Megaladapis sp. UA4822	|	species	|	ncbi:322023	|		|
+368566	|	663303	|	Megaladapis sp. UA4821	|	species	|	ncbi:322022	|		|
+469451	|	663303	|	Megaladapis edwardsi	|	species	|	ncbi:185953,gbif:4827198	|		|
+663324	|	663303	|	Megaladapis sp.	|	species	|	ncbi:126594	|		|
+3607522	|	663303	|	Megaladapis madagascariensis	|	species	|	gbif:4827200	|		|
+3607520	|	663303	|	Megaladapis insignis	|	species	|	gbif:4827201	|		|
+3607521	|	663303	|	Megaladapis grandidieri	|	species	|	gbif:4827199	|		|
+3608029	|	885703	|	Myxocebus	|	genus	|	gbif:4827104	|		|
+913933	|	702142	|	Lemuridae	|	family	|	ncbi:9445,gbif:5485	|		|
+388419	|	913933	|	Varecia	|	genus	|	ncbi:9454,gbif:2436423	|		|
+388420	|	388419	|	Varecia variegata	|	species	|	ncbi:9455,gbif:2436424	|		|
+114058	|	388420	|	Varecia variegata variegata	|	subspecies	|	ncbi:87289	|		|
+462792	|	388419	|	Varecia rubra	|	species	|	ncbi:554167,gbif:4266945	|		|
+394968	|	913933	|	Eulemur	|	genus	|	ncbi:13513,gbif:2436417	|		|
+22554	|	394968	|	Eulemur rufus	|	species	|	ncbi:859983,gbif:4266934	|		|
+259258	|	394968	|	Eulemur albifrons	|	species	|	ncbi:1215604,gbif:4266935	|		|
+394961	|	394968	|	Eulemur fulvus	|	species	|	ncbi:13515,gbif:2436419	|		|
+433500	|	394961	|	Eulemur fulvus 	|	subspecies	|	ncbi:40322	|		|
+451262	|	394961	|	Eulemur fulvus mayottensis	|	subspecies	|	ncbi:27680	|		|
+589604	|	394961	|	Eulemur fulvus collaris	|	subspecies	|	ncbi:47178,gbif:4266936	|		|
+671251	|	394961	|	Eulemur fulvus sanfordi	|	subspecies	|	ncbi:122225	|		|
+671252	|	394961	|	Eulemur fulvus albocollaris	|	subspecies	|	ncbi:122224,gbif:4266930	|		|
+394965	|	394968	|	Eulemur coronatus	|	species	|	ncbi:13514,gbif:2436422	|		|
+696004	|	394968	|	Eulemur mongoz	|	species	|	ncbi:34828,gbif:2436418	|		|
+696007	|	394968	|	Eulemur rubriventer	|	species	|	ncbi:34829,gbif:2436421	|		|
+763521	|	394968	|	Eulemur macaco	|	species	|	ncbi:30602,gbif:2436420	|		|
+114057	|	763521	|	Eulemur macaco flavifrons	|	subspecies	|	ncbi:87288	|		|
+763525	|	763521	|	Eulemur macaco macaco	|	subspecies	|	ncbi:30603	|		|
+975685	|	394968	|	Eulemur cinereiceps	|	species	|	ncbi:639525,gbif:4266932	|		|
+3607538	|	394968	|	Eulemur sanfordi	|	species	|	gbif:4266929	|		|
+3607541	|	394968	|	Eulemur rufifrons	|	species	|	gbif:5786413	|		|
+789636	|	913933	|	Hapalemur	|	genus	|	ncbi:13556,gbif:2436413	|		|
+311692	|	789636	|	Hapalemur occidentalis	|	species	|	ncbi:867377,gbif:4266942	|		|
+671258	|	789636	|	Hapalemur simus	|	species	|	ncbi:122223,gbif:2436416	|		|
+671260	|	789636	|	Hapalemur aureus	|	species	|	ncbi:122222,gbif:2436415	|		|
+789630	|	789636	|	Hapalemur griseus	|	species	|	ncbi:13557,gbif:2436414	|		|
+97009	|	789630	|	Hapalemur griseus griseus	|	subspecies	|	ncbi:122219	|		|
+372120	|	789630	|	Hapalemur griseus JF2002	|	no rank	|	ncbi:185596	|		|
+671256	|	789630	|	Hapalemur griseus occidentalis	|	subspecies	|	ncbi:122221	|		|
+671257	|	789630	|	Hapalemur griseus alaotrensis	|	subspecies	|	ncbi:122220	|		|
+1094523	|	789630	|	Hapalemur griseus meridionalis	|	subspecies	|	ncbi:185456	|		|
+3607544	|	789636	|	Hapalemur meridionalis	|	species	|	gbif:5786406	|		|
+3607543	|	789636	|	Prolemur simus	|	species	|	gbif:4266938	|		|
+3607542	|	789636	|	Hapalemur alaotrensis	|	species	|	gbif:4266941	|		|
+913932	|	913933	|	Lemur	|	genus	|	ncbi:9446,gbif:2436411	|		|
+442786	|	913932	|	Lemur sp.	|	species	|	ncbi:69491	|		|
+913930	|	913932	|	Lemur catta	|	species	|	ncbi:9447,gbif:2436412	|		|
+3607537	|	913932	|	Lemur volans	|	species	|	gbif:4974647	|		|
+3607536	|	913932	|	Lemur tardigradus	|	species	|	gbif:4974646	|		|
+1058643	|	702142	|	Indriidae	|	family	|	ncbi:30599,gbif:4827490	|		|
+311203	|	1058643	|	Propithecus	|	genus	|	ncbi:30600,gbif:2436427	|		|
+78157	|	311203	|	Propithecus sp.	|	species	|	ncbi:39582	|		|
+311205	|	311203	|	Propithecus tattersalli	|	species	|	ncbi:30601,gbif:5219528	|		|
+402626	|	311203	|	Propithecus coquereli	|	species	|	ncbi:379532,gbif:5707433	|		|
+571030	|	311203	|	Propithecus edwardsi	|	species	|	ncbi:543559,gbif:5707429	|		|
+696018	|	311203	|	Propithecus verreauxi	|	species	|	ncbi:34825,gbif:5219530	|		|
+729086	|	696018	|	Propithecus verreauxi verreauxi	|	subspecies	|	ncbi:122229	|		|
+729856	|	311203	|	Propithecus deckenii	|	species	|	ncbi:475618,gbif:6623768	|		|
+672751	|	729856	|	Propithecus deckenii deckenii	|	subspecies	|	ncbi:481705	|		|
+729851	|	729856	|	Propithecus deckenii coronatus	|	subspecies	|	ncbi:475619,gbif:5786024	|		|
+799550	|	311203	|	Propithecus perrieri	|	species	|	ncbi:989338,gbif:5707425	|		|
+979430	|	311203	|	Propithecus diadema	|	species	|	ncbi:83281,gbif:5219529	|		|
+847344	|	979430	|	Propithecus diadema diadema	|	subspecies	|	ncbi:171945	|		|
+847345	|	979430	|	Propithecus diadema marshi	|	subspecies	|	ncbi:171947	|		|
+1046413	|	311203	|	Propithecus candidus	|	species	|	ncbi:543560,gbif:5786030	|		|
+370487	|	1058643	|	Hadropithecus	|	genus	|	ncbi:523824	|		|
+370488	|	370487	|	Hadropithecus stenognathus	|	species	|	ncbi:523825	|		|
+370491	|	1058643	|	Archaeolemur	|	genus	|	ncbi:523820	|		|
+370492	|	370491	|	Archaeolemur majori	|	species	|	ncbi:523821	|		|
+370493	|	370491	|	Archaeolemur edwardsi	|	species	|	ncbi:523822	|		|
+516004	|	1058643	|	Avahi	|	genus	|	ncbi:122245,gbif:2436425	|		|
+132960	|	516004	|	Avahi unicolor	|	species	|	ncbi:402239,gbif:4267337	|		|
+3607508	|	516004	|	Avahi peyrierasi	|	species	|	ncbi:1313323,gbif:5786031	|		|
+516002	|	516004	|	Avahi laniger	|	species	|	ncbi:122246,gbif:2436426	|		|
+563621	|	516004	|	Avahi occidentalis	|	species	|	ncbi:132108,gbif:4267338	|		|
+654909	|	516004	|	Avahi cleesei	|	species	|	ncbi:402244,gbif:5786032	|		|
+3607507	|	516004	|	Avahi betsileo	|	species	|	gbif:5786033	|		|
+3607510	|	516004	|	Avahi ramanantsoavanai	|	species	|	gbif:5786035	|		|
+3607509	|	516004	|	Avahi meridionalis	|	species	|	gbif:5786034	|		|
+696021	|	1058643	|	Indri	|	genus	|	ncbi:34826,gbif:2436431	|		|
+696022	|	696021	|	Indri indri	|	species	|	ncbi:34827,gbif:2436432	|		|
+3607797	|	1058643	|	Mesopropithecus	|	genus	|	gbif:4827491	|		|
+3607796	|	3607797	|	Mesopropithecus pithecoides	|	species	|	gbif:4827494	|		|
+3607948	|	3607797	|	Mesopropithecus globiceps	|	species	|	gbif:4827492	|		|
+3607950	|	1058643	|	Lichanatus	|	genus	|	gbif:4827502	|		|
+702144	|	702147	|	Chiromyiformes	|	infraorder	|	ncbi:376916	|		|
+863755	|	702144	|	Lorisidae	|	family	|	ncbi:9461,gbif:9424	|		|
+152021	|	863755	|	Nycticebus	|	genus	|	ncbi:9469,gbif:2436627	|		|
+101793	|	152021	|	Nycticebus pygmaeus	|	species	|	ncbi:101278,gbif:2436628	|		|
+101797	|	152021	|	Nycticebus intermedius	|	species	|	ncbi:101277	|		|
+339043	|	152021	|	Nycticebus coucang	|	species	|	ncbi:9470,gbif:2436629	|		|
+946861	|	339043	|	Nycticebus coucang coucang	|	subspecies	|	ncbi:310933	|		|
+362553	|	152021	|	Nycticebus sp.	|	species	|	ncbi:108082	|		|
+946857	|	152021	|	Nycticebus javanicus	|	species	|	ncbi:310934,gbif:5786064	|		|
+946859	|	152021	|	Nycticebus menagensis	|	species	|	ncbi:310932,gbif:5786051	|		|
+1049687	|	152021	|	Nycticebus bengalensis	|	species	|	ncbi:261741,gbif:4267329	|		|
+323053	|	863755	|	Arctocebus	|	genus	|	ncbi:261738,gbif:2436630	|		|
+323051	|	323053	|	Arctocebus calabarensis	|	species	|	ncbi:261739,gbif:2436632	|		|
+673376	|	323053	|	Arctocebus aureus	|	species	|	ncbi:300161,gbif:2436631	|		|
+339045	|	863755	|	Perodicticus	|	genus	|	ncbi:9471,gbif:2436623	|		|
+339040	|	339045	|	Perodicticus potto	|	species	|	ncbi:9472,gbif:2436624	|		|
+323063	|	339040	|	Perodicticus potto ibeanus	|	subspecies	|	ncbi:261737	|		|
+339042	|	339040	|	Perodicticus potto edwarsi	|	subspecies	|	ncbi:9473	|		|
+863754	|	863755	|	Loris	|	genus	|	ncbi:9467,gbif:2436625	|		|
+152022	|	863754	|	Loris tardigradus	|	species	|	ncbi:9468,gbif:2436626	|		|
+1049685	|	152022	|	Loris tardigradus nordicus	|	subspecies	|	ncbi:261740	|		|
+673378	|	863754	|	Loris lydekkerianus	|	species	|	ncbi:300163,gbif:6623766	|		|
+673365	|	673378	|	Loris lydekkerianus malabaricus	|	subspecies	|	ncbi:300166	|		|
+915769	|	702144	|	Daubentoniidae	|	family	|	ncbi:30613,gbif:9420	|		|
+190075	|	915769	|	Daubentonia	|	genus	|	ncbi:13038,gbif:2436633	|		|
+50727	|	190075	|	Daubentonia madagascariensis	|	species	|	ncbi:31869,gbif:5219587	|		|
+3607502	|	190075	|	Daubentonia robusta	|	species	|	gbif:5816485	|		|
+3607505	|	915769	|	Myopithecus	|	genus	|	gbif:4577385	|		|
+3607504	|	915769	|	Aieaie	|	genus	|	gbif:4827170	|		|
+3607503	|	915769	|	Cheyromis	|	genus	|	gbif:4827172	|		|
+702145	|	702147	|	Lorisiformes	|	infraorder	|	ncbi:376917	|		|
+786233	|	702145	|	Galagidae	|	family	|	ncbi:40297,gbif:9421	|		|
+323066	|	786233	|	Euoticus	|	genus	|	ncbi:261735,gbif:2436512	|		|
+323064	|	323066	|	Euoticus elegantulus	|	species	|	ncbi:261736,gbif:2436514	|		|
+3607500	|	323066	|	Euoticus matschiei	|	species	|	gbif:4827716	|		|
+3607501	|	323066	|	Euoticus pallidus	|	species	|	gbif:2436513	|		|
+459979	|	786233	|	Galagoides	|	genus	|	ncbi:89671,gbif:2436515	|		|
+552575	|	459979	|	Galagoides zanzibaricus	|	species	|	ncbi:111174,gbif:2436516	|		|
+653041	|	459979	|	Galagoides demidoff	|	species	|	ncbi:89672,gbif:2436517	|		|
+679563	|	459979	|	Galagoides orinus	|	species	|	ncbi:337210,gbif:5786517	|		|
+3607492	|	459979	|	Galagoides cocos	|	species	|	gbif:5786528	|		|
+3607491	|	459979	|	Galagoides rondoensis	|	species	|	gbif:5786525	|		|
+3607490	|	459979	|	Galagoides thomasi	|	species	|	gbif:4827709	|		|
+3607489	|	459979	|	Galagoides nyasae	|	species	|	gbif:5786530	|		|
+863768	|	786233	|	Galago	|	genus	|	ncbi:9462,gbif:2436518	|		|
+151848	|	863768	|	Galago sp.	|	species	|	ncbi:9464	|		|
+173071	|	863768	|	Galago alleni	|	species	|	ncbi:34830,gbif:2436523	|		|
+202831	|	863768	|	Galago thomasi	|	species	|	ncbi:867376,gbif:4267291	|		|
+271531	|	863768	|	Galago matschiei	|	species	|	ncbi:135486,gbif:2436519	|		|
+311214	|	863768	|	Galago moholi	|	species	|	ncbi:30609,gbif:2436522	|		|
+323055	|	863768	|	Galago granti	|	species	|	ncbi:261732,gbif:4267280	|		|
+323060	|	863768	|	Galago gabonensis	|	species	|	ncbi:261731,gbif:4267284	|		|
+552578	|	863768	|	Galago gallarum	|	species	|	ncbi:111173,gbif:2436521	|		|
+863751	|	863768	|	Galago senegalensis	|	species	|	ncbi:9465,gbif:2436520	|		|
+3607498	|	863768	|	Galago farafraensis	|	species	|	gbif:4974642	|		|
+3607499	|	863768	|	Galago rondoensis	|	species	|	gbif:4267289	|		|
+3607493	|	863768	|	Galago cameronensis	|	species	|	gbif:4267288	|		|
+3607496	|	863768	|	Galago orinus	|	species	|	gbif:4267285	|		|
+3607497	|	863768	|	Galago nyasae	|	species	|	gbif:4267281	|		|
+885711	|	786233	|	Otolemur	|	genus	|	ncbi:30610,gbif:2436509	|		|
+679564	|	885711	|	Otolemur monteiri	|	species	|	ncbi:337212,gbif:6623758	|		|
+679566	|	679564	|	Otolemur monteiri monteiri	|	subspecies	|	ncbi:337213	|		|
+679567	|	679564	|	Otolemur monteiri argentatus	|	subspecies	|	ncbi:337214	|		|
+863763	|	885711	|	Otolemur crassicaudatus	|	species	|	ncbi:9463,gbif:2436510	|		|
+885705	|	885711	|	Otolemur garnettii	|	species	|	ncbi:30611,gbif:2436511	|		|
+945402	|	885705	|	Otolemur garnettii garnettii	|	subspecies	|	ncbi:477174	|		|
+3607841	|	786233	|	Otolincus	|	genus	|	gbif:4827714	|		|
+3607837	|	786233	|	Otolignus	|	genus	|	gbif:4827715	|		|
+3607838	|	786233	|	Otolicna	|	genus	|	gbif:4827713	|		|
+3607884	|	786233	|	Otoclinus	|	genus	|	gbif:4827705	|		|
+3607880	|	786233	|	Stolicnus	|	genus	|	gbif:4827704	|		|
+3607879	|	786233	|	Otolenus	|	genus	|	gbif:4827703	|		|
+3607883	|	786233	|	Otaclinus	|	genus	|	gbif:4827702	|		|
+4117715	|	786233	|	Wadilemur	|	genus	|	gbif:4827701	|		|
+4117716	|	4117715	|	Wadilemur elegans	|	species	|	gbif:4974643	|		|
+3607872	|	786233	|	Otoleneus	|	genus	|	gbif:4827708	|		|
+4117717	|	786233	|	Saharagalago	|	genus	|	gbif:4827717	|		|
+4117718	|	4117717	|	Saharagalago misrensis	|	species	|	gbif:4974641	|		|
+702152	|	913935	|	Haplorrhini	|	suborder	|	ncbi:376913	|		|
+386195	|	702152	|	Simiiformes	|	infraorder	|	ncbi:314293	|		|
+339033	|	386195	|	Platyrrhini	|	parvorder	|	ncbi:9479	|		|
+489215	|	339033	|	Cebidae	|	family	|	ncbi:9498,gbif:9621	|		|
+4117719	|	489215	|	unclassified Cebidae	|	no rank	|	ncbi:38071	|		|
+4117720	|	4117719	|	Aotinae gen. sp.	|	species	|	ncbi:168015	|		|
+655808	|	489215	|	Cebinae	|	subfamily	|	ncbi:38070	|		|
+217260	|	655808	|	Cebus	|	genus	|	ncbi:9513,gbif:2436635	|		|
+197026	|	217260	|	Cebus apella	|	species	|	ncbi:9515,gbif:2436639	|		|
+411831	|	197026	|	Cebus apella nigritus	|	subspecies	|	ncbi:120089	|		|
+971480	|	197026	|	Cebus apella apella	|	subspecies	|	ncbi:174598	|		|
+988688	|	197026	|	Cebus apella paraguayanus	|	subspecies	|	ncbi:120090	|		|
+197032	|	217260	|	Cebus albifrons	|	species	|	ncbi:9514,gbif:2436636	|		|
+217251	|	217260	|	Cebus sp.	|	species	|	ncbi:9517	|		|
+217252	|	217260	|	Cebus capucinus	|	species	|	ncbi:9516,gbif:2436637	|		|
+299416	|	217260	|	Cebus flavius	|	species	|	ncbi:1112861,gbif:5786142	|		|
+331561	|	217260	|	Cebus xanthosternos	|	species	|	ncbi:174599,gbif:4266923	|		|
+748283	|	217260	|	Cebus libidinosus	|	species	|	ncbi:1126382,gbif:6623683	|		|
+775268	|	217260	|	Cebus cay	|	species	|	ncbi:649471,gbif:5786139	|		|
+886278	|	217260	|	Cebus nigritus	|	species	|	ncbi:867366,gbif:6623685	|		|
+886281	|	886278	|	Cebus nigritus robustus	|	subspecies	|	ncbi:867367,gbif:5786136	|		|
+900355	|	217260	|	Cebus sp. MAS-2011	|	species	|	ncbi:1090916	|		|
+913292	|	217260	|	Cebus kaapori	|	species	|	ncbi:37294,gbif:4266912	|		|
+913293	|	217260	|	Cebus olivaceus	|	species	|	ncbi:37295,gbif:2436638	|		|
+1031385	|	913293	|	Cebus olivaceus nigrivittatus	|	subspecies	|	ncbi:1090893	|		|
+3607570	|	217260	|	Cebus macrocephalus	|	species	|	gbif:5786144	|		|
+1015234	|	489215	|	Callitrichinae	|	subfamily	|	ncbi:9480,gbif:9620	|		|
+489229	|	1015234	|	Callimico	|	genus	|	ncbi:9494,gbif:2436463	|		|
+489230	|	489229	|	Callimico goeldii	|	species	|	ncbi:9495,gbif:2436464	|		|
+900353	|	489229	|	Callimico sp. MAS-2011	|	species	|	ncbi:1090914	|		|
+532396	|	1015234	|	Leontopithecus	|	genus	|	ncbi:30587,gbif:2436478	|		|
+341890	|	532396	|	Leontopithecus chrysomelas	|	species	|	ncbi:57374,gbif:2436481	|		|
+566865	|	532396	|	Leontopithecus chrysopygus	|	species	|	ncbi:58710,gbif:2436480	|		|
+921451	|	532396	|	Leontopithecus rosalia	|	species	|	ncbi:30588,gbif:2436482	|		|
+3607559	|	532396	|	Leontopithecus caissara	|	species	|	gbif:2436479	|		|
+1015231	|	1015234	|	Callithrix	|	genus	|	ncbi:9481,gbif:2436453	|		|
+172747	|	1015231	|	Callithrix saterei	|	species	|	ncbi:198702,gbif:5707296	|		|
+172749	|	1015231	|	Callithrix cf. emiliae	|	species	|	ncbi:198701	|		|
+274346	|	1015231	|	Callithrix sp. DB-2003	|	species	|	ncbi:217956	|		|
+298261	|	1015231	|	Callithrix humilis	|	species	|	ncbi:666519,gbif:5707304	|		|
+341884	|	1015231	|	Callithrix mauesi	|	species	|	ncbi:57377,gbif:5707303	|		|
+341886	|	1015231	|	Callithrix aurita	|	species	|	ncbi:57375,gbif:5219537	|		|
+341908	|	1015231	|	Callithrix penicillata	|	species	|	ncbi:57378,gbif:5219541	|		|
+488310	|	1015231	|	Callithrix emiliae	|	species	|	ncbi:48842,gbif:5707293	|		|
+489225	|	1015231	|	Callithrix pygmaea	|	species	|	ncbi:9493,gbif:5219535	|		|
+495388	|	1015231	|	Callithrix rondoni	|	species	|	ncbi:1127763,gbif:5786458	|		|
+683989	|	1015231	|	Callithrix geoffroyi	|	species	|	ncbi:52231,gbif:5219539	|		|
+683993	|	1015231	|	Callithrix humeralifera	|	species	|	ncbi:52232,gbif:5219536	|		|
+947308	|	1015231	|	Callithrix kuhlii	|	species	|	ncbi:867363,gbif:5219538	|		|
+1015223	|	1015231	|	Callithrix jacchus	|	species	|	ncbi:9483,gbif:5219542	|		|
+1015228	|	1015231	|	Callithrix argentata	|	species	|	ncbi:9482,gbif:5219540	|		|
+886277	|	1015228	|	Callithrix argentata argentata	|	subspecies	|	ncbi:867362	|		|
+1015245	|	1015231	|	Callithrix sp.	|	species	|	ncbi:9485	|		|
+1031373	|	1015231	|	Callithrix melanura	|	species	|	ncbi:1090896,gbif:5707295	|		|
+3607568	|	1015231	|	Callithrix nigriceps	|	species	|	gbif:5707298	|		|
+3607565	|	1015231	|	Callithrix manicorensis	|	species	|	gbif:5707294	|		|
+3607564	|	1015231	|	Callithrix leucippe	|	species	|	gbif:5707302	|		|
+3607567	|	1015231	|	Callithrix acariensis	|	species	|	gbif:5707299	|		|
+3607566	|	1015231	|	Callithrix marcai	|	species	|	gbif:5707297	|		|
+3607562	|	1015231	|	Callithrix flaviceps	|	species	|	gbif:5219543	|		|
+3607563	|	1015231	|	Callithrix intermedia	|	species	|	gbif:5707301	|		|
+3607561	|	1015231	|	Callithrix chrysoleuca	|	species	|	gbif:5707300	|		|
+1015243	|	1015234	|	Saguinus	|	genus	|	ncbi:9486,gbif:2436465	|		|
+68899	|	1015243	|	Saguinus labiatus	|	species	|	ncbi:78454,gbif:2436467	|		|
+429032	|	68899	|	Saguinus labiatus labiatus	|	subspecies	|	ncbi:873066	|		|
+156859	|	1015243	|	Saguinus niger	|	species	|	ncbi:356665,gbif:4266893	|		|
+156862	|	1015243	|	Saguinus martinsi	|	species	|	ncbi:356666,gbif:6623680	|		|
+197713	|	1015243	|	Saguinus sp. T1030	|	species	|	ncbi:260575	|		|
+211240	|	1015243	|	Saguinus sp.	|	species	|	ncbi:100754	|		|
+235534	|	1015243	|	Saguinus geoffroyi	|	species	|	ncbi:43778,gbif:2436466	|		|
+254273	|	1015243	|	Saguinus bicolor	|	species	|	ncbi:37588,gbif:2436470	|		|
+254275	|	254273	|	Saguinus bicolor bicolor	|	subspecies	|	ncbi:37589	|		|
+394176	|	1015243	|	Saguinus tripartitus	|	species	|	ncbi:122388,gbif:2436473	|		|
+429033	|	1015243	|	Saguinus melanoleucus	|	species	|	ncbi:873067,gbif:4266882	|		|
+429030	|	429033	|	Saguinus melanoleucus melanoleucus	|	subspecies	|	ncbi:873068	|		|
+489218	|	1015243	|	Saguinus oedipus	|	species	|	ncbi:9490,gbif:2436469	|		|
+489221	|	1015243	|	Saguinus imperator	|	species	|	ncbi:9491,gbif:2436471	|		|
+809273	|	489221	|	Saguinus imperator subgrisescens	|	subspecies	|	ncbi:881951	|		|
+532397	|	1015243	|	Saguinus midas	|	species	|	ncbi:30586,gbif:2436468	|		|
+2025	|	532397	|	Saguinus midas midas	|	subspecies	|	ncbi:78354	|		|
+765147	|	1015243	|	Saguinus inustus	|	species	|	ncbi:1079039,gbif:2436475	|		|
+920962	|	1015243	|	Saguinus leucopus	|	species	|	ncbi:290597,gbif:2436476	|		|
+955071	|	1015243	|	Saguinus graellsi	|	species	|	ncbi:873073,gbif:4266887	|		|
+1015216	|	1015243	|	Saguinus nigricollis	|	species	|	ncbi:9489,gbif:2436477	|		|
+955070	|	1015216	|	Saguinus nigricollis nigricollis	|	subspecies	|	ncbi:873070	|		|
+1015219	|	1015243	|	Saguinus mystax	|	species	|	ncbi:9488,gbif:2436472	|		|
+429031	|	1015219	|	Saguinus mystax mystax	|	subspecies	|	ncbi:873069	|		|
+1015238	|	1015243	|	Saguinus fuscicollis	|	species	|	ncbi:9487,gbif:2436474	|		|
+146657	|	1015238	|	Saguinus fuscicollis weddelli	|	subspecies	|	ncbi:343424	|		|
+285519	|	1015238	|	Saguinus fuscicollis nigrifrons	|	subspecies	|	ncbi:881949	|		|
+285526	|	1015238	|	Saguinus fuscicollis leucogenys	|	subspecies	|	ncbi:881946	|		|
+285528	|	1015238	|	Saguinus fuscicollis illigeri	|	subspecies	|	ncbi:881947	|		|
+548593	|	1015238	|	Saguinus fuscicollis fuscicollis	|	subspecies	|	ncbi:48018	|		|
+809275	|	1015238	|	Saguinus fuscicollis lagonotus	|	subspecies	|	ncbi:881950	|		|
+3607560	|	1015243	|	Saguinus pileatus	|	species	|	gbif:4266880	|		|
+3607847	|	1015234	|	Micodon	|	genus	|	gbif:4827213	|		|
+3607762	|	1015234	|	Mico	|	genus	|	gbif:4827370	|		|
+3607761	|	3607762	|	Mico melanurus	|	species	|	gbif:5786462	|		|
+3607767	|	3607762	|	Mico nigriceps	|	species	|	gbif:5786461	|		|
+3607768	|	3607762	|	Mico chrysoleucus	|	species	|	gbif:5786460	|		|
+3607766	|	3607762	|	Mico marcai	|	species	|	gbif:5786466	|		|
+3607769	|	3607762	|	Mico intermedius	|	species	|	gbif:5786465	|		|
+3607893	|	3607762	|	Mico manicorensis	|	species	|	gbif:5786459	|		|
+3607888	|	3607762	|	Mico acariensis	|	species	|	gbif:5786453	|		|
+3607887	|	3607762	|	Mico argentatus	|	species	|	gbif:5786456	|		|
+3607817	|	3607762	|	Mico leucippe	|	species	|	gbif:5786454	|		|
+4117721	|	1015234	|	Lagonimico	|	genus	|	gbif:4827212	|		|
+1056455	|	489215	|	Saimiriinae	|	subfamily	|	ncbi:378850	|		|
+842872	|	1056455	|	Saimiri	|	genus	|	ncbi:9520,gbif:2436659	|		|
+4337	|	842872	|	Saimiri oerstedii	|	species	|	ncbi:70928,gbif:2436664	|		|
+737540	|	4337	|	Saimiri oerstedii oerstedii	|	subspecies	|	ncbi:867380	|		|
+1021729	|	4337	|	Saimiri oerstedii citrinellus	|	subspecies	|	ncbi:942008	|		|
+455668	|	842872	|	Saimiri ustus	|	species	|	ncbi:66265,gbif:2436662	|		|
+842875	|	842872	|	Saimiri sciureus	|	species	|	ncbi:9521,gbif:2436661	|		|
+93900	|	842875	|	Saimiri sciureus macrodon	|	subspecies	|	ncbi:495300	|		|
+390936	|	842875	|	Saimiri sciureus cassiquiarensis	|	subspecies	|	ncbi:495299	|		|
+390937	|	842875	|	Saimiri sciureus albigena	|	subspecies	|	ncbi:495298	|		|
+738574	|	842875	|	Saimiri sciureus sciureus	|	subspecies	|	ncbi:190117	|		|
+923682	|	842875	|	Saimiri sciureus collinsi	|	subspecies	|	ncbi:198114	|		|
+900342	|	842872	|	Saimiri sp. MAS-2011	|	species	|	ncbi:1090919	|		|
+977385	|	842872	|	Saimiri boliviensis	|	species	|	ncbi:27679,gbif:2436663	|		|
+326801	|	977385	|	Saimiri boliviensis boliviensis	|	subspecies	|	ncbi:39432	|		|
+390933	|	977385	|	Saimiri boliviensis peruviensis	|	subspecies	|	ncbi:495297	|		|
+3607558	|	842872	|	Saimiri vanzolinii	|	species	|	gbif:2436660	|		|
+4117722	|	489215	|	Saimiris	|	genus	|	gbif:4827367	|		|
+3608046	|	489215	|	Jachus	|	genus	|	gbif:4827398	|		|
+3608027	|	489215	|	Carlocebus	|	genus	|	gbif:4827399	|		|
+3608047	|	489215	|	Pithecosciurus	|	genus	|	gbif:4827393	|		|
+3608048	|	489215	|	Harpales	|	genus	|	gbif:4827395	|		|
+3607782	|	489215	|	Pithesciureus	|	genus	|	gbif:4827368	|		|
+3607850	|	489215	|	Hepale	|	genus	|	gbif:4827403	|		|
+3607973	|	489215	|	Sapaju	|	genus	|	gbif:4827414	|		|
+3607901	|	489215	|	Killikaike	|	genus	|	gbif:4974673	|		|
+3607932	|	3607901	|	Killikaike blakei	|	species	|	gbif:4974674	|		|
+3608018	|	489215	|	Antopithecus	|	genus	|	gbif:4827404	|		|
+4117723	|	489215	|	Szalatavus	|	genus	|	gbif:4827405	|		|
+3608019	|	489215	|	Sagunus	|	genus	|	gbif:4827406	|		|
+4117724	|	489215	|	Sakinus	|	genus	|	gbif:4827400	|		|
+3608016	|	489215	|	Jaccus	|	genus	|	gbif:4827401	|		|
+702159	|	339033	|	Aotidae	|	family	|	ncbi:376918	|		|
+791708	|	702159	|	Aotus	|	genus	|	ncbi:9504,gbif:2436667	|	Aotus (genus in family Aotidae)	|
+116961	|	791708	|	Aotus sp. Aot1	|	species	|	ncbi:413234	|		|
+210870	|	791708	|	Aotus sp. SHM-2010	|	species	|	ncbi:940829	|		|
+240208	|	791708	|	Aotus sp. NIM-2003	|	species	|	ncbi:222417	|		|
+246708	|	791708	|	Aotus sp. AVB-2011	|	species	|	ncbi:1002694	|		|
+298340	|	791708	|	Aotus zonalis	|	species	|	ncbi:1263727,gbif:5786070	|		|
+338636	|	791708	|	Aotus brumbacki	|	species	|	ncbi:361674,gbif:5219593	|		|
+583084	|	791708	|	Aotus griseimembra	|	species	|	ncbi:292213,gbif:5786069	|		|
+632025	|	791708	|	Aotus sp. PDE-2004	|	species	|	ncbi:261316	|		|
+685852	|	791708	|	Aotus nigriceps	|	species	|	ncbi:57175,gbif:5219595	|		|
+685855	|	791708	|	Aotus vociferans	|	species	|	ncbi:57176,gbif:5219597	|		|
+784295	|	791708	|	Aotus sp.	|	species	|	ncbi:231953	|		|
+791711	|	791708	|	Aotus trivirgatus	|	species	|	ncbi:9505,gbif:5219590	|		|
+797343	|	791708	|	Aotus sp. LC-2012	|	species	|	ncbi:1230482	|		|
+897634	|	791708	|	Aotus lemurinus	|	species	|	ncbi:43147,gbif:5219591	|		|
+900350	|	791708	|	Aotus sp. MAS-2011	|	species	|	ncbi:1090913	|		|
+913299	|	791708	|	Aotus nancymaae	|	species	|	ncbi:37293,gbif:5219589	|		|
+1058659	|	791708	|	Aotus azarai	|	species	|	ncbi:30591,gbif:5219596	|		|
+56003	|	1058659	|	Aotus azarai boliviensis	|	subspecies	|	ncbi:280755	|		|
+210732	|	1058659	|	Aotus azarai infulatus	|	subspecies	|	ncbi:867331,gbif:5219588	|		|
+411832	|	1058659	|	Aotus azarai azarai	|	subspecies	|	ncbi:120088	|		|
+3607596	|	791708	|	Aotus dindensis	|	species	|	gbif:5936372	|		|
+3607601	|	791708	|	Aotus miconax	|	species	|	gbif:5219592	|		|
+3607600	|	791708	|	Aotus hershkovitzi	|	species	|	gbif:5219594	|		|
+3607598	|	791708	|	Aotus jorgehernandezi	|	species	|	gbif:5786071	|		|
+909605	|	339033	|	Pitheciidae	|	family	|	ncbi:376919,gbif:5486	|		|
+81484	|	909605	|	Callicebinae	|	subfamily	|	ncbi:38069	|		|
+842878	|	81484	|	Callicebus	|	genus	|	ncbi:9522,gbif:2436376	|		|
+34118	|	842878	|	Callicebus cupreus	|	species	|	ncbi:202457,gbif:2436392	|		|
+210726	|	842878	|	Callicebus coimbrai	|	species	|	ncbi:867333,gbif:2436383	|		|
+210729	|	842878	|	Callicebus caligatus	|	species	|	ncbi:867332,gbif:2436384	|		|
+210741	|	842878	|	Callicebus nigrifrons	|	species	|	ncbi:867334,gbif:2436404	|		|
+282614	|	842878	|	Callicebus donacophilus	|	species	|	ncbi:230833,gbif:2436399	|		|
+675170	|	282614	|	Callicebus donacophilus donacophilus	|	subspecies	|	ncbi:285954	|		|
+350102	|	842878	|	Callicebus sp.	|	species	|	ncbi:116962	|		|
+442910	|	842878	|	Callicebus hoffmannsi	|	species	|	ncbi:78255,gbif:2436382	|		|
+546503	|	842878	|	Callicebus personatus	|	species	|	ncbi:70814,gbif:2436398	|		|
+126846	|	546503	|	Callicebus personatus personatus	|	subspecies	|	ncbi:78275	|		|
+126847	|	546503	|	Callicebus personatus nigrifrons	|	subspecies	|	ncbi:78274	|		|
+645175	|	842878	|	Callicebus brunneus	|	species	|	ncbi:221704,gbif:2436401	|		|
+842880	|	842878	|	Callicebus moloch	|	species	|	ncbi:9523,gbif:2436388	|		|
+900352	|	842878	|	Callicebus sp. MAS-2011	|	species	|	ncbi:1090915	|		|
+927108	|	842878	|	Callicebus lugens	|	species	|	ncbi:210166,gbif:2436387	|		|
+1058663	|	842878	|	Callicebus torquatus	|	species	|	ncbi:30592,gbif:2436394	|		|
+3607578	|	842878	|	Callicebus discolor	|	species	|	gbif:2436378	|		|
+3607576	|	842878	|	Callicebus pallescens	|	species	|	gbif:2436377	|		|
+3607579	|	842878	|	Callicebus aureipalatii	|	species	|	gbif:5786478	|		|
+3607589	|	842878	|	Callicebus baptista	|	species	|	gbif:2436400	|		|
+3607588	|	842878	|	Callicebus medemi	|	species	|	gbif:2436402	|		|
+3607587	|	842878	|	Callicebus dubius	|	species	|	gbif:2436403	|		|
+3607574	|	842878	|	Callicebus stephennashi	|	species	|	gbif:2436386	|		|
+3607575	|	842878	|	Callicebus ornatus	|	species	|	gbif:2436385	|		|
+3607577	|	842878	|	Callicebus oenanthe	|	species	|	gbif:2436381	|		|
+3607580	|	842878	|	Callicebus modestus	|	species	|	gbif:2436380	|		|
+3607581	|	842878	|	Callicebus olallae	|	species	|	gbif:2436389	|		|
+3607590	|	842878	|	Callicebus barbarabrownae	|	species	|	gbif:2436391	|		|
+3607591	|	842878	|	Callicebus purinus	|	species	|	gbif:2436379	|		|
+3607585	|	842878	|	Callicebus bernhardi	|	species	|	gbif:2436395	|		|
+3607586	|	842878	|	Callicebus lucifer	|	species	|	gbif:2436396	|		|
+3607583	|	842878	|	Callicebus regulus	|	species	|	gbif:2436397	|		|
+3607584	|	842878	|	Callicebus cinerascens	|	species	|	gbif:2436390	|		|
+3607582	|	842878	|	Callicebus melanochir	|	species	|	gbif:2436393	|		|
+758742	|	909605	|	Pitheciinae	|	subfamily	|	ncbi:38039	|		|
+842863	|	758742	|	Chiropotes	|	genus	|	ncbi:9524,gbif:2436405	|		|
+99704	|	842863	|	Chiropotes albinasus	|	species	|	ncbi:198627,gbif:5219526	|		|
+101531	|	842863	|	Chiropotes chiropotes	|	species	|	ncbi:658221,gbif:5707307	|		|
+571889	|	842863	|	Chiropotes israelita	|	species	|	ncbi:280163,gbif:5707305	|		|
+571892	|	842863	|	Chiropotes utahicki	|	species	|	ncbi:280160	|		|
+842864	|	842863	|	Chiropotes satanas	|	species	|	ncbi:9525,gbif:5219527	|		|
+900354	|	842863	|	Chiropotes sp. MAS-2011	|	species	|	ncbi:1090917	|		|
+3607573	|	842863	|	Chiropotes utahickae	|	species	|	gbif:5707306	|		|
+1058648	|	758742	|	Cacajao	|	genus	|	ncbi:30595,gbif:2436408	|		|
+4319	|	1058648	|	Cacajao rubicundus	|	species	|	ncbi:70927	|		|
+6557	|	1058648	|	Cacajao ayresi	|	species	|	ncbi:535896,gbif:5786471	|		|
+6559	|	1058648	|	Cacajao hosomi	|	species	|	ncbi:535897,gbif:5786473	|		|
+1022358	|	1058648	|	Cacajao melanocephalus	|	species	|	ncbi:70825,gbif:2436409	|		|
+1058649	|	1058648	|	Cacajao calvus	|	species	|	ncbi:30596,gbif:2436410	|		|
+7143	|	1058649	|	Cacajao calvus rubicundus	|	subspecies	|	ncbi:658400	|		|
+756944	|	1058649	|	Cacajao calvus ucayalli	|	subspecies	|	ncbi:658399	|		|
+756945	|	1058649	|	Cacajao calvus novaesi	|	subspecies	|	ncbi:658398	|		|
+810865	|	1058649	|	Cacajao calvus calvus	|	subspecies	|	ncbi:85699	|		|
+1058652	|	758742	|	Pithecia	|	genus	|	ncbi:30597,gbif:2436370	|		|
+235545	|	1058652	|	Pithecia pithecia	|	species	|	ncbi:43777,gbif:2436373	|		|
+675169	|	235545	|	Pithecia pithecia pithecia	|	subspecies	|	ncbi:285955	|		|
+340054	|	1058652	|	Pithecia monachus	|	species	|	ncbi:595220,gbif:2436375	|		|
+1058640	|	1058652	|	Pithecia irrorata	|	species	|	ncbi:30598,gbif:2436372	|		|
+3607571	|	1058652	|	Pithecia albicans	|	species	|	gbif:2436374	|		|
+3607572	|	1058652	|	Pithecia aequatorialis	|	species	|	gbif:2436371	|		|
+3607594	|	909605	|	Uacaria	|	genus	|	gbif:4827515	|		|
+3607593	|	909605	|	Brachurus	|	genus	|	gbif:4827518	|		|
+3607592	|	909605	|	Xenothrix	|	genus	|	gbif:4827326	|		|
+3607595	|	3607592	|	Xenothrix mcgregori	|	species	|	gbif:4827327	|		|
+1056467	|	339033	|	Atelidae	|	family	|	ncbi:378855	|		|
+81483	|	1056467	|	Atelinae	|	subfamily	|	ncbi:38068	|		|
+217262	|	81483	|	Lagothrix	|	genus	|	ncbi:9518,gbif:2436656	|		|
+57134	|	217262	|	Lagothrix lugens	|	species	|	ncbi:767355,gbif:4267241	|		|
+57313	|	217262	|	Lagothrix poeppigii	|	species	|	ncbi:767356,gbif:4267239	|		|
+297528	|	217262	|	Lagothrix lagotricha	|	species	|	ncbi:9519,gbif:2436658	|		|
+400017	|	217262	|	Lagothrix sp. CCS-2009a	|	species	|	ncbi:638937	|		|
+968680	|	217262	|	Lagothrix cana	|	species	|	ncbi:767357,gbif:4267238	|		|
+3607554	|	217262	|	Lagothrix flavicauda	|	species	|	gbif:2436657	|		|
+3607555	|	217262	|	Oreonax flavicauda	|	species	|	gbif:4267227	|		|
+791703	|	81483	|	Ateles	|	genus	|	ncbi:9506,gbif:2436640	|		|
+217256	|	791703	|	Ateles sp.	|	species	|	ncbi:9511	|		|
+217258	|	791703	|	Ateles paniscus	|	species	|	ncbi:9510,gbif:2436645	|		|
+4117725	|	791703	|	unclassified Ateles	|	no rank	|	ncbi:120432	|		|
+4117726	|	4117725	|	Ateles sp. JPV-2004	|	species	|	ncbi:278713	|		|
+4117727	|	4117725	|	Ateles sp. haplotype Abh11	|	species	|	ncbi:119630	|		|
+4117728	|	4117725	|	Ateles sp. haplotype Agsubspp. 16	|	species	|	ncbi:119631	|		|
+4117729	|	4117725	|	Ateles sp. haplotype Afr19	|	species	|	ncbi:119632	|		|
+4117730	|	4117725	|	Ateles sp. haplotype Afr20	|	species	|	ncbi:119633	|		|
+4117731	|	4117725	|	Ateles sp. haplotype Afr21	|	species	|	ncbi:119634	|		|
+4117732	|	4117725	|	Ateles sp. haplotype Abh19	|	species	|	ncbi:119638	|		|
+4117733	|	4117725	|	Ateles sp. haplotype Agp13	|	species	|	ncbi:119639	|		|
+4117734	|	4117725	|	Ateles sp. KO-2004	|	species	|	ncbi:269772	|		|
+4117735	|	4117725	|	Ateles sp. haplotype Afr27	|	species	|	ncbi:119640	|		|
+4117736	|	4117725	|	Ateles sp. haplotype Abh10	|	species	|	ncbi:119629	|		|
+4117737	|	4117725	|	Ateles sp. haplotype Abh9	|	species	|	ncbi:119628	|		|
+645692	|	791703	|	Ateles hybridus	|	species	|	ncbi:129801,gbif:4267251	|		|
+797344	|	645692	|	Ateles hybridus hybridus	|	subspecies	|	ncbi:1230481	|		|
+791687	|	791703	|	Ateles fusciceps	|	species	|	ncbi:9508,gbif:2436641	|		|
+142235	|	791687	|	Ateles fusciceps robustus	|	subspecies	|	ncbi:183327	|		|
+791691	|	791703	|	Ateles geoffroyi	|	species	|	ncbi:9509,gbif:2436643	|		|
+90800	|	791691	|	Ateles geoffroyi frontatus	|	subspecies	|	ncbi:795835	|		|
+814885	|	791691	|	Ateles geoffroyi panamensis	|	subspecies	|	ncbi:118647	|		|
+814895	|	791691	|	Ateles geoffroyi vellerosus	|	subspecies	|	ncbi:118648	|		|
+814896	|	791691	|	Ateles geoffroyi yucatanensis	|	subspecies	|	ncbi:118649	|		|
+791705	|	791703	|	Ateles belzebuth	|	species	|	ncbi:9507,gbif:2436642	|		|
+814887	|	791705	|	Ateles belzebuth marginatus	|	subspecies	|	ncbi:118644	|		|
+814889	|	791705	|	Ateles belzebuth chamek	|	subspecies	|	ncbi:118643,gbif:2436646	|		|
+3607557	|	791703	|	Ateles marginatus	|	species	|	gbif:2436644	|		|
+1058665	|	81483	|	Brachyteles	|	genus	|	ncbi:30593,gbif:2436665	|		|
+574171	|	1058665	|	Brachyteles hypoxanthus	|	species	|	ncbi:342807,gbif:4267243	|		|
+1058645	|	1058665	|	Brachyteles arachnoides	|	species	|	ncbi:30594,gbif:2436666	|		|
+81488	|	1056467	|	Alouattinae	|	subfamily	|	ncbi:38066	|		|
+489216	|	81488	|	Alouatta	|	genus	|	ncbi:9499,gbif:2436647	|		|
+558066	|	489216	|	Alouatta pigra	|	species	|	ncbi:182253,gbif:2436653	|		|
+558069	|	489216	|	Alouatta guariba	|	species	|	ncbi:182256,gbif:6623748	|		|
+142239	|	558069	|	Alouatta guariba clamitans	|	subspecies	|	ncbi:183328	|		|
+659847	|	489216	|	Alouatta stramineus	|	species	|	ncbi:163110	|		|
+791697	|	489216	|	Alouatta caraya	|	species	|	ncbi:9502,gbif:2436652	|		|
+791699	|	489216	|	Alouatta seniculus	|	species	|	ncbi:9503,gbif:2436648	|		|
+512634	|	791699	|	Alouatta seniculus macconnelli	|	subspecies	|	ncbi:198115,gbif:4267232	|		|
+558074	|	791699	|	Alouatta seniculus seniculus	|	subspecies	|	ncbi:182254	|		|
+814670	|	489216	|	Alouatta sara	|	species	|	ncbi:121123,gbif:2436651	|		|
+1012045	|	489216	|	Alouatta palliata	|	species	|	ncbi:30589,gbif:2436649	|		|
+558065	|	1012045	|	Alouatta palliata aequatorialis	|	subspecies	|	ncbi:182252	|		|
+558067	|	1012045	|	Alouatta palliata palliata	|	subspecies	|	ncbi:182250	|		|
+558068	|	1012045	|	Alouatta palliata trabeata	|	subspecies	|	ncbi:182251	|		|
+1084511	|	1012045	|	Alouatta palliata coibensis	|	subspecies	|	ncbi:182249	|		|
+1084512	|	1012045	|	Alouatta palliata mexicana	|	subspecies	|	ncbi:182248	|		|
+1058654	|	489216	|	Alouatta belzebul	|	species	|	ncbi:30590,gbif:2436655	|		|
+558073	|	1058654	|	Alouatta belzebul belzebul	|	subspecies	|	ncbi:182257	|		|
+3607550	|	489216	|	Alouatta discolor	|	species	|	gbif:5786091	|		|
+3607546	|	489216	|	Alouatta coibensis	|	species	|	gbif:2436650	|		|
+3607551	|	489216	|	Alouatta ululata	|	species	|	gbif:5786098	|		|
+3607547	|	489216	|	Alouatta puruensis	|	species	|	gbif:5786093	|		|
+3607545	|	489216	|	Alouatta juara	|	species	|	gbif:5786094	|		|
+3607552	|	489216	|	Alouatta arctoidea	|	species	|	gbif:4827329	|		|
+842867	|	386195	|	Catarrhini	|	parvorder	|	ncbi:9526	|		|
+386191	|	842867	|	Hominoidea	|	superfamily	|	ncbi:314295	|		|
+166544	|	386191	|	Hylobatidae	|	family	|	ncbi:9577,gbif:5484	|		|
+166552	|	166544	|	Hylobates	|	genus	|	ncbi:9578,gbif:2436497	|		|
+96942	|	166552	|	Hylobates alibarbis	|	species	|	ncbi:716691	|		|
+166550	|	166552	|	Hylobates agilis	|	species	|	ncbi:9579,gbif:5219550	|		|
+96946	|	166550	|	Hylobates agilis agilis	|	subspecies	|	ncbi:716690	|		|
+995037	|	166550	|	Hylobates agilis unko	|	subspecies	|	ncbi:9583	|		|
+274091	|	166552	|	Hylobates sp. TIB-201	|	species	|	ncbi:150249	|		|
+342212	|	166552	|	Hylobates sp. ECACC MLA144	|	species	|	ncbi:419588	|		|
+732213	|	166552	|	Hylobates moloch	|	species	|	ncbi:81572,gbif:5219552	|		|
+836181	|	166552	|	Hylobates sp. AMA-2004	|	species	|	ncbi:288892	|		|
+891138	|	166552	|	Hylobates sp. IGL-2004	|	species	|	ncbi:280856	|		|
+940283	|	166552	|	Hylobates sp. PS-2007	|	species	|	ncbi:425245	|		|
+995038	|	166552	|	Hylobates lar	|	species	|	ncbi:9580,gbif:5219553	|		|
+96938	|	995038	|	Hylobates lar carpenteri	|	subspecies	|	ncbi:716695	|		|
+96940	|	995038	|	Hylobates lar lar	|	subspecies	|	ncbi:716697	|		|
+96941	|	995038	|	Hylobates lar entelloides	|	subspecies	|	ncbi:716696	|		|
+96952	|	995038	|	Hylobates lar vestitus	|	subspecies	|	ncbi:716698	|		|
+995041	|	166552	|	Hylobates sp.	|	species	|	ncbi:9581	|		|
+995047	|	166552	|	Hylobates klossii	|	species	|	ncbi:9587,gbif:5219546	|		|
+995050	|	166552	|	Hylobates muelleri	|	species	|	ncbi:9588,gbif:5219548	|		|
+96939	|	995050	|	Hylobates muelleri abbotti	|	subspecies	|	ncbi:716694	|		|
+96947	|	995050	|	Hylobates muelleri funereus	|	subspecies	|	ncbi:716693	|		|
+96948	|	995050	|	Hylobates muelleri muelleri	|	subspecies	|	ncbi:716692	|		|
+995054	|	166552	|	Hylobates pileatus	|	species	|	ncbi:9589,gbif:5219544	|		|
+3607663	|	166552	|	Hylobates albibarbis	|	species	|	gbif:5707402	|		|
+712901	|	166544	|	Nomascus	|	genus	|	ncbi:325165,gbif:4267265	|		|
+180370	|	712901	|	Nomascus concolor	|	species	|	ncbi:29089,gbif:6623755	|		|
+251578	|	180370	|	Nomascus concolor jingdongensis	|	subspecies	|	ncbi:423449	|		|
+671218	|	180370	|	Nomascus concolor concolor	|	subspecies	|	ncbi:716684	|		|
+671219	|	180370	|	Nomascus concolor lu	|	subspecies	|	ncbi:716685	|		|
+826059	|	180370	|	Nomascus concolor furvogaster	|	subspecies	|	ncbi:423450	|		|
+440190	|	712901	|	Nomascus nasutus	|	species	|	ncbi:327374,gbif:5786125	|		|
+492226	|	712901	|	Nomascus hainanus	|	species	|	ncbi:693984,gbif:4267273	|		|
+1029454	|	712901	|	Nomascus leucogenys	|	species	|	ncbi:61853,gbif:4267270	|		|
+847446	|	712901	|	Nomascus gabriellae	|	species	|	ncbi:61852,gbif:4267267	|		|
+995043	|	712901	|	Nomascus siki	|	species	|	ncbi:9586,gbif:4267266	|		|
+712902	|	166544	|	Hoolock	|	genus	|	ncbi:325167,gbif:4827728	|		|
+574262	|	712902	|	Hoolock leuconedys	|	species	|	ncbi:593543,gbif:5786120	|		|
+1029474	|	712902	|	Hoolock hoolock	|	species	|	ncbi:61851,gbif:5786121	|		|
+712905	|	166544	|	Symphalangus	|	genus	|	ncbi:325166,gbif:4267276	|		|
+417961	|	712905	|	Symphalangus syndactylus	|	species	|	ncbi:9590,gbif:4267277	|		|
+1055751	|	417961	|	Symphalangus syndactylus syndactylus	|	subspecies	|	ncbi:405039	|		|
+3607670	|	166544	|	Siamangus	|	genus	|	gbif:4827727	|		|
+770311	|	386191	|	Hominidae	|	family	|	ncbi:9604,gbif:5483	|		|
+312031	|	770311	|	Homininae	|	subfamily	|	ncbi:207598	|		|
+417957	|	312031	|	Pan	|	genus	|	ncbi:9596	|		|
+158484	|	417957	|	Pan paniscus	|	species	|	ncbi:9597	|		|
+417950	|	417957	|	Pan troglodytes	|	species	|	ncbi:9598	|		|
+84217	|	417950	|	Pan troglodytes vellerosus	|	subspecies	|	ncbi:91950	|		|
+112831	|	417950	|	Pan troglodytes ellioti	|	subspecies	|	ncbi:756884	|		|
+752845	|	417950	|	Pan troglodytes schweinfurthii	|	subspecies	|	ncbi:37010	|		|
+752847	|	417950	|	Pan troglodytes verus	|	subspecies	|	ncbi:37012	|		|
+767875	|	417950	|	Pan troglodytes troglodytes	|	subspecies	|	ncbi:37011	|		|
+417969	|	312031	|	Gorilla	|	genus	|	ncbi:9592,gbif:2436440	|		|
+351685	|	417969	|	Gorilla beringei	|	species	|	ncbi:499232,gbif:6623763	|		|
+317556	|	351685	|	Gorilla beringei graueri	|	subspecies	|	ncbi:46359	|		|
+624503	|	351685	|	Gorilla beringei beringei	|	subspecies	|	ncbi:1159185	|		|
+417965	|	417969	|	Gorilla gorilla	|	species	|	ncbi:9593,gbif:2436441	|		|
+417953	|	417965	|	Gorilla gorilla gorilla	|	subspecies	|	ncbi:9595	|		|
+620805	|	417965	|	Gorilla gorilla uellensis	|	subspecies	|	ncbi:183511	|		|
+835035	|	417965	|	Gorilla gorilla diehli	|	subspecies	|	ncbi:406788	|		|
+770309	|	312031	|	Homo	|	genus	|	ncbi:9605,gbif:2436435	|		|
+770315	|	770309	|	Homo sapiens	|	species	|	ncbi:9606,gbif:2436436	|		|
+83926	|	770315	|	Homo sapiens neanderthalensis	|	subspecies	|	ncbi:63221,gbif:4827584	|		|
+933436	|	770315	|	Homo sapiens ssp. Denisova	|	subspecies	|	ncbi:741158	|		|
+3607678	|	770309	|	Homo habilis	|	species	|	gbif:4827554	|		|
+3607676	|	770309	|	Homo heidelbergensis	|	species	|	gbif:4827561	|		|
+3607675	|	770309	|	Homo cepranensis	|	species	|	gbif:4827560	|		|
+3607679	|	770309	|	Homo georgicus	|	species	|	gbif:4827622	|		|
+3607682	|	770309	|	Homo kenyaensis	|	species	|	gbif:4827550	|		|
+3607680	|	770309	|	Homo ergaster	|	species	|	gbif:4827625	|		|
+3607671	|	770309	|	Homo erectus	|	species	|	gbif:4827564	|		|
+3607673	|	770309	|	Homo rudolfensis	|	species	|	gbif:4827581	|		|
+3607681	|	770309	|	Homo antecessor	|	species	|	gbif:4827548	|		|
+3607672	|	770309	|	Homo floresiensis	|	species	|	gbif:4827627	|		|
+3607674	|	770309	|	Homo okotensis	|	species	|	gbif:4827621	|		|
+1082538	|	770311	|	Ponginae	|	subfamily	|	ncbi:607660	|		|
+417949	|	1082538	|	Pongo	|	genus	|	ncbi:9599,gbif:5219531	|		|
+770295	|	417949	|	Pongo abelii	|	species	|	ncbi:9601,gbif:5707420	|		|
+770302	|	417949	|	Pongo pygmaeus	|	species	|	ncbi:9600,gbif:5219532	|		|
+770308	|	770302	|	Pongo pygmaeus pygmaeus	|	subspecies	|	ncbi:9602	|		|
+770307	|	417949	|	Pongo sp.	|	species	|	ncbi:9603	|		|
+3607698	|	770311	|	Australopithecus	|	genus	|	gbif:4827673	|		|
+3607710	|	3607698	|	Australopithecus afarensis	|	species	|	gbif:4827687	|		|
+3607712	|	3607698	|	Australopithecus anamensis	|	species	|	gbif:4827685	|		|
+3607711	|	3607698	|	Australopithecus bahrelghazali	|	species	|	gbif:4827683	|		|
+3607724	|	3607698	|	Australopithecus garhi	|	species	|	gbif:4827680	|		|
+3607730	|	3607698	|	Australopithecus africanus	|	species	|	gbif:4827675	|		|
+3607726	|	770311	|	Andropithecus	|	genus	|	gbif:4827672	|		|
+3607684	|	770311	|	Lufengpithecus	|	genus	|	gbif:4827671	|		|
+3607683	|	3607684	|	Lufengpithecus chiangmuanensis	|	species	|	gbif:4974716	|		|
+3607719	|	3607684	|	Lufengpithecus keiyuanensis	|	species	|	gbif:4974715	|		|
+3607690	|	770311	|	Paranthropus	|	genus	|	gbif:4827633	|		|
+3607689	|	3607690	|	Paranthropus boisei	|	species	|	gbif:4827634	|		|
+3607718	|	3607690	|	Paranthropus aethiopicus	|	species	|	gbif:4827637	|		|
+3607708	|	3607690	|	Paranthropus robustus	|	species	|	gbif:4827640	|		|
+4117738	|	770311	|	Xenopithecus	|	genus	|	gbif:4827667	|		|
+3607694	|	770311	|	Bodvapithecus	|	genus	|	gbif:4974703	|		|
+4117739	|	770311	|	Giganthropus	|	genus	|	gbif:4827541	|		|
+4117740	|	770311	|	Ankarapithecus	|	genus	|	gbif:4827540	|		|
+3607717	|	770311	|	Limnopithecus	|	genus	|	gbif:4827543	|		|
+3607688	|	770311	|	Sahelanthropus	|	genus	|	gbif:4827668	|		|
+3607687	|	3607688	|	Sahelanthropus tchadensis	|	species	|	gbif:4827669	|		|
+4117741	|	770311	|	Gryphopithecus	|	genus	|	gbif:4827663	|		|
+4117742	|	770311	|	Udabnopithecus	|	genus	|	gbif:4827664	|		|
+4117743	|	4117742	|	Udabnopithecus garedziensis	|	species	|	gbif:4974710	|		|
+4117744	|	770311	|	Palaeosimia	|	genus	|	gbif:4827665	|		|
+3607696	|	770311	|	Micropithecus	|	genus	|	gbif:4827666	|		|
+3607729	|	3607696	|	Micropithecus clarki	|	species	|	gbif:4974753	|		|
+3607695	|	3607696	|	Micropithecus leakeyorum	|	species	|	gbif:4974752	|		|
+3607705	|	770311	|	Ardipithecus	|	genus	|	gbif:4827629	|		|
+3607704	|	3607705	|	Ardipithecus kadabba	|	species	|	gbif:4827632	|		|
+3607716	|	3607705	|	Ardipithecus ramidus	|	species	|	gbif:4827630	|		|
+4117745	|	770311	|	Sugrivapithecus	|	genus	|	gbif:4827533	|		|
+3607714	|	770311	|	Equatorius	|	genus	|	gbif:4827699	|		|
+3607713	|	770311	|	Pithecanthropos	|	genus	|	gbif:4827698	|		|
+3607715	|	770311	|	Antropopithecus	|	genus	|	gbif:4827691	|		|
+3607703	|	770311	|	Kenyapithecus	|	genus	|	gbif:4827692	|		|
+3607702	|	3607703	|	Kenyapithecus wickeri	|	species	|	gbif:4974708	|		|
+3607707	|	3607703	|	Kenyapithecus africanus	|	species	|	gbif:4974709	|		|
+3607701	|	770311	|	Kenyanthropus	|	genus	|	gbif:4827694	|		|
+3607700	|	3607701	|	Kenyanthropus platyops	|	species	|	gbif:4827695	|		|
+3607693	|	770311	|	Gigantopithecus	|	genus	|	gbif:4827697	|		|
+3607697	|	3607693	|	Gigantopithecus bilaspurensis	|	species	|	gbif:4974701	|		|
+3607692	|	3607693	|	Gigantopithecus giganteus	|	species	|	gbif:4974702	|		|
+3607731	|	770311	|	Orrorin	|	genus	|	gbif:4827658	|		|
+3607732	|	3607731	|	Orrorin tugenensis	|	species	|	gbif:4827659	|		|
+3607723	|	770311	|	Mimeles	|	genus	|	gbif:4827647	|		|
+3607699	|	770311	|	Hispanopithecus	|	genus	|	gbif:4832919	|		|
+3607686	|	770311	|	Platodontopithecus	|	genus	|	gbif:4827538	|		|
+3607685	|	3607686	|	Platodontopithecus jianghuaiensis	|	species	|	gbif:4974733	|		|
+3607721	|	770311	|	Langsonia	|	genus	|	gbif:4827539	|		|
+4117746	|	770311	|	Bramapithecus	|	genus	|	gbif:4827532	|		|
+3607725	|	770311	|	Kamoyapithecus	|	genus	|	gbif:4827534	|		|
+3607727	|	770311	|	Anoiapithecus	|	genus	|	gbif:4827535	|		|
+3607691	|	770311	|	Pierolapithecus	|	genus	|	gbif:4827662	|		|
+4117747	|	770311	|	Griphopithecus	|	genus	|	gbif:4827648	|		|
+4117748	|	4117747	|	Griphopithecus alpani	|	species	|	gbif:4974707	|		|
+4117749	|	770311	|	Khoratpithecus	|	genus	|	gbif:4827700	|		|
+4117750	|	4117749	|	Khoratpithecus chiangmuanensis	|	species	|	gbif:4974700	|		|
+4117751	|	4117749	|	Khoratpithecus piriyai	|	species	|	gbif:4974699	|		|
+3607709	|	770311	|	Morotopithecus	|	genus	|	gbif:4827661	|		|
+3607706	|	770311	|	Ramapithecus	|	genus	|	gbif:4827693	|		|
+4117752	|	770311	|	Paidopithex	|	genus	|	gbif:4827545	|		|
+4117753	|	770311	|	Hylopithecus	|	genus	|	gbif:4827544	|		|
+3607722	|	770311	|	Praeanthropus	|	genus	|	gbif:4827547	|		|
+3607720	|	770311	|	Kalepithecus	|	genus	|	gbif:4827546	|		|
+3607728	|	3607720	|	Kalepithecus songhorensis	|	species	|	gbif:4974751	|		|
+386194	|	842867	|	Cercopithecoidea	|	superfamily	|	ncbi:314294	|		|
+842868	|	386194	|	Cercopithecidae	|	family	|	ncbi:9527,gbif:9622	|		|
+166547	|	842868	|	Cercopithecidae gen. sp.	|	species	|	ncbi:9576	|		|
+741061	|	842868	|	Colobinae	|	subfamily	|	ncbi:9569	|		|
+235536	|	741061	|	Nasalis	|	genus	|	ncbi:43779,gbif:2436524	|		|
+860954	|	235536	|	Nasalis larvatus	|	species	|	ncbi:43780,gbif:2436525	|		|
+508298	|	741061	|	Rhinopithecus	|	genus	|	ncbi:542827,gbif:4267002	|		|
+77080	|	508298	|	Rhinopithecus bieti	|	species	|	ncbi:61621,gbif:4267007	|		|
+77083	|	508298	|	Rhinopithecus roxellana	|	species	|	ncbi:61622,gbif:6623698	|		|
+514757	|	508298	|	Rhinopithecus avunculus	|	species	|	ncbi:66062,gbif:4267009	|		|
+945338	|	508298	|	Rhinopithecus bieti 2 RL-2012	|	species	|	ncbi:1194335	|		|
+1068677	|	508298	|	Rhinopithecus brelichi	|	species	|	ncbi:224329,gbif:4267005	|		|
+1072533	|	508298	|	Rhinopithecus strykeri	|	species	|	ncbi:1194336	|		|
+1072537	|	508298	|	Rhinopithecus bieti 1 RL-2012	|	species	|	ncbi:1194334	|		|
+547162	|	741061	|	Semnopithecus	|	genus	|	ncbi:88028,gbif:2436563	|		|
+276589	|	547162	|	Semnopithecus entellus	|	species	|	ncbi:88029,gbif:2436564	|		|
+627774	|	276589	|	Semnopithecus entellus priam	|	subspecies	|	ncbi:272117	|		|
+1038629	|	276589	|	Semnopithecus entellus entellus	|	subspecies	|	ncbi:867381	|		|
+737534	|	547162	|	Semnopithecus hector	|	species	|	ncbi:867382,gbif:4267221	|		|
+3607621	|	547162	|	Semnopithecus priam	|	species	|	gbif:4267223	|		|
+3607623	|	547162	|	Semnopithecus hypoleucos	|	species	|	gbif:4267224	|		|
+3607624	|	547162	|	Semnopithecus dussumieri	|	species	|	gbif:4267225	|		|
+3607622	|	547162	|	Semnopithecus ajax	|	species	|	gbif:4267222	|		|
+3607625	|	547162	|	Semnopithecus schistaceus	|	species	|	gbif:4267220	|		|
+640560	|	741061	|	Procolobus	|	genus	|	ncbi:164647,gbif:2436596	|		|
+24731	|	640560	|	Procolobus verus	|	species	|	ncbi:373033,gbif:2436597	|		|
+3607617	|	640560	|	Procolobus rufomitratus	|	species	|	gbif:2436599	|		|
+3607620	|	640560	|	Procolobus preussi	|	species	|	gbif:2436601	|		|
+3607615	|	640560	|	Procolobus pennantii	|	species	|	gbif:2436598	|		|
+3607619	|	640560	|	Procolobus kirkii	|	species	|	gbif:5786244	|		|
+3607616	|	640560	|	Procolobus gordonorum	|	species	|	gbif:5786257	|		|
+721473	|	741061	|	Trachypithecus	|	genus	|	ncbi:54136,gbif:2436533	|		|
+43798	|	721473	|	Trachypithecus obscurus	|	species	|	ncbi:54181,gbif:2436535	|		|
+43805	|	721473	|	Trachypithecus francoisi	|	species	|	ncbi:54180,gbif:2436539	|		|
+627777	|	43805	|	Trachypithecus francoisi francoisi	|	subspecies	|	ncbi:272119	|		|
+48788	|	721473	|	Trachypithecus delacouri	|	species	|	ncbi:465717,gbif:4267062	|		|
+118937	|	721473	|	Trachypithecus geei	|	species	|	ncbi:164650,gbif:2436536	|		|
+118938	|	721473	|	Trachypithecus pileatus	|	species	|	ncbi:164651,gbif:2436538	|		|
+240209	|	721473	|	Trachypithecus auratus	|	species	|	ncbi:222416,gbif:2436537	|		|
+627778	|	240209	|	Trachypithecus auratus auratus	|	subspecies	|	ncbi:272118	|		|
+975088	|	240209	|	Trachypithecus auratus pyrrhus	|	subspecies	|	ncbi:36233	|		|
+1031585	|	240209	|	Trachypithecus auratus mauritius	|	subspecies	|	ncbi:449596	|		|
+250658	|	721473	|	Trachypithecus poliocephalus	|	species	|	ncbi:465719,gbif:6623712	|		|
+278062	|	250658	|	Trachypithecus poliocephalus leucocephalus	|	subspecies	|	ncbi:662738	|		|
+844491	|	250658	|	Trachypithecus poliocephalus poliocephalus	|	subspecies	|	ncbi:1118393	|		|
+250663	|	721473	|	Trachypithecus laotum	|	species	|	ncbi:465718,gbif:4267078	|		|
+514267	|	721473	|	Trachypithecus shortridgei	|	species	|	ncbi:1042121,gbif:4267088	|		|
+514751	|	721473	|	Trachypithecus johnii	|	species	|	ncbi:66063,gbif:2436541	|		|
+594254	|	721473	|	Trachypithecus sp.	|	species	|	ncbi:580599	|		|
+597815	|	721473	|	Trachypithecus germaini	|	species	|	ncbi:271260,gbif:4267065	|		|
+597818	|	721473	|	Trachypithecus barbei	|	species	|	ncbi:271261,gbif:4267071	|		|
+703784	|	721473	|	Trachypithecus phayrei	|	species	|	ncbi:61618,gbif:2436540	|		|
+157188	|	703784	|	Trachypithecus phayrei phayrei	|	subspecies	|	ncbi:272120	|		|
+157189	|	703784	|	Trachypithecus phayrei crepuscula	|	subspecies	|	ncbi:272121	|		|
+683655	|	703784	|	Trachypithecus phayrei shanicus	|	subspecies	|	ncbi:1268362	|		|
+844492	|	703784	|	Trachypithecus phayrei holotephreus	|	subspecies	|	ncbi:1118394	|		|
+721477	|	721473	|	Trachypithecus vetulus	|	species	|	ncbi:54137,gbif:2436534	|		|
+834804	|	721477	|	Trachypithecus vetulus vetulus	|	subspecies	|	ncbi:614071	|		|
+735418	|	721473	|	Trachypithecus cristatus	|	species	|	ncbi:122765,gbif:2436542	|		|
+1038626	|	721473	|	Trachypithecus hatinhensis	|	species	|	ncbi:867383,gbif:4267068	|		|
+3607628	|	721473	|	Trachypithecus ebenus	|	species	|	gbif:4267084	|		|
+721485	|	741061	|	Pygathrix	|	genus	|	ncbi:54132,gbif:2436527	|		|
+786	|	721485	|	Pygathrix cinerea	|	species	|	ncbi:693712,gbif:4267165	|		|
+266464	|	721485	|	Pygathrix cinerea 1 RL-2012	|	species	|	ncbi:1194332	|		|
+473243	|	721485	|	Pygathrix nigripes	|	species	|	ncbi:310352,gbif:4267166	|		|
+721486	|	721485	|	Pygathrix nemaeus	|	species	|	ncbi:54133,gbif:2436529	|		|
+118860	|	721486	|	Pygathrix nemaeus nemaeus	|	subspecies	|	ncbi:303485	|		|
+1072539	|	721485	|	Pygathrix cinerea 2 RL-2012	|	species	|	ncbi:1194333	|		|
+752305	|	741061	|	Simias	|	genus	|	ncbi:1203020,gbif:4267129	|		|
+621138	|	752305	|	Simias concolor	|	species	|	ncbi:170207,gbif:4267130	|		|
+989398	|	741061	|	Presbytis	|	genus	|	ncbi:9573,gbif:3239596	|		|
+68891	|	989398	|	Presbytis femoralis	|	species	|	ncbi:78453,gbif:5219562	|		|
+68893	|	989398	|	Presbytis comata	|	species	|	ncbi:78452,gbif:5219565	|		|
+627776	|	68893	|	Presbytis comata comata	|	subspecies	|	ncbi:272114	|		|
+1032604	|	68893	|	Presbytis comata fredericae	|	subspecies	|	ncbi:1046091	|		|
+406006	|	989398	|	Presbytis melalophos	|	species	|	ncbi:78451,gbif:5219561	|		|
+627775	|	406006	|	Presbytis melalophos mitrata	|	subspecies	|	ncbi:272115	|		|
+704355	|	406006	|	Presbytis melalophos sumatranus	|	subspecies	|	ncbi:1046097	|		|
+704360	|	406006	|	Presbytis melalophos melalophos	|	subspecies	|	ncbi:1046096	|		|
+704361	|	406006	|	Presbytis melalophos bicolor	|	subspecies	|	ncbi:1046095	|		|
+471028	|	989398	|	Presbytis chrysomelas	|	species	|	ncbi:1046090,gbif:6623701	|		|
+512403	|	989398	|	Presbytis rubicunda	|	species	|	ncbi:1046101,gbif:5219560	|		|
+36154	|	512403	|	Presbytis rubicunda rubicunda	|	subspecies	|	ncbi:1046102	|		|
+512437	|	989398	|	Presbytis thomasi	|	species	|	ncbi:1046103,gbif:5219558	|		|
+704364	|	989398	|	Presbytis hosei	|	species	|	ncbi:1046093,gbif:5219564	|		|
+704363	|	704364	|	Presbytis hosei hosei	|	subspecies	|	ncbi:1046094	|		|
+704371	|	989398	|	Presbytis frontata	|	species	|	ncbi:1046092,gbif:5219559	|		|
+704401	|	989398	|	Presbytis potenziani	|	species	|	ncbi:1046098,gbif:5219563	|		|
+455456	|	704401	|	Presbytis potenziani potenziani	|	subspecies	|	ncbi:1046099	|		|
+512416	|	704401	|	Presbytis potenziani siberu	|	subspecies	|	ncbi:1046100	|		|
+1091914	|	989398	|	Presbytis senex	|	species	|	ncbi:66055	|		|
+3607627	|	989398	|	Presbytis natunae	|	species	|	gbif:5707308	|		|
+3607626	|	989398	|	Presbytis siamensis	|	species	|	gbif:6623706	|		|
+1000283	|	741061	|	Colobus	|	genus	|	ncbi:9570,gbif:5963043	|		|
+39815	|	1000283	|	Colobus vellerosus	|	species	|	ncbi:378195,gbif:6075599	|		|
+189367	|	1000283	|	Colobus sp. MB-2005	|	species	|	ncbi:325172	|		|
+189815	|	1000283	|	Colobus satanas	|	species	|	ncbi:517012,gbif:5963046	|		|
+189817	|	189815	|	Colobus satanas satanas	|	subspecies	|	ncbi:517013	|		|
+304049	|	1000283	|	Colobus sp. DTG-2004	|	species	|	ncbi:288544	|		|
+565569	|	1000283	|	Colobus guereza	|	species	|	ncbi:33548,gbif:5963045	|		|
+24727	|	565569	|	Colobus guereza matschiei	|	subspecies	|	ncbi:373030	|		|
+24728	|	565569	|	Colobus guereza caudatus	|	subspecies	|	ncbi:373031	|		|
+24730	|	565569	|	Colobus guereza occidentalis	|	subspecies	|	ncbi:373032	|		|
+664571	|	565569	|	Colobus guereza kikuyuensis	|	subspecies	|	ncbi:132548	|		|
+696016	|	1000283	|	Colobus sp.	|	species	|	ncbi:34824	|		|
+721482	|	1000283	|	Colobus angolensis	|	species	|	ncbi:54131,gbif:5963047	|		|
+713997	|	721482	|	Colobus angolensis palliatus	|	subspecies	|	ncbi:336983	|		|
+989400	|	1000283	|	Colobus polykomos	|	species	|	ncbi:9572,gbif:5963044	|		|
+1013952	|	741061	|	Piliocolobus	|	genus	|	ncbi:591932,gbif:4266981	|		|
+437216	|	1013952	|	Piliocolobus pennantii	|	species	|	ncbi:591944,gbif:6623696	|		|
+437219	|	1013952	|	Piliocolobus preussi	|	species	|	ncbi:591945,gbif:4267000	|		|
+640572	|	1013952	|	Piliocolobus badius	|	species	|	ncbi:164648,gbif:6623693	|		|
+941793	|	640572	|	Piliocolobus badius temminckii	|	subspecies	|	ncbi:491853	|		|
+941798	|	640572	|	Piliocolobus badius badius	|	subspecies	|	ncbi:491852	|		|
+1013930	|	1013952	|	Piliocolobus foai	|	species	|	ncbi:591938,gbif:6623695	|		|
+1013935	|	1013952	|	Piliocolobus kirkii	|	species	|	ncbi:591937,gbif:4266987	|		|
+1013938	|	1013952	|	Piliocolobus tephrosceles	|	species	|	ncbi:591936,gbif:4266995	|		|
+1013942	|	1013952	|	Piliocolobus tholloni	|	species	|	ncbi:591935,gbif:4267001	|		|
+1013945	|	1013952	|	Piliocolobus rufomitratus	|	species	|	ncbi:591934,gbif:4266990	|		|
+1013949	|	1013952	|	Piliocolobus gordonorum	|	species	|	ncbi:591933,gbif:4266998	|		|
+842860	|	842868	|	Cercopithecinae	|	subfamily	|	ncbi:9528	|		|
+115460	|	842860	|	Papio	|	genus	|	ncbi:9554,gbif:5219585	|		|
+115449	|	115460	|	Papio anubis	|	species	|	ncbi:9555,gbif:5707341	|		|
+554291	|	115449	|	Papio anubis anubis	|	subspecies	|	ncbi:211508	|		|
+115463	|	115460	|	Papio hamadryas	|	species	|	ncbi:9557,gbif:5219586	|		|
+741051	|	115463	|	Papio hamadryas hamadryas	|	subspecies	|	ncbi:9562	|		|
+115471	|	115460	|	Papio cynocephalus	|	species	|	ncbi:9556,gbif:6623720	|		|
+485691	|	115471	|	Papio cynocephalus ibeanus	|	subspecies	|	ncbi:501791	|		|
+1081949	|	115471	|	Papio cynocephalus cynocephalus	|	subspecies	|	ncbi:106398	|		|
+203159	|	115460	|	Papio ursinus	|	species	|	ncbi:36229,gbif:6623722	|		|
+1013353	|	203159	|	Papio ursinus ursinus	|	subspecies	|	ncbi:208089	|		|
+436611	|	115460	|	Papio kindae	|	species	|	ncbi:208091	|		|
+466072	|	115460	|	Papio sp.	|	species	|	ncbi:61183	|		|
+513904	|	115460	|	Papio papio	|	species	|	ncbi:100937,gbif:5707338	|		|
+940287	|	115460	|	Papio sp. PS-2007	|	species	|	ncbi:425246	|		|
+1014933	|	115460	|	Papio sp. Africa-2004	|	species	|	ncbi:285280	|		|
+268324	|	842860	|	Macaca	|	genus	|	ncbi:9539,gbif:2436602	|		|
+111859	|	268324	|	Macaca thibetana	|	species	|	ncbi:54602,gbif:2436609	|		|
+369521	|	111859	|	Macaca thibetana thibetana	|	subspecies	|	ncbi:257877	|		|
+111862	|	268324	|	Macaca nigra	|	species	|	ncbi:54600,gbif:2436616	|		|
+111864	|	268324	|	Macaca silenus	|	species	|	ncbi:54601,gbif:2436617	|		|
+115044	|	268324	|	Macaca leonina	|	species	|	ncbi:285350,gbif:4267148	|		|
+115440	|	268324	|	Macaca assamensis	|	species	|	ncbi:9551,gbif:2436610	|		|
+115444	|	268324	|	Macaca speciosa	|	species	|	ncbi:9553	|		|
+115446	|	268324	|	Macaca sinica	|	species	|	ncbi:9552,gbif:2436613	|		|
+169927	|	268324	|	Macaca nigrescens	|	species	|	ncbi:90384,gbif:4267157	|		|
+169928	|	268324	|	Macaca maura	|	species	|	ncbi:90383,gbif:2436606	|		|
+169936	|	268324	|	Macaca brunnescens	|	species	|	ncbi:90381	|		|
+311720	|	268324	|	Macaca siberu	|	species	|	ncbi:867378,gbif:4267161	|		|
+407753	|	268324	|	Macaca tonkeana	|	species	|	ncbi:40843,gbif:2436614	|		|
+575293	|	268324	|	Macaca ochreata	|	species	|	ncbi:90385,gbif:2436607	|		|
+575296	|	268324	|	Macaca hecki	|	species	|	ncbi:90382,gbif:4267156	|		|
+660441	|	268324	|	Macaca balantak	|	species	|	ncbi:281404	|		|
+689645	|	268324	|	Macaca sylvanus	|	species	|	ncbi:9546,gbif:2436618	|		|
+689650	|	268324	|	Macaca mulatta	|	species	|	ncbi:9544,gbif:2436604	|		|
+689656	|	268324	|	Macaca nemestrina	|	species	|	ncbi:9545,gbif:2436611	|		|
+372894	|	689656	|	Macaca nemestrina siberu	|	subspecies	|	ncbi:244255	|		|
+575290	|	689656	|	Macaca nemestrina nemestrina	|	subspecies	|	ncbi:90388	|		|
+575291	|	689656	|	Macaca nemestrina leonina	|	subspecies	|	ncbi:90387	|		|
+689660	|	268324	|	Macaca fuscata	|	species	|	ncbi:9542,gbif:2436608	|		|
+689663	|	689660	|	Macaca fuscata fuscata	|	subspecies	|	ncbi:9543	|		|
+855332	|	689660	|	Macaca fuscata yakui	|	subspecies	|	ncbi:179089	|		|
+689665	|	268324	|	Macaca arctoides	|	species	|	ncbi:9540,gbif:2436605	|		|
+689668	|	268324	|	Macaca fascicularis	|	species	|	ncbi:9541,gbif:2436603	|		|
+575292	|	689668	|	Macaca fascicularis philippinensis	|	subspecies	|	ncbi:90386	|		|
+825636	|	268324	|	Macaca pagensis	|	species	|	ncbi:230653,gbif:4267149	|		|
+837392	|	268324	|	Macaca radiata	|	species	|	ncbi:9548,gbif:2436612	|		|
+564819	|	837392	|	Macaca radiata radiata	|	subspecies	|	ncbi:439030	|		|
+837394	|	268324	|	Macaca sp.	|	species	|	ncbi:9549	|		|
+927559	|	268324	|	Macaca munzala	|	species	|	ncbi:402888,gbif:5786213	|		|
+1067495	|	268324	|	Macaca cyclopis	|	species	|	ncbi:78449,gbif:2436615	|		|
+268331	|	842860	|	Erythrocebus	|	genus	|	ncbi:9537,gbif:2436547	|		|
+268326	|	268331	|	Erythrocebus patas	|	species	|	ncbi:9538,gbif:2436548	|		|
+268346	|	842860	|	Cercopithecus	|	genus	|	ncbi:9533,gbif:2436567	|		|
+80548	|	268346	|	Cercopithecus pogonias	|	species	|	ncbi:102108,gbif:5219574	|		|
+140200	|	80548	|	Cercopithecus pogonias grayi	|	subspecies	|	ncbi:192863	|		|
+4117754	|	80548	|	Cercopithecus pogonias nigripes	|	subspecies	|	ncbi:1137506	|		|
+4117755	|	80548	|	Cercopithecus pogonias pogonias	|	subspecies	|	ncbi:1137507	|		|
+4117756	|	80548	|	Cercopithecus pogonias schwarzianus	|	subspecies	|	ncbi:1137509	|		|
+140251	|	268346	|	Cercopithecus campbelli	|	species	|	ncbi:303588,gbif:5219582	|		|
+11135	|	140251	|	Cercopithecus campbelli lowei	|	subspecies	|	ncbi:304410	|		|
+147337	|	268346	|	Cercopithecus sp. WMS-2012	|	species	|	ncbi:1144881	|		|
+179316	|	268346	|	Cercopithecus erythrogaster	|	species	|	ncbi:161496,gbif:5219571	|		|
+4117757	|	179316	|	Cercopithecus erythrogaster pococki	|	subspecies	|	ncbi:1137433	|		|
+1012837	|	179316	|	Cercopithecus erythrogaster erythrogaster	|	subspecies	|	ncbi:304409	|		|
+198616	|	268346	|	Cercopithecus denti	|	species	|	ncbi:1137511,gbif:5707353	|		|
+203154	|	268346	|	Cercopithecus nictitans	|	species	|	ncbi:36228,gbif:5219573	|		|
+4117758	|	203154	|	Cercopithecus nictitans martini	|	subspecies	|	ncbi:1137494	|		|
+4117759	|	203154	|	Cercopithecus nictitans nictitans	|	subspecies	|	ncbi:1137495	|		|
+203184	|	268346	|	Cercopithecus ascanius	|	species	|	ncbi:36223,gbif:5219569	|		|
+5512	|	203184	|	Cercopithecus ascanius ascanius	|	subspecies	|	ncbi:192855	|		|
+5513	|	203184	|	Cercopithecus ascanius schmidti	|	subspecies	|	ncbi:192857	|		|
+5514	|	203184	|	Cercopithecus ascanius katangae	|	subspecies	|	ncbi:192856	|		|
+5522	|	203184	|	Cercopithecus ascanius whitesidei	|	subspecies	|	ncbi:192858	|		|
+203187	|	268346	|	Cercopithecus diana	|	species	|	ncbi:36224,gbif:5219576	|		|
+203191	|	268346	|	Cercopithecus mitis	|	species	|	ncbi:36225,gbif:5219578	|		|
+4117760	|	203191	|	Cercopithecus mitis mitis	|	subspecies	|	ncbi:1137482	|		|
+4117761	|	203191	|	Cercopithecus mitis heymansi	|	subspecies	|	ncbi:1137480	|		|
+4117762	|	203191	|	Cercopithecus mitis boutourlinii	|	subspecies	|	ncbi:1137473	|		|
+4117763	|	203191	|	Cercopithecus mitis opisthostictus	|	subspecies	|	ncbi:1137490	|		|
+4117764	|	203191	|	Cercopithecus mitis stuhlmanni	|	subspecies	|	ncbi:1137491	|		|
+3607604	|	268346	|	Cercopithecus kandti	|	species	|	ncbi:1137481,gbif:5707349	|		|
+268332	|	268346	|	Cercopithecus hamlyni	|	species	|	ncbi:9536,gbif:5219584	|		|
+311700	|	268332	|	Cercopithecus hamlyni hamlyni	|	subspecies	|	ncbi:867373	|		|
+268334	|	268346	|	Cercopithecus cephus	|	species	|	ncbi:9535,gbif:5219570	|		|
+5521	|	268334	|	Cercopithecus cephus cephodes	|	subspecies	|	ncbi:192859	|		|
+447892	|	268334	|	Cercopithecus cephus ngottoensis	|	subspecies	|	ncbi:167131	|		|
+526949	|	268334	|	Cercopithecus cephus cephus	|	subspecies	|	ncbi:192860	|		|
+283455	|	268346	|	Cercopithecus preussi	|	species	|	ncbi:147649,gbif:5219568	|		|
+4117765	|	283455	|	Cercopithecus preussi preussi	|	subspecies	|	ncbi:1137513	|		|
+4117766	|	283455	|	Cercopithecus preussi insularis	|	subspecies	|	ncbi:1137512	|		|
+311705	|	268346	|	Cercopithecus albogularis	|	species	|	ncbi:867370,gbif:6623736	|		|
+4117767	|	311705	|	Cercopithecus albogularis monoides	|	subspecies	|	ncbi:1137489	|		|
+4117768	|	311705	|	Cercopithecus albogularis francescae	|	subspecies	|	ncbi:1137483	|		|
+4117769	|	311705	|	Cercopithecus albogularis labiatus	|	subspecies	|	ncbi:1137484	|		|
+4117770	|	311705	|	Cercopithecus albogularis moloneyi	|	subspecies	|	ncbi:1137488	|		|
+311701	|	311705	|	Cercopithecus albogularis kolbi	|	subspecies	|	ncbi:867372	|		|
+4117771	|	311705	|	Cercopithecus albogularis erythrarchus	|	subspecies	|	ncbi:1137476	|		|
+4117772	|	311705	|	Cercopithecus albogularis albotorquatus	|	subspecies	|	ncbi:1137444	|		|
+375164	|	268346	|	Cercopithecus wolfi	|	species	|	ncbi:263448,gbif:5219580	|		|
+311699	|	375164	|	Cercopithecus wolfi wolfi	|	subspecies	|	ncbi:867374	|		|
+4117773	|	375164	|	Cercopithecus wolfi elegans	|	subspecies	|	ncbi:1137505	|		|
+4117774	|	375164	|	Cercopithecus wolfi pyrogaster	|	subspecies	|	ncbi:1137508	|		|
+3607605	|	268346	|	Cercopithecus doggetti	|	species	|	ncbi:1137474,gbif:5707388	|		|
+623302	|	268346	|	Cercopithecus erythrotis	|	species	|	ncbi:167130,gbif:5219577	|		|
+4117775	|	623302	|	Cercopithecus erythrotis erythrotis	|	subspecies	|	ncbi:1137434	|		|
+4117776	|	623302	|	Cercopithecus erythrotis camerunensis	|	subspecies	|	ncbi:1137435	|		|
+699219	|	268346	|	Cercopithecus roloway	|	species	|	ncbi:1137049,gbif:5707396	|		|
+3607607	|	268346	|	Cercopithecus dryas	|	species	|	ncbi:1137048,gbif:5219583	|		|
+807150	|	268346	|	Cercopithecus solatus	|	species	|	ncbi:147650,gbif:5219575	|		|
+918231	|	268346	|	Cercopithecus mona	|	species	|	ncbi:36226,gbif:5219566	|		|
+526950	|	918231	|	Cercopithecus mona campbelli	|	subspecies	|	ncbi:192861	|		|
+949833	|	918231	|	Cercopithecus mona mona	|	subspecies	|	ncbi:100489	|		|
+918233	|	268346	|	Cercopithecus neglectus	|	species	|	ncbi:36227,gbif:5219567	|		|
+949841	|	268346	|	Cercopithecus petaurista	|	species	|	ncbi:100487,gbif:5219579	|		|
+526951	|	949841	|	Cercopithecus petaurista petaurista	|	subspecies	|	ncbi:192862	|		|
+800090	|	949841	|	Cercopithecus petaurista buettikoferi	|	subspecies	|	ncbi:192893	|		|
+954691	|	268346	|	Cercopithecus lhoesti	|	species	|	ncbi:100224,gbif:5219572	|		|
+1072609	|	268346	|	Cercopithecus lomamiensis	|	species	|	ncbi:1191211	|		|
+3607603	|	268346	|	Cercopithecus lowei	|	species	|	gbif:5707385	|		|
+3607606	|	268346	|	Cercopithecus sclateri	|	species	|	gbif:5219581	|		|
+386004	|	842860	|	Chlorocebus	|	genus	|	ncbi:392815,gbif:2436565	|		|
+250767	|	386004	|	Chlorocebus cynosuros	|	species	|	ncbi:460675,gbif:4267119	|		|
+268337	|	386004	|	Chlorocebus aethiops	|	species	|	ncbi:9534,gbif:2436566	|		|
+513911	|	268337	|	Chlorocebus aethiops vervet	|	subspecies	|	ncbi:100936	|		|
+767718	|	268337	|	Chlorocebus aethiops aethiops	|	subspecies	|	ncbi:101841	|		|
+571312	|	386004	|	Chlorocebus tantalus	|	species	|	ncbi:60712,gbif:6623725	|		|
+644385	|	571312	|	Chlorocebus tantalus budgetti	|	subspecies	|	ncbi:508710	|		|
+571316	|	386004	|	Chlorocebus sabaeus	|	species	|	ncbi:60711,gbif:4267116	|		|
+571323	|	386004	|	Chlorocebus pygerythrus	|	species	|	ncbi:60710,gbif:6623727	|		|
+250774	|	571323	|	Chlorocebus pygerythrus pygerythrus	|	subspecies	|	ncbi:460674	|		|
+644387	|	571323	|	Chlorocebus pygerythrus hilgerti	|	subspecies	|	ncbi:508712	|		|
+875546	|	386004	|	Chlorocebus djamdjamensis	|	species	|	ncbi:1284215,gbif:4267124	|		|
+875552	|	386004	|	Chlorocebus sp. TH-2013	|	species	|	ncbi:1284216	|		|
+900343	|	386004	|	Chlorocebus sp. MAS-2011	|	species	|	ncbi:1090918	|		|
+3607613	|	386004	|	Chlorocebus lhoesti	|	species	|	gbif:4974746	|		|
+3607611	|	386004	|	Chlorocebus solatus	|	species	|	gbif:4974747	|		|
+3607612	|	386004	|	Chlorocebus patas	|	species	|	gbif:4974745	|		|
+554559	|	842860	|	Lophocebus	|	genus	|	ncbi:75565,gbif:2436587	|		|
+554550	|	554559	|	Lophocebus aterrimus	|	species	|	ncbi:75566,gbif:4267096	|		|
+554556	|	554559	|	Lophocebus albigena	|	species	|	ncbi:75567,gbif:2436589	|		|
+554544	|	554556	|	Lophocebus albigena albigena	|	subspecies	|	ncbi:75568	|		|
+3607609	|	554559	|	Lophocebus opdenboschi	|	species	|	gbif:4267094	|		|
+3607610	|	554559	|	Lophocebus kipunji	|	species	|	gbif:2436588	|		|
+665520	|	842860	|	Rungwecebus	|	genus	|	ncbi:371038,gbif:4827290	|		|
+665522	|	665520	|	Rungwecebus kipunji	|	species	|	ncbi:371039,gbif:5786266	|		|
+721470	|	842860	|	Allenopithecus	|	genus	|	ncbi:54134,gbif:2436619	|		|
+721471	|	721470	|	Allenopithecus nigroviridis	|	species	|	ncbi:54135,gbif:2436620	|		|
+741052	|	842860	|	Theropithecus	|	genus	|	ncbi:9564,gbif:2436552	|		|
+741053	|	741052	|	Theropithecus gelada	|	species	|	ncbi:9565,gbif:2436553	|		|
+3607608	|	741052	|	Theropithecus oswaldi	|	species	|	gbif:4974741	|		|
+741055	|	842860	|	Mandrillus	|	genus	|	ncbi:9567,gbif:5219555	|		|
+741047	|	741055	|	Mandrillus sphinx	|	species	|	ncbi:9561,gbif:5219556	|		|
+741057	|	741055	|	Mandrillus leucophaeus	|	species	|	ncbi:9568,gbif:5219557	|		|
+842861	|	842860	|	Cercocebus	|	genus	|	ncbi:9529,gbif:2436543	|		|
+268347	|	842861	|	Cercocebus galeritus	|	species	|	ncbi:9532,gbif:2436545	|		|
+268349	|	842861	|	Cercocebus atys	|	species	|	ncbi:9531,gbif:6623728	|		|
+33609	|	268349	|	Cercocebus atys lunulatus	|	subspecies	|	ncbi:75570	|		|
+268353	|	842861	|	Cercocebus torquatus	|	species	|	ncbi:9530,gbif:2436544	|		|
+754307	|	268353	|	Cercocebus torquatus torquatus	|	subspecies	|	ncbi:81944	|		|
+363077	|	842861	|	Cercocebus agilis	|	species	|	ncbi:255237,gbif:2436546	|		|
+554545	|	842861	|	Cercocebus chrysogaster	|	species	|	ncbi:75569,gbif:4267135	|		|
+3607602	|	842861	|	Cercocebus sanjei	|	species	|	gbif:4267131	|		|
+975095	|	842860	|	Miopithecus	|	genus	|	ncbi:36230,gbif:2436590	|		|
+949834	|	975095	|	Miopithecus ogouensis	|	species	|	ncbi:100488,gbif:4267099	|		|
+975092	|	975095	|	Miopithecus talapoin	|	species	|	ncbi:36231,gbif:2436591	|		|
+417277	|	975092	|	Miopithecus talapoin talapoin	|	subspecies	|	ncbi:560240	|		|
+3607640	|	842868	|	Prohylobates	|	genus	|	gbif:4827225	|		|
+3607648	|	3607640	|	Prohylobates tandyi	|	species	|	gbif:4974739	|		|
+4117777	|	842868	|	Procercocebus	|	genus	|	gbif:4827245	|		|
+3607643	|	842868	|	Mesopithecus	|	genus	|	gbif:4827230	|		|
+3607642	|	3607643	|	Mesopithecus monspessulanus	|	species	|	gbif:4974749	|		|
+3607661	|	3607643	|	Mesopithecus pentelicus	|	species	|	gbif:4974750	|		|
+3607658	|	842868	|	Parapapio	|	genus	|	gbif:4827295	|		|
+4117778	|	842868	|	Omopithecus	|	genus	|	gbif:4827272	|		|
+3607656	|	842868	|	Paradolichopithecus	|	genus	|	gbif:4827268	|		|
+3607657	|	842868	|	Libypithecus	|	genus	|	gbif:4827239	|		|
+3607638	|	842868	|	Cynopythecus	|	genus	|	gbif:4827238	|		|
+3607634	|	842868	|	Victoriapithecus	|	genus	|	gbif:4827228	|		|
+3607636	|	3607634	|	Victoriapithecus macinnesi	|	species	|	gbif:4974740	|		|
+3607649	|	842868	|	Procynocephalus	|	genus	|	gbif:4827289	|		|
+3607641	|	842868	|	Pterygocolobus	|	genus	|	gbif:4827232	|		|
+3607660	|	842868	|	Lasyopyga	|	genus	|	gbif:4827300	|		|
+3607639	|	842868	|	Cyanocephalus	|	genus	|	gbif:3239651	|		|
+3607646	|	842868	|	Paphio	|	genus	|	gbif:4827251	|		|
+3607647	|	842868	|	Parapresbytis	|	genus	|	gbif:4827250	|		|
+3607637	|	842868	|	Innuus	|	genus	|	gbif:4576595	|		|
+3607650	|	842868	|	Microcolobus	|	genus	|	gbif:4827296	|		|
+3607651	|	842868	|	Cynomolgus	|	genus	|	gbif:4827291	|		|
+3607652	|	842868	|	Cercopithecoides	|	genus	|	gbif:4827298	|		|
+3607653	|	842868	|	Rhinocolobus	|	genus	|	gbif:4827233	|		|
+3607655	|	842868	|	Kynokephalos	|	genus	|	gbif:4827237	|		|
+3607654	|	842868	|	Gorgopithecus	|	genus	|	gbif:4827236	|		|
+3607644	|	842868	|	Paracolobus	|	genus	|	gbif:4827231	|		|
+3607635	|	842868	|	Rhesus	|	genus	|	gbif:3239646	|		|
+3607633	|	842868	|	Dolichopithecus	|	genus	|	gbif:4827299	|		|
+3607645	|	3607633	|	Dolichopithecus ruscinensis	|	species	|	gbif:4974748	|		|
+3607659	|	842868	|	Innus	|	genus	|	gbif:4576601	|		|
+702151	|	702152	|	Tarsiiformes	|	infraorder	|	ncbi:376912	|		|
+933322	|	702151	|	Tarsiidae	|	family	|	ncbi:9475,gbif:9426	|		|
+339047	|	933322	|	Tarsius	|	genus	|	ncbi:9476,gbif:2436483	|		|
+49187	|	339047	|	Tarsius sangirensis	|	species	|	ncbi:905053,gbif:4266953	|		|
+234367	|	339047	|	Tarsius wallacei	|	species	|	ncbi:981131	|		|
+257008	|	339047	|	Tarsius sp. FFA-2009a	|	species	|	ncbi:662655	|		|
+318683	|	339047	|	Tarsius lariang	|	species	|	ncbi:630277,gbif:5786490	|		|
+339031	|	339047	|	Tarsius syrichta	|	species	|	ncbi:9478,gbif:2436484	|		|
+339050	|	339047	|	Tarsius bancanus	|	species	|	ncbi:9477,gbif:2436487	|		|
+712758	|	339047	|	Tarsius dentatus	|	species	|	ncbi:449501,gbif:4266947	|		|
+721280	|	339047	|	Tarsius tarsier	|	species	|	ncbi:662464,gbif:4266949	|		|
+915771	|	339047	|	Tarsius sp.	|	species	|	ncbi:30612	|		|
+3607738	|	339047	|	Tarsius eocaenus	|	species	|	gbif:4974775	|		|
+3607737	|	339047	|	Tarsius thailandica	|	species	|	gbif:4974776	|		|
+3607739	|	339047	|	Tarsius pumilus	|	species	|	gbif:2436488	|		|
+3607736	|	339047	|	Tarsius pelengensis	|	species	|	gbif:4266951	|		|
+3607733	|	339047	|	Tarsius banacanus	|	species	|	gbif:4827161	|		|
+3607743	|	933322	|	Cephalophacus	|	genus	|	gbif:4827156	|		|
+3607746	|	933322	|	Cephalopachys	|	genus	|	gbif:4827157	|		|
+3607744	|	933322	|	Omomys	|	genus	|	gbif:4827158	|		|
+3607748	|	3607744	|	Omomys lloydi	|	species	|	gbif:4974830	|		|
+3607747	|	3607744	|	Omomys carteri	|	species	|	gbif:4974831	|		|
+3607745	|	933322	|	Biretia	|	genus	|	gbif:4827159	|		|
+3607751	|	3607745	|	Biretia fayumensis	|	species	|	gbif:4974756	|		|
+3607750	|	3607745	|	Biretia megalopsis	|	species	|	gbif:4974755	|		|
+3607749	|	3607745	|	Biretia piveteaui	|	species	|	gbif:4974754	|		|
+3607740	|	933322	|	Amphipithecus	|	genus	|	gbif:4827160	|		|
+4117779	|	933322	|	Xanthorhysis	|	genus	|	gbif:4827167	|		|
+4117780	|	4117779	|	Xanthorhysis tabrumi	|	species	|	gbif:4974774	|		|
+3607742	|	933322	|	Cephalophaeus	|	genus	|	gbif:4827166	|		|
+3607741	|	933322	|	Pondaungia	|	genus	|	gbif:4827165	|		|
+3607752	|	3607741	|	Pondaungia minuta	|	species	|	gbif:4974766	|		|
+3607753	|	3607741	|	Pondaungia cotteri	|	species	|	gbif:4974767	|		|
+4117781	|	913935	|	unclassified Primates	|	no rank	|	ncbi:57118	|		|
+4117782	|	4117781	|	Primates sp. BOLD:AAC9009	|	species	|	ncbi:976299	|		|
+4117783	|	4117781	|	Primates sp. BOLD:AAA0001	|	species	|	ncbi:976298	|		|
+4117784	|	4117781	|	Japanese monkeys	|	species	|	ncbi:36513	|		|
+4117785	|	4117781	|	marmosets	|	species	|	ncbi:38020	|		|
+4117786	|	4117781	|	Primates sp. BOLD:AAF0367	|	species	|	ncbi:1068294	|		|
+4117787	|	4117781	|	Primates sp. BOLD:AAD0215	|	species	|	ncbi:1068293	|		|
+4117788	|	4117781	|	Primates sp. BOLD:AAC7735	|	species	|	ncbi:1068292	|		|
+4117789	|	4117781	|	Primates sp. BOLD:AAO0053	|	species	|	ncbi:976302	|		|
+4117790	|	4117781	|	Primates sp. BOLD:AAJ7304	|	species	|	ncbi:976301	|		|
+4117791	|	4117781	|	Primates sp. BOLD:AAE4744	|	species	|	ncbi:976300	|		|
+3607795	|	913935	|	Microsyopidae	|	family	|	gbif:4827478	|		|
+3607836	|	3607795	|	Craseops	|	genus	|	gbif:4827479	|		|
+3607835	|	3607836	|	Craseops sylvestris	|	species	|	gbif:4974430	|		|
+3607818	|	3607795	|	Uintasorex	|	genus	|	gbif:4827481	|		|
+3607956	|	3607818	|	Uintasorex parvulus	|	species	|	gbif:4974445	|		|
+3607957	|	3607818	|	Uintasorex montezumicus	|	species	|	gbif:4974444	|		|
+3607824	|	3607795	|	Berruvius	|	genus	|	gbif:4827480	|		|
+3607864	|	3607824	|	Berruvius lasseroni	|	species	|	gbif:4974477	|		|
+3607823	|	3607795	|	Niptomomys	|	genus	|	gbif:4827483	|		|
+3607844	|	3607823	|	Niptomomys favorum	|	species	|	gbif:4974446	|		|
+3607954	|	3607823	|	Niptomomys doreenae	|	species	|	gbif:4974447	|		|
+3607987	|	3607823	|	Niptomomys thelmae	|	species	|	gbif:4974448	|		|
+3607819	|	3607795	|	Navajovius	|	genus	|	gbif:4827488	|		|
+3608039	|	3607819	|	Navajovius kohlhaasae	|	species	|	gbif:4974452	|		|
+3607949	|	3607819	|	Navajovius mckennai	|	species	|	gbif:4974451	|		|
+3607794	|	3607795	|	Microsyops	|	genus	|	gbif:4827489	|		|
+3607988	|	3607794	|	Microsyops latidens	|	species	|	gbif:4974435	|		|
+3607955	|	3607794	|	Microsyops annectens	|	species	|	gbif:4974442	|		|
+3607863	|	3607794	|	Microsyops elegans	|	species	|	gbif:4974436	|		|
+3607857	|	3607794	|	Microsyops angustidens	|	species	|	gbif:4974437	|		|
+3607793	|	3607794	|	Microsyops knightensis	|	species	|	gbif:4974441	|		|
+3608041	|	3607794	|	Microsyops kratos	|	species	|	gbif:4974438	|		|
+3608034	|	3607794	|	Microsyops cardiorestes	|	species	|	gbif:4974439	|		|
+3607849	|	3607794	|	Microsyops scottianus	|	species	|	gbif:4974440	|		|
+4117792	|	3607795	|	Myrmekomomys	|	genus	|	gbif:4573936	|		|
+3607833	|	3607795	|	Arctodontomys	|	genus	|	gbif:4827484	|		|
+3607832	|	3607833	|	Arctodontomys wilsoni	|	species	|	gbif:4974432	|		|
+3607834	|	3607833	|	Arctodontomys simplicidens	|	species	|	gbif:4974433	|		|
+3608037	|	3607833	|	Arctodontomys nuptus	|	species	|	gbif:4974434	|		|
+4117793	|	3607795	|	Cynodontomys	|	genus	|	gbif:4827485	|		|
+3607978	|	3607795	|	Avenius	|	genus	|	gbif:4827486	|		|
+3608035	|	3607978	|	Avenius amatorum	|	species	|	gbif:4974456	|		|
+4117794	|	3607795	|	Megadelphus	|	genus	|	gbif:4827487	|		|
+4117795	|	4117794	|	Megadelphus lundeliusi	|	species	|	gbif:4974431	|		|
+4117796	|	3607795	|	Bathrodon	|	genus	|	gbif:4827482	|		|
+3607925	|	913935	|	Sivaladapidae	|	family	|	gbif:4827474	|		|
+4117797	|	3607925	|	Guangxilemur	|	genus	|	gbif:4827475	|		|
+4117798	|	4117797	|	Guangxilemur tongi	|	species	|	gbif:4974640	|		|
+4117799	|	4117797	|	Guangxilemur singsilai	|	species	|	gbif:4974639	|		|
+4117800	|	3607925	|	Rencunius	|	genus	|	gbif:4827476	|		|
+4117801	|	4117800	|	Rencunius zhoui	|	species	|	gbif:4974634	|		|
+3607926	|	913935	|	Nuciruptor	|	genus	|	gbif:4827477	|		|
+3607927	|	913935	|	Anomalopithecus	|	genus	|	gbif:4827471	|		|
+3607928	|	913935	|	Epipliopithecus	|	genus	|	gbif:4827470	|		|
+3607922	|	913935	|	Proteopithecidae	|	family	|	gbif:4827472	|		|
+3607929	|	3607922	|	Proteopithecus	|	genus	|	gbif:4827473	|		|
+3608004	|	3607929	|	Proteopithecus sylviae	|	species	|	gbif:4974657	|		|
+3607774	|	913935	|	Purgatoriidae	|	family	|	gbif:4827520	|		|
+3607773	|	3607774	|	Purgatorius	|	genus	|	gbif:4827521	|		|
+3607848	|	3607773	|	Purgatorius unio	|	species	|	gbif:4974540	|		|
+3608052	|	3607773	|	Purgatorius titusi	|	species	|	gbif:4974538	|		|
+3607975	|	3607773	|	Purgatorius janisae	|	species	|	gbif:4974539	|		|
+3607839	|	913935	|	Egarapithecus	|	genus	|	gbif:4827718	|		|
+3607754	|	913935	|	Micromomyidae	|	family	|	gbif:4827528	|		|
+4117802	|	3607754	|	Chalicomomys	|	genus	|	gbif:4827529	|		|
+4117803	|	4117802	|	Chalicomomys willwoodensis	|	species	|	gbif:4974470	|		|
+3607810	|	3607754	|	Tinimomys	|	genus	|	gbif:4827530	|		|
+3608040	|	3607810	|	Tinimomys graybulliensis	|	species	|	gbif:4974450	|		|
+3607809	|	3607810	|	Tinimomys loomisi	|	species	|	gbif:4974449	|		|
+3607966	|	3607754	|	Micromomys	|	genus	|	gbif:4827531	|		|
+3607970	|	3607966	|	Micromomys vossae	|	species	|	gbif:4974473	|		|
+3607968	|	3607966	|	Micromomys fremdi	|	species	|	gbif:4974476	|		|
+3607967	|	3607966	|	Micromomys antelucanus	|	species	|	gbif:4974474	|		|
+3607965	|	3607966	|	Micromomys silvercouleei	|	species	|	gbif:4974475	|		|
+3607969	|	3607754	|	Dryomomys	|	genus	|	gbif:4974471	|		|
+3607971	|	3607969	|	Dryomomys szalayi	|	species	|	gbif:4974472	|		|
+3607915	|	913935	|	Afrotarsiidae	|	family	|	gbif:4827056	|		|
+3607914	|	3607915	|	Afrotarsius	|	genus	|	gbif:4572809	|		|
+3607913	|	3607914	|	Afrotarsius chatrathi	|	species	|	gbif:4974773	|		|
+3607940	|	913935	|	Dianopithecus	|	genus	|	gbif:4827055	|		|
+3607942	|	913935	|	Kuseracolobus	|	genus	|	gbif:4827054	|		|
+3607941	|	913935	|	Mackennatherium	|	genus	|	gbif:4827053	|		|
+3607760	|	913935	|	Kogolepithecus	|	genus	|	gbif:4827052	|		|
+3607759	|	3607760	|	Kogolepithecus morotoensis	|	species	|	gbif:4974738	|		|
+3607845	|	913935	|	Paradapis	|	genus	|	gbif:4827439	|		|
+3607846	|	913935	|	Laurasia	|	genus	|	gbif:4827430	|		|
+3607918	|	913935	|	Proconsulidae	|	family	|	gbif:4827205	|		|
+3607921	|	3607918	|	Proconsul	|	genus	|	gbif:4827206	|		|
+3607920	|	3607921	|	Proconsul africanus	|	species	|	gbif:4827207	|		|
+3608030	|	3607918	|	Platydontopithecus	|	genus	|	gbif:4827208	|		|
+3608031	|	3607918	|	Rangwapithecus	|	genus	|	gbif:4827209	|		|
+3608026	|	913935	|	Mckennatherium	|	genus	|	gbif:4827729	|		|
+3608011	|	913935	|	Proteropithecia	|	genus	|	gbif:4827188	|		|
+3608014	|	913935	|	Russellodon	|	genus	|	gbif:4827183	|		|
+3607831	|	913935	|	Eosimiidae	|	family	|	gbif:4827184	|		|
+4117804	|	3607831	|	Eosimias	|	genus	|	gbif:4827185	|		|
+4117805	|	4117804	|	Eosimias centennicus	|	species	|	gbif:4974662	|		|
+4117806	|	4117804	|	Eosimias dawsonae	|	species	|	gbif:4974664	|		|
+4117807	|	4117804	|	Eosimias paukkaungensis	|	species	|	gbif:4974663	|		|
+4117808	|	4117804	|	Eosimias sinensis	|	species	|	gbif:4974661	|		|
+4117809	|	3607831	|	Phenacopithecus	|	genus	|	gbif:4827186	|		|
+4117810	|	4117809	|	Phenacopithecus krishtalkai	|	species	|	gbif:4974660	|		|
+4117811	|	4117809	|	Phenacopithecus xueshii	|	species	|	gbif:4974659	|		|
+3607931	|	3607831	|	Anthrasimias	|	genus	|	gbif:4974665	|		|
+3607930	|	3607931	|	Anthrasimias gujaratensis	|	species	|	gbif:4974666	|		|
+3607830	|	3607831	|	Phileosimias	|	genus	|	gbif:4974667	|		|
+3607829	|	3607830	|	Phileosimias brahuiorum	|	species	|	gbif:4974668	|		|
+3608044	|	3607830	|	Phileosimias kamali	|	species	|	gbif:4974669	|		|
+3607882	|	3607831	|	Bahinia	|	genus	|	gbif:4827448	|		|
+3607881	|	3607882	|	Bahinia pondaungensis	|	species	|	gbif:4974670	|		|
+3608013	|	913935	|	Chinjipithecus	|	genus	|	gbif:4827187	|		|
+3607856	|	913935	|	Mabokopithecus	|	genus	|	gbif:4827085	|		|
+3607855	|	913935	|	Chronolestes	|	genus	|	gbif:4827086	|		|
+3607861	|	3607855	|	Chronolestes simul	|	species	|	gbif:4974511	|		|
+3608042	|	913935	|	Godinotia	|	genus	|	gbif:4575673	|		|
+3608025	|	913935	|	Megalapidae	|	family	|	gbif:4974649	|		|
+3607756	|	913935	|	Scenopagidae	|	family	|	gbif:4827222	|		|
+3607755	|	3607756	|	Arsinoea	|	genus	|	gbif:4827224	|		|
+3608008	|	3607755	|	Arsinoea kallimos	|	species	|	gbif:4974760	|		|
+3607871	|	3607756	|	Hallelemur	|	genus	|	gbif:4827223	|		|
+3607892	|	913935	|	Homopithecus	|	genus	|	gbif:4827101	|		|
+3607890	|	913935	|	Rhenopithecus	|	genus	|	gbif:4827100	|		|
+3607891	|	913935	|	Homunculidae	|	family	|	gbif:4827103	|		|
+3607889	|	913935	|	Asioplesiadapis	|	genus	|	gbif:4827102	|		|
+3607814	|	913935	|	Jepsenis	|	genus	|	gbif:4827767	|		|
+3607815	|	913935	|	Praezinjanthropus	|	genus	|	gbif:4827769	|		|
+3607816	|	913935	|	Uintalacus	|	genus	|	gbif:4827768	|		|
+3607828	|	913935	|	Ceciliolemur	|	genus	|	gbif:4832249	|		|
+3607781	|	913935	|	Azibiidae	|	family	|	gbif:4827460	|		|
+3607898	|	3607781	|	Dralestes	|	genus	|	gbif:4974513	|		|
+3607897	|	3607898	|	Dralestes hammadaensis	|	species	|	gbif:4974514	|		|
+3607778	|	913935	|	Carpolestidae	|	family	|	gbif:4827461	|		|
+4117812	|	3607778	|	Carpomegodon	|	genus	|	gbif:4827468	|		|
+4117813	|	4117812	|	Carpomegodon jepseni	|	species	|	gbif:4974532	|		|
+3607784	|	3607778	|	Carpolestes	|	genus	|	gbif:4827469	|		|
+3607962	|	3607784	|	Carpolestes dubius	|	species	|	gbif:4974531	|		|
+3607961	|	3607784	|	Carpolestes nigridens	|	species	|	gbif:4974530	|		|
+3607786	|	3607784	|	Carpolestes simpsoni	|	species	|	gbif:4974529	|		|
+3607780	|	3607778	|	Elphidotarsius	|	genus	|	gbif:4827462	|		|
+3607938	|	3607780	|	Elphidotarsius russelli	|	species	|	gbif:4974533	|		|
+3608051	|	3607780	|	Elphidotarsius shotgunensis	|	species	|	gbif:4974536	|		|
+3608050	|	3607780	|	Elphidotarsius wightoni	|	species	|	gbif:4974534	|		|
+3607964	|	3607780	|	Elphidotarsius florencae	|	species	|	gbif:4974535	|		|
+4117814	|	3607778	|	Parvocristes	|	genus	|	gbif:4827463	|		|
+4117815	|	4117814	|	Parvocristes oligocollis	|	species	|	gbif:4974537	|		|
+4117816	|	3607778	|	Carpocristes	|	genus	|	gbif:4827466	|		|
+4117817	|	4117816	|	Carpocristes hobackensis	|	species	|	gbif:4974526	|		|
+4117818	|	4117816	|	Carpocristes cygneus	|	species	|	gbif:4974528	|		|
+4117819	|	4117816	|	Carpocristes oriens	|	species	|	gbif:4974525	|		|
+4117820	|	4117816	|	Carpocristes rosei	|	species	|	gbif:4974527	|		|
+4117821	|	3607778	|	Subengius	|	genus	|	gbif:4827464	|		|
+4117822	|	4117821	|	Subengius mengi	|	species	|	gbif:4974524	|		|
+3607779	|	3607778	|	Carpodaptes	|	genus	|	gbif:4827465	|		|
+3607923	|	3607779	|	Carpodaptes stonleyi	|	species	|	gbif:4974522	|		|
+3607885	|	3607779	|	Carpodaptes rosei	|	species	|	gbif:4940877	|		|
+3607912	|	3607779	|	Carpodaptes hazelae	|	species	|	gbif:4974521	|		|
+3607910	|	3607779	|	Carpodaptes aulacodon	|	species	|	gbif:4974523	|		|
+3607958	|	913935	|	Megatarsius	|	genus	|	gbif:4826596	|		|
+3607805	|	913935	|	Paromomyidae	|	family	|	gbif:4827420	|		|
+3607904	|	3607805	|	Elwynella	|	genus	|	gbif:4827426	|		|
+3607903	|	3607904	|	Elwynella oreas	|	species	|	gbif:4974558	|		|
+3607866	|	3607805	|	Paromomys	|	genus	|	gbif:4827424	|		|
+3607997	|	3607866	|	Paromomys alticuspis	|	species	|	gbif:4974542	|		|
+3607998	|	3607866	|	Paromomys maturus	|	species	|	gbif:4974543	|		|
+3607865	|	3607866	|	Paromomys depressidens	|	species	|	gbif:4974541	|		|
+3607972	|	3607805	|	Ignacius	|	genus	|	gbif:4827422	|		|
+3607994	|	3607972	|	Ignacius clarkforkensis	|	species	|	gbif:4974546	|		|
+3607995	|	3607972	|	Ignacius frugivorus	|	species	|	gbif:4974547	|		|
+3607996	|	3607972	|	Ignacius fremontensis	|	species	|	gbif:4974544	|		|
+3607993	|	3607972	|	Ignacius graybullianus	|	species	|	gbif:4974545	|		|
+4117823	|	3607805	|	Pulverflumen	|	genus	|	gbif:4827423	|		|
+4117824	|	4117823	|	Pulverflumen magnificum	|	species	|	gbif:4974550	|		|
+4117825	|	3607805	|	Acidomomys	|	genus	|	gbif:4827421	|		|
+4117826	|	4117825	|	Acidomomys hebeticus	|	species	|	gbif:4974561	|		|
+3607878	|	3607805	|	Arcius	|	genus	|	gbif:4827428	|		|
+3608049	|	3607878	|	Arcius rougieri	|	species	|	gbif:4974549	|		|
+3607877	|	3607878	|	Arcius zbyszewskii	|	species	|	gbif:4974548	|		|
+4117827	|	3607805	|	Simpsonlemur	|	genus	|	gbif:4574814	|		|
+4117828	|	4117827	|	Simpsonlemur citatus	|	species	|	gbif:4974559	|		|
+4117829	|	4117827	|	Simpsonlemur jepseni	|	species	|	gbif:4974560	|		|
+4117830	|	3607805	|	Dillerlemur	|	genus	|	gbif:4827427	|		|
+4117831	|	4117830	|	Dillerlemur pagei	|	species	|	gbif:4974551	|		|
+4117832	|	4117830	|	Dillerlemur robinettei	|	species	|	gbif:4974552	|		|
+3607804	|	3607805	|	Phenacolemur	|	genus	|	gbif:4827425	|		|
+3607862	|	3607804	|	Phenacolemur mcgrewi	|	species	|	gbif:4974554	|		|
+3607858	|	3607804	|	Phenacolemur praecox	|	species	|	gbif:4974557	|		|
+3607867	|	3607804	|	Phenacolemur fortior	|	species	|	gbif:4974556	|		|
+3607852	|	3607804	|	Phenacolemur simonsi	|	species	|	gbif:4974553	|		|
+3607939	|	3607804	|	Phenacolemur shifrae	|	species	|	gbif:4974555	|		|
+3607976	|	913935	|	Pliopapio	|	genus	|	gbif:4827429	|		|
+3607772	|	913935	|	Picromomyidae	|	family	|	gbif:4827523	|		|
+3607771	|	3607772	|	Alveojunctus	|	genus	|	gbif:4827524	|		|
+3607953	|	3607771	|	Alveojunctus minutus	|	species	|	gbif:4974443	|		|
+3607854	|	3607772	|	Picromomys	|	genus	|	gbif:4827525	|		|
+3608038	|	3607854	|	Picromomys petersonorum	|	species	|	gbif:4974458	|		|
+3607775	|	913935	|	Ancepsoides	|	genus	|	gbif:4827522	|		|
+3607916	|	913935	|	Suratius	|	genus	|	gbif:4974770	|		|
+3607917	|	3607916	|	Suratius robustus	|	species	|	gbif:4974771	|		|
+3607785	|	913935	|	Presbypithecus	|	genus	|	gbif:4827366	|		|
+3608022	|	913935	|	Microtarsioides	|	genus	|	gbif:4834221	|		|
+3608017	|	913935	|	Omotarsius	|	genus	|	gbif:4827740	|		|
+3607934	|	913935	|	Asiadapis	|	genus	|	gbif:4974654	|		|
+3607933	|	3607934	|	Asiadapis cambayensis	|	species	|	gbif:4974655	|		|
+3607935	|	913935	|	Marcgodinotius	|	genus	|	gbif:4974652	|		|
+3607937	|	3607935	|	Marcgodinotius indicus	|	species	|	gbif:4974653	|		|
+3607758	|	913935	|	Lomorupithecus	|	genus	|	gbif:4974736	|		|
+3607757	|	3607758	|	Lomorupithecus harrisoni	|	species	|	gbif:4974737	|		|
+3607790	|	913935	|	Plesiopithecus	|	genus	|	gbif:4827772	|		|
+3608023	|	3607790	|	Plesiopithecus teras	|	species	|	gbif:4974645	|		|
+3607791	|	913935	|	Krishnapithecus	|	genus	|	gbif:4827770	|		|
+3607792	|	913935	|	Sivasimia	|	genus	|	gbif:4827771	|		|
+3607851	|	913935	|	Dinanthropoides	|	genus	|	gbif:3239614	|		|
+3607947	|	913935	|	Karanisia	|	genus	|	gbif:4827338	|		|
+3608024	|	3607947	|	Karanisia clarki	|	species	|	gbif:4974644	|		|
+3607812	|	913935	|	Dryopithecidae	|	family	|	gbif:4827070	|		|
+3607813	|	3607812	|	Graecopithecus	|	genus	|	gbif:4827071	|		|
+3607873	|	3607813	|	Graecopithecus freybergi	|	species	|	gbif:4974718	|		|
+3607874	|	3607813	|	Graecopithecus macedoniensis	|	species	|	gbif:4974717	|		|
+3607811	|	3607812	|	Dryopithecus	|	genus	|	gbif:4827073	|		|
+3607875	|	3607811	|	Dryopithecus mogharensis	|	species	|	gbif:4974714	|		|
+3607876	|	3607811	|	Dryopithecus brancoi	|	species	|	gbif:4974713	|		|
+3607868	|	3607811	|	Dryopithecus fontani	|	species	|	gbif:4974712	|		|
+3607977	|	913935	|	Nacholapithecus	|	genus	|	gbif:4827419	|		|
+3607974	|	913935	|	Miocallicebus	|	genus	|	gbif:4827418	|		|
+3607991	|	913935	|	Toliapinidae	|	family	|	gbif:4827215	|		|
+4117833	|	3607991	|	Toliapina	|	genus	|	gbif:4827217	|		|
+4117834	|	4117833	|	Toliapina lawsoni	|	species	|	gbif:4974454	|		|
+4117835	|	4117833	|	Toliapina vinealis	|	species	|	gbif:4974455	|		|
+4117836	|	3607991	|	Sarnacius	|	genus	|	gbif:4827216	|		|
+4117837	|	4117836	|	Sarnacius gingerichi	|	species	|	gbif:4974457	|		|
+3607990	|	913935	|	Pivetonia	|	genus	|	gbif:4827211	|		|
+3607992	|	913935	|	Indoadapis	|	genus	|	gbif:4827210	|		|
+3607902	|	913935	|	Simonsius	|	genus	|	gbif:4575808	|		|
+3608033	|	913935	|	Propliopithecidae	|	family	|	gbif:4974721	|		|
+3607807	|	913935	|	Megamacaca	|	genus	|	gbif:4827169	|		|
+3607803	|	913935	|	Patasola	|	genus	|	gbif:4827168	|		|
+3607798	|	913935	|	Plagiomenidae	|	family	|	gbif:4827359	|		|
+3607924	|	3607798	|	Planetetherium	|	genus	|	gbif:4827365	|		|
+3607999	|	3607924	|	Planetetherium mirabile	|	species	|	gbif:4974854	|		|
+3607906	|	3607798	|	Eudaemonema	|	genus	|	gbif:4827363	|		|
+3607905	|	3607906	|	Eudaemonema cuspidata	|	species	|	gbif:4972179	|		|
+3607853	|	3607798	|	Elpidophorus	|	genus	|	gbif:4827364	|		|
+3608000	|	3607853	|	Elpidophorus elegans	|	species	|	gbif:4974856	|		|
+3608028	|	3607853	|	Elpidophorus minor	|	species	|	gbif:4974855	|		|
+4117838	|	3607798	|	Placentidens	|	genus	|	gbif:4827361	|		|
+4117839	|	4117838	|	Placentidens lotus	|	species	|	gbif:4974864	|		|
+4117840	|	3607798	|	Ellesmene	|	genus	|	gbif:4827360	|		|
+4117841	|	4117840	|	Ellesmene eureka	|	species	|	gbif:4974863	|		|
+3607860	|	3607798	|	Ekgmowechashala	|	genus	|	gbif:4827362	|		|
+3607859	|	3607860	|	Ekgmowechashala philotau	|	species	|	gbif:4974783	|		|
+3607989	|	913935	|	Rahonapithecus	|	genus	|	gbif:4827744	|		|
+3607776	|	913935	|	Victoriapithecidae	|	family	|	gbif:4827063	|		|
+3608002	|	3607776	|	Turkanapithecus	|	genus	|	gbif:4827067	|		|
+3608001	|	3608002	|	Turkanapithecus kalakolensis	|	species	|	gbif:4974726	|		|
+3607802	|	3607776	|	Wailekia	|	genus	|	gbif:4827068	|		|
+3608036	|	3607802	|	Wailekia orientale	|	species	|	gbif:4974636	|		|
+3607801	|	3607776	|	Siamopithecus	|	genus	|	gbif:4827069	|		|
+3608005	|	3607801	|	Siamopithecus eocaenus	|	species	|	gbif:4974768	|		|
+3607800	|	3607776	|	Otavipithecus	|	genus	|	gbif:4827066	|		|
+3607777	|	3607776	|	Dionysopithecus	|	genus	|	gbif:4827065	|		|
+3607808	|	3607777	|	Dionysopithecus shuangouensis	|	species	|	gbif:4974735	|		|
+3607806	|	3607777	|	Dionysopithecus orientalis	|	species	|	gbif:4974734	|		|
+3607870	|	3607776	|	Afropithecus	|	genus	|	gbif:4573668	|		|
+3607869	|	3607870	|	Afropithecus turkanensis	|	species	|	gbif:4974711	|		|
+3607943	|	913935	|	Palaechthonidae	|	family	|	gbif:4827440	|		|
+3607944	|	3607943	|	Plesiolestes	|	genus	|	gbif:4827441	|		|
+3607979	|	3607944	|	Plesiolestes nacimienti	|	species	|	gbif:4974461	|		|
+3607985	|	3607944	|	Plesiolestes problematicus	|	species	|	gbif:4974460	|		|
+3607986	|	3607944	|	Plesiolestes wilsoni	|	species	|	gbif:4974462	|		|
+4117842	|	3607943	|	Premnoides	|	genus	|	gbif:4827444	|		|
+4117843	|	4117842	|	Premnoides douglassi	|	species	|	gbif:4974463	|		|
+4117844	|	3607943	|	Anasazia	|	genus	|	gbif:4827445	|		|
+4117845	|	4117844	|	Anasazia williamsoni	|	species	|	gbif:4974466	|		|
+3607945	|	3607943	|	Palenochtha	|	genus	|	gbif:4827446	|		|
+3607982	|	3607945	|	Palenochtha weissae	|	species	|	gbif:4974465	|		|
+3607981	|	3607945	|	Palenochtha minor	|	species	|	gbif:4974464	|		|
+3607946	|	3607943	|	Palaechthon	|	genus	|	gbif:4827447	|		|
+3607980	|	3607946	|	Palaechthon woodi	|	species	|	gbif:4974467	|		|
+3607983	|	3607946	|	Palaechthon alticuspis	|	species	|	gbif:4974469	|		|
+3607984	|	3607946	|	Palaechthon torrejonius	|	species	|	gbif:4974468	|		|
+3607963	|	913935	|	Saxonellidae	|	family	|	gbif:4974478	|		|
+3607820	|	913935	|	Muangthanhinius	|	genus	|	gbif:4974596	|		|
+3607821	|	3607820	|	Muangthanhinius siami	|	species	|	gbif:4974597	|		|
+3607952	|	913935	|	Amphipithecidae	|	family	|	gbif:4827506	|		|
+3608006	|	3607952	|	Ganlea	|	genus	|	gbif:4974762	|		|
+3608007	|	3608006	|	Ganlea megacanina	|	species	|	gbif:4974763	|		|
+3608009	|	3607952	|	Bugtipithecus	|	genus	|	gbif:4974764	|		|
+3608010	|	3608009	|	Bugtipithecus inexpectans	|	species	|	gbif:4974765	|		|
+4117846	|	3607952	|	Kyitchaungia	|	genus	|	gbif:4827507	|		|
+4117847	|	4117846	|	Kyitchaungia takaii	|	species	|	gbif:4974632	|		|
+4117848	|	3607952	|	Paukkaungia	|	genus	|	gbif:4827509	|		|
+4117849	|	4117848	|	Paukkaungia parva	|	species	|	gbif:4974633	|		|
+4117850	|	3607952	|	Myanmarpithecus	|	genus	|	gbif:4827508	|		|
+4117851	|	4117850	|	Myanmarpithecus yarshensis	|	species	|	gbif:4974769	|		|
+3607827	|	913935	|	Galeopithecidae	|	family	|	gbif:4827503	|		|
+3607826	|	3607827	|	Lushius	|	genus	|	gbif:4575873	|		|
+3608043	|	3607826	|	Lushius qinlinensis	|	species	|	gbif:4974602	|		|
+3607951	|	3607827	|	Galopithecus	|	genus	|	gbif:4827505	|		|
+3607936	|	913935	|	Ugandapithecus	|	genus	|	gbif:4827302	|		|
+3607789	|	913935	|	Picrodontidae	|	family	|	gbif:4827202	|		|
+3607900	|	3607789	|	Zanycteris	|	genus	|	gbif:4575632	|		|
+3607899	|	3607900	|	Zanycteris paleocenus	|	species	|	gbif:4974515	|		|
+3607788	|	3607789	|	Draconodus	|	genus	|	gbif:4827203	|		|
+3607787	|	3607788	|	Draconodus apertus	|	species	|	gbif:4974520	|		|
+3607840	|	3607789	|	Picrodus	|	genus	|	gbif:4827204	|		|
+3608003	|	3607840	|	Picrodus canpacius	|	species	|	gbif:4974517	|		|
+3607894	|	3607840	|	Picrodus lepidus	|	species	|	gbif:4974516	|		|
+3607895	|	3607840	|	Picrodus calgariensis	|	species	|	gbif:4974519	|		|
+3607896	|	3607840	|	Picrodus silberlingi	|	species	|	gbif:4974518	|		|
+3607919	|	913935	|	Rooneyidae	|	family	|	gbif:4974656	|		|
+3607960	|	913935	|	Callimiconidae	|	family	|	gbif:4827098	|		|
+3607959	|	3607960	|	Eoanthropus	|	genus	|	gbif:4827099	|		|
+3607911	|	913935	|	Samburupithecus	|	genus	|	gbif:4827178	|		|
+3608032	|	3607911	|	Samburupithecus kiptalami	|	species	|	gbif:4974720	|		|
+3607909	|	913935	|	Oligopithecidae	|	family	|	gbif:4827179	|		|
+3607908	|	3607909	|	Catopithecus	|	genus	|	gbif:4827181	|		|
+3607907	|	3607908	|	Catopithecus 	|	species	|	gbif:4974678	|		|
+3608015	|	3607909	|	Oligopithecus	|	genus	|	gbif:4827180	|		|
+3608045	|	3607909	|	Talahpithecus	|	genus	|	gbif:4827182	|		|
