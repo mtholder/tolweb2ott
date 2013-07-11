@@ -13,7 +13,7 @@ def populate_xmldicts():
         n_id, n_par = n_element.attrib['ID'], n_element.attrib['ANCESTORWITHPAGE']
         name_el = n_element.find('./NAME')
         name = name_el.text
-
+        name = name.strip()
         otext = None
         if name is not None:
             if name in xnl:
@@ -43,7 +43,7 @@ def populate_taxdicts():
     for line in tax_file:
         data = (line.split('\t|\t'))
         taxon = data[:3]
-        name = taxon[2]
+        name = taxon[2].strip()
         if name != 'name':
             if name in tnl:
                 i = tnl.index(name)
