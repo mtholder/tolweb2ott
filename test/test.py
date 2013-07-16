@@ -1,6 +1,17 @@
-#! usr/bin/env python
+#!/usr/bin/env python
 #run from tolweb2ott/test
 #RMJ
+#right now this makes dictionaries from tolweb xml and otol txt
+#it goes through those files line by line and makes a dictionary with 
+#name, parent id, node id. if synonyms are found in otol synonyms txt or 
+#tolweb othernames that exist in a
+
+#things to keep track of:
+#whether tolweb node is extinct, whether othername is important=0 
+#(only want to keep these othernames). 
+
+
+
 
 #modules
 import xml.etree.ElementTree as ET
@@ -13,7 +24,7 @@ def populate_xmldicts():
         n_id, n_par = n_element.attrib['ID'], n_element.attrib['ANCESTORWITHPAGE']
         name_el = n_element.find('./NAME')
         name = name_el.text
-        otext = None
+        otext = []
         if name is not None:
             name = name.strip()
             if name in xnl:
@@ -21,94 +32,63 @@ def populate_xmldicts():
                 xnl[i] = [xnl[i], name]
             else:
                 xnl.append(name)
-            for on_element in n_element.findall('OTHERNAMES'):
-                oname_el = n_element.find('.//OTHERNAME/NAME')
-                otext = oname_el.text
-
-        xml_dict[n_id] = [n_id, n_par, name, otext]
-        
-        if xml_dict[n_id][3] != None:
-            xml_syn = [name, otext]
-            xml_syn_dict[n_id] = xml_syn
-        xml_dict[n_id] = [n_id, n_par, name]
-
-    for item in xnl:
-         if type(item) == list:
-                print 'xml\t', item
-
+            for on_element in n_element.findall('OTHERNAMES/OTHERNAME'):
+                imp = int(on_element.attrib['ISIMPORTANT'])
+                if imp == 0 :
+                    for on_name in on_element.findall('.//NAME'):
+                        otext.append(on_name.text)
+            if otext == []:
+                otext = None
+            xmlid_dict[n_id] = n_id, n_par, name, otext
+            xmlnm_dict[name] = n_id, n_par, name, otext
 
 def populate_taxdicts():
-    #look for homonyms here too--make a list of taxfile names--if appear twice
-    #+, make a list
+    tempdict = {}
+    for line in syn_file:
+        data = list(line.split('\t|\t'))
+        n_id, name = data[1], data[0]
+        x = n_id in tempdict   
+        if x:
+            tempdict[n_id].append(name)
+        else:
+            tempdict[n_id] = [name]
+
     for line in tax_file:
-        data = (line.split('\t|\t'))
-        taxon = data[:3]
-        name = taxon[2].strip()
-        if name != 'name':
-            if name in tnl:
-                i = tnl.index(name)
-                tnl[i] = [tnl[i], name]
-            else:
-                tnl.append(name)
-            tax_dict[taxon[0]] = taxon
-
-    #synfile is organized by otol ID so don't worry about homonyms here? 
-    for synline in syn_file:
-        syndata = (synline.split('\t|\t'))
-        for key in tax_dict.iteritems():
-            if syndata[1] == key[0]:
-                tax_syn_dict[syndata[1]] = [key[0], syndata[0]]
-
-    for item in tnl:
-        if type(item)== list:
-            print 'tax\t', item
+        data = list(line.split('\t|\t'))
+        n_id, n_par, name = data[0], data[1], data[2]
+        x = n_id in tempdict
+        if x:
+            oname = tempdict[n_id]
+        else:
+            oname = None
+        taxid_dict[n_id] = n_id, n_par, name, oname
+        taxnm_dict[name] = n_id, n_par, name, oname
 
 def combine_dicts():
-    for tid in tax_dict.iteritems():
-        tname = tid[1][2]
-        for xid in xml_dict.iteritems():
-            xname = xid[1][2]
-            if tname == xname:
-                matches_dict[tid[0]] = tid[1][:2] + xid[1]
+    #if names match
 
-
-def find_missing():
-
-    for xname in xml_dict.iteritems():
-        if xname[1][2] != None:
-            xlist.append(xname[1][2])
-    for tname in tax_dict.iteritems():
-        if tname[1][2] != None:
-            tlist.append([tname[0], tname[1][2]])
-            namelist.append(tname[1][2])
+    #if a combination of name and oname from both xml and tax match
 
 
 #init
-tax_file = open('primates_taxonomy_mod.txt')
+tax_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
-xml = ET.parse('primates_tolweb_mod.xml')
+xml = ET.parse('primates_tolweb.xml')
 root = xml.getroot()
 
-xml_dict = {}
-tax_dict = {}
-matches_dict = {}
-nomatch_dict = {}
-tax_syn_dict = {}
-xml_syn_dict = {}
-
-#for finding mismatches
-tlist = []
-xlist = []
-namelist = []
+xmlid_dict = {}
+xmlnm_dict = {}
+taxid_dict = {}
+taxnm_dict = {}
 xnl = []
 tnl = []
-
+#for finding mismatches
+syn_list = []
 
 #let's go
 populate_taxdicts()
 populate_xmldicts()
-combine_dicts()
-find_missing()
+
 
 #cleanup
 tax_file.close()
