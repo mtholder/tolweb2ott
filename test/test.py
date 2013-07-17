@@ -14,7 +14,6 @@ import xml.etree.ElementTree as ET
 
 #functions
 def populate_xmldicts():
-    #here i also want to look for name and othername--if appear twice+ make it a list
 
     for n_element in root.findall('.//NODE'):
         n_id, n_par = n_element.attrib['ID'], n_element.attrib['ANCESTORWITHPAGE']
@@ -36,7 +35,7 @@ def populate_xmldicts():
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
 
-def populate_taxdicts():
+def populate_otoldicts():
     tempdict = {}
     for line in syn_file:
         data = list(line.split('\t|\t'))
@@ -47,58 +46,83 @@ def populate_taxdicts():
         else:
             tempdict[n_id] = [name]
 
-    for line in tax_file:
+    for line in otol_file:
         data = list(line.split('\t|\t'))
         n_id, n_par, name = data[0], data[1], data[2]
         x = n_id in tempdict
         oname = [name]
         if x:
             oname = tempdict[n_id]
-        taxid_dict[n_id] = n_id, n_par, name, oname
-        taxnm_dict[name] = n_id, n_par, name, oname
+        otolid_dict[n_id] = n_id, n_par, name, oname
+        otolnm_dict[name] = n_id, n_par, name, oname
 
 def combine_dicts():
     #if names match
-    for key in taxnm_dict:
+    for key in otolnm_dict:
         x = key in xmlnm_dict
-        otolid = taxnm_dict[key][0]
+        otolid = otolnm_dict[key][0]
+        onlist = otolnm_dict[key][3]
         if x:
             tcount[0] += 1
             tolid = xmlnm_dict[key][0]
             matching.append([key, otolid, tolid])
-            print [key, otolid, tolid]
         if not x:
             tcount[1] +=1
             #it's in otol but not tolweb
-            missing[0].append([key, otolid])
+            missing[0].append([onlist, otolid])
 
     
     for key in xmlnm_dict:
-        t = key in taxnm_dict
+        t = key in otolnm_dict
         tolid = xmlnm_dict[key][0]
-        #print len(xmlnm_dict[key][3])
+        onlist = xmlnm_dict[key][3]
         if t:
             xcount[0] +=1
         if not t:
             xcount[1] +=1
-            missing[1].append([key, tolid])
+            missing[1].append([onlist, tolid])
  
-
-
-
-    #print missing[1], 'len missing1'
-   # for item in missing[1]:
-    #    print item
-    #for item in missing[0]:
-    #    print item
-
+    'initial matches between otol and tolweb'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
-    print tcount, '\tshould equal\t', len(taxnm_dict), 'entries in taxnm_dict'
+    print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
+
+    mat = 0
+    for titem in missing[0]:
+        tnl = titem[0]
+        #print tnl, 'tnl'
+        for xitem in missing[1]:
+            xnl = xitem[0]
+            st = set(tnl) & set(xnl)
+            if st:
+                mat += 1
+                st = list(st)
+                xid = xitem[1]
+                otolid = titem[1]
+                #print st[0]
+                matching.append([st[0], otolid, xid])
+                tcount[0] +=1
+                xcount[0] +=1
+                tcount[1] -=1
+                xcount[1] -=1
+    print '\n\nafter', mat, 'additional matches'
+    print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
+    print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
+             
+
+            #print xnl, 'xnl'
+        #for titem in missing[0]:
+
+
 
     #now we have to look at othernames (xml) and synonyms (otol)
     #look through each name (in missing[0])
     #missing from tolweb but maybe just called something different in othernames
     #if that happens, add 
+
+   # for i in missing
+    #    matching.append([key, otolid, tolid])    
+
+
 
     otolsyncheck = {}
     #this snippet will check the current missing tnames against the othernames list
@@ -113,19 +137,19 @@ def combine_dicts():
 
 
 
-    #if a combination of name and oname from both xml and tax match:
+    #if a combination of name and oname from both xml and otol match:
 
 
 #init
-tax_file = open('primates_taxonomy.txt')
+otol_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
 xml = ET.parse('primates_tolweb.xml')
 root = xml.getroot()
 
 xmlid_dict = {}
 xmlnm_dict = {}
-taxid_dict = {}
-taxnm_dict = {}
+otolid_dict = {}
+otolnm_dict = {}
 mnm_dict = {}
 motolid_dict = {}
 xnl = []
@@ -138,15 +162,15 @@ matching = []
 tcount= [0,0] #matches otol id, doesn't match
 xcount= [0,0] #matches tolweb id, doesn't match
 #let's go
-populate_taxdicts()
+populate_otoldicts()
 populate_xmldicts()
 combine_dicts()
 
 
 #cleanup
-tax_file.close()
+otol_file.close()
 syn_file.close()
 
 
-#if count (matching taxon) in key[1] < 2:
+#if count (matching otolon) in key[1] < 2:
 #   flag
