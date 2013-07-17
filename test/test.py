@@ -70,6 +70,7 @@ def combine_dicts():
         if x:
             otolid = taxnm_dict[key][0]
             ocount[0] += 1
+            matching[0].append(key)
         if not x:
             ocount[1] +=1
             #it's in otol but not tolweb
@@ -80,6 +81,7 @@ def combine_dicts():
         t = key in taxnm_dict
         if t:
             tcount[0] +=1
+            matching[1].append(key)
         if not t:
             tcount[1] +=1
             missing[1].append(key)
@@ -87,7 +89,18 @@ def combine_dicts():
 
     #now we have to look at othernames (xml) and synonyms (otol)
     #look through each name (in missing[0])
-    for key in taxnm_dict.iteritems():
+    #missing from tolweb but maybe just called something different in othernames
+
+    otolsyncheck = []
+    for item in xmlnm_dict.iteritems:
+        if item not in matching[0]:
+            otolsyncheck.append(item[0], item[1][3])
+
+
+    print otolsyncheck
+        print item
+
+
         check = key[1][3]
         if type(check) == list:
             print key[0], check, '\n'
@@ -112,6 +125,7 @@ tnl = []
 #for finding mismatches
 syn_list = []
 missing = [ [],[] ]  #0 is only in otol, 1 is only in tolweb 
+matching = [[],[]]
 ocount= [0,0] #matches otol id, doesn't match
 tcount= [0,0] #matches tolweb id, doesn't match
 #let's go
