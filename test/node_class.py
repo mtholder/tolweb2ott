@@ -15,7 +15,13 @@ name2node = {}
 for line in tax_file:
 	data = (line.split('\t|\t'))
     taxon = TreeNode(data[:3])
-    
+
+
+#so every node tolweb or otol has the structure of TreeNode objects
+#re attributes. does this necessitate some kind of branching structure?
+#or should I be able to loop through (?) 
+
+
 n = 'Pan'
 name2node[n] = TreeNode(n)
 n = 'Pan troglodytes'

@@ -35,7 +35,6 @@ def populate_xmldicts():
                         otext.append(on_name.text)
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
-    print len(xmlnm_dict), '\tEntries in xmlnm_dict'
 
 def populate_taxdicts():
     tempdict = {}
@@ -57,47 +56,45 @@ def populate_taxdicts():
             oname = tempdict[n_id]
         taxid_dict[n_id] = n_id, n_par, name, oname
         taxnm_dict[name] = n_id, n_par, name, oname
-    print len(taxnm_dict), '\tEntries in taxnm_dict'
 
 def combine_dicts():
     #if names match
     for key in taxnm_dict:
         x = key in xmlnm_dict
         otolid = taxnm_dict[key][0]
-        c = len(taxnm_dict[key][3])
-        if c > 1:
-            if x:
-                ocount[0] += 1
-                matching[0].append([key, otolid])
+        if x:
+            tcount[0] += 1
+            tolid = xmlnm_dict[key][0]
+            matching.append([key, otolid, tolid])
+            print [key, otolid, tolid]
+        if not x:
+            tcount[1] +=1
+            #it's in otol but not tolweb
+            missing[0].append([key, otolid])
 
-            if not x:
-                ocount[1] +=1
-                #it's in otol but not tolweb
-                missing[0].append([key, otolid])
-
-    print ocount
     
     for key in xmlnm_dict:
         t = key in taxnm_dict
         tolid = xmlnm_dict[key][0]
-        c = len(xmlnm_dict[key][3])
-        if c > 1:
-            if t:
-                tcount[0] +=1
-                matching[1].append([key, tolid])
-            if not t:
-                tcount[1] +=1
-                missing[1].append([key, tolid])
+        #print len(xmlnm_dict[key][3])
+        if t:
+            xcount[0] +=1
+            matching.append([key, tolid])
+        if not t:
+            xcount[1] +=1
+            missing[1].append([key, tolid])
  
-    print len(matching[1]), 'len matching1'
-    print len(matching[0]), 'len matching0'
-    print len(missing[1]), 'len missing1'
-    print len(missing[0]), 'len missing0'
+
+
+
+    #print missing[1], 'len missing1'
    # for item in missing[1]:
     #    print item
     #for item in missing[0]:
     #    print item
-    print tcount
+
+    print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
+    print tcount, '\tshould equal\t', len(taxnm_dict), 'entries in taxnm_dict'
 
     #now we have to look at othernames (xml) and synonyms (otol)
     #look through each name (in missing[0])
@@ -114,6 +111,7 @@ def combine_dicts():
     #             if type(current) == str:
     #                 current = list.custom[current]
     #             otolsyncheck[item[1][0]] = item[1][3]
+
 
 
     #if a combination of name and oname from both xml and tax match:
@@ -137,9 +135,9 @@ tnl = []
 #for finding mismatches
 syn_list = []
 missing = [ [],[] ]  #0 is only in otol, 1 is only in tolweb 
-matching = [[],[]]
-ocount= [0,0] #matches otol id, doesn't match
-tcount= [0,0] #matches tolweb id, doesn't match
+matching = []
+tcount= [0,0] #matches otol id, doesn't match
+xcount= [0,0] #matches tolweb id, doesn't match
 #let's go
 populate_taxdicts()
 populate_xmldicts()
