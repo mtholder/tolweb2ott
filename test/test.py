@@ -37,7 +37,7 @@ def populate_xmldicts():
                 otext = None
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
-    print len(xmlnm_dict)
+    print len(xmlnm_dict), '\tEntries in xmlnm_dict'
 
 def populate_taxdicts():
     tempdict = {}
@@ -56,12 +56,13 @@ def populate_taxdicts():
         x = n_id in tempdict
         if x:
             oname = tempdict[n_id]
+            print len(oname), '\t\t', n_id
         else:
             oname = None
         taxid_dict[n_id] = n_id, n_par, name, oname
         taxnm_dict[name] = n_id, n_par, name, oname
-    print len(taxnm_dict)
-    
+    print len(taxnm_dict), '\tEntries in taxnm_dict'
+
 def combine_dicts():
     #if names match
     for key in taxnm_dict:
@@ -69,9 +70,6 @@ def combine_dicts():
         if x:
             otolid = taxnm_dict[key][0]
             ocount[0] += 1
-#            mnm_dict[cname] =
-            #matches_dict[]
-            pass#matches_dict[xmlnm_dict
         if not x:
             ocount[1] +=1
             #it's in otol but not tolweb
@@ -85,10 +83,14 @@ def combine_dicts():
         if not t:
             tcount[1] +=1
             missing[1].append(key)
-
     print tcount
 
-
+    #now we have to look at othernames (xml) and synonyms (otol)
+    #look through each name (in missing[0])
+    for key in taxnm_dict.iteritems():
+        check = key[1][3]
+        if type(check) == list:
+            print key[0], check, '\n'
     #if a combination of name and oname from both xml and tax match:
 
 
