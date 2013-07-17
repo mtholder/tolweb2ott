@@ -6,10 +6,6 @@
 #name, parent id, node id. if synonyms are found in otol synonyms txt or 
 #tolweb othernames that exist in a
 
-#things to keep track of:
-#whether tolweb node is extinct, whether othername is important=0 
-#(only want to keep these othernames). 
-
 
 
 
@@ -41,6 +37,7 @@ def populate_xmldicts():
                 otext = None
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
+    print len(xmlnm_dict)
 
 def populate_taxdicts():
     tempdict = {}
@@ -63,11 +60,36 @@ def populate_taxdicts():
             oname = None
         taxid_dict[n_id] = n_id, n_par, name, oname
         taxnm_dict[name] = n_id, n_par, name, oname
-
+    print len(taxnm_dict)
+    
 def combine_dicts():
     #if names match
+    for key in taxnm_dict:
+        x = key in xmlnm_dict
+        if x:
+            otolid = taxnm_dict[key][0]
+            ocount[0] += 1
+#            mnm_dict[cname] =
+            #matches_dict[]
+            pass#matches_dict[xmlnm_dict
+        if not x:
+            ocount[1] +=1
+            #it's in otol but not tolweb
+            missing[0].append(key)
+    print ocount
+    
+    for key in xmlnm_dict:
+        t = key in taxnm_dict
+        if t:
+            tcount[0] +=1
+        if not t:
+            tcount[1] +=1
+            missing[1].append(key)
 
-    #if a combination of name and oname from both xml and tax match
+    print tcount
+
+
+    #if a combination of name and oname from both xml and tax match:
 
 
 #init
@@ -80,14 +102,20 @@ xmlid_dict = {}
 xmlnm_dict = {}
 taxid_dict = {}
 taxnm_dict = {}
+mnm_dict = {}
+motolid_dict = {}
 xnl = []
 tnl = []
+
 #for finding mismatches
 syn_list = []
-
+missing = [ [],[] ]  #0 is only in otol, 1 is only in tolweb 
+ocount= [0,0] #matches otol id, doesn't match
+tcount= [0,0] #matches tolweb id, doesn't match
 #let's go
 populate_taxdicts()
 populate_xmldicts()
+combine_dicts()
 
 
 #cleanup
