@@ -79,7 +79,6 @@ def combine_dicts():
         #print len(xmlnm_dict[key][3])
         if t:
             xcount[0] +=1
-            matching.append([key, tolid])
         if not t:
             xcount[1] +=1
             missing[1].append([key, tolid])
