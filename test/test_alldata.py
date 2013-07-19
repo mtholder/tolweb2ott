@@ -94,28 +94,27 @@ def combine_dicts():
     i = 0
     X = 0
     for titem in missing[0]:
-        print titem,
         tnl = titem[0]
         #print tnl, 'tnl'
         for xitem in missing[1]:
             xnl = xitem[0]
             st = set(tnl) & set(xnl)
             if st:
-                mat += 1
                 st = list(st)
                 xid = xitem[1]
                 otolid = titem[1]
-                #print st[0]
+                missing[0].remove(titem)
+                missing[1].remove(xitem)
                 matching.append([st[0], otolid, xid])
+                mat += 1
+                print '\n', st
+                print st, '\tis match #', mat, '\ti=', i,
                 tcount[0] +=1
                 xcount[0] +=1
                 tcount[1] -=1
                 xcount[1] -=1
-                print 'match!!'
-            X +=1
-            print X, 'X\n'
         i += 1
-        print i, 'i'    
+
 
     print '\nafter', mat, 'additional matches:'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
