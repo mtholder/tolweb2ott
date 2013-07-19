@@ -117,10 +117,12 @@ def combine_dicts():
     print len(matching)
 
 
+
 #init
-otol_file = open('primates_taxonomy.txt')
-syn_file = open('primates_synonyms.txt')
-xml = ET.parse('primates_tolweb.xml')
+otol_file = open('taxonomy.txt')
+syn_file = open('synonyms.txt')
+xml = ET.parse('tolweb_dump.xml')
+print 'parsed'
 root = xml.getroot()
 
 xmlid_dict = {}
@@ -139,6 +141,7 @@ matching = []
 tcount= [0,0] #matches otol id, doesn't match
 xcount= [0,0] #matches tolweb id, doesn't match
 
+
 #let's go
 populate_otoldicts()
 populate_xmldicts()
@@ -149,3 +152,6 @@ combine_dicts()
 otol_file.close()
 syn_file.close()
 
+
+#if count (matching otolon) in key[1] < 2:
+#   flag
