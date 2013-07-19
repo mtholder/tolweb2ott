@@ -10,7 +10,7 @@ class TreeNode(object):
         node.parent = self
 
 
-name2node = {}
+name2node = {} 
 
 for line in tax_file:
 	data = (line.split('\t|\t'))

@@ -35,6 +35,8 @@ def populate_xmldicts():
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
 
+            
+
 def populate_otoldicts():
     tempdict = {}
     for line in syn_file:
@@ -63,7 +65,8 @@ def combine_dicts():
         otolid = otolnm_dict[key][0]
         onlist = otolnm_dict[key][3]
         if x:
-            tcount[0] += 1
+            tcount[0] +=1
+            xcount[0] +=1
             tolid = xmlnm_dict[key][0]
             matching.append([key, otolid, tolid])
         if not x:
@@ -76,8 +79,6 @@ def combine_dicts():
         t = key in otolnm_dict
         tolid = xmlnm_dict[key][0]
         onlist = xmlnm_dict[key][3]
-        if t:
-            xcount[0] +=1
         if not t:
             xcount[1] +=1
             missing[1].append([onlist, tolid])
@@ -85,6 +86,7 @@ def combine_dicts():
     print '\ninitial matches between otol and tolweb'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
+    print len(matching)
 
     mat = 0
     for titem in missing[0]:
@@ -108,37 +110,7 @@ def combine_dicts():
     print '\nafter', mat, 'additional matches:'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
-             
-
-            #print xnl, 'xnl'
-        #for titem in missing[0]:
-
-
-
-    #now we have to look at othernames (xml) and synonyms (otol)
-    #look through each name (in missing[0])
-    #missing from tolweb but maybe just called something different in othernames
-    #if that happens, add 
-
-   # for i in missing
-    #    matching.append([key, otolid, tolid])    
-
-
-
-    otolsyncheck = {}
-    #this snippet will check the current missing tnames against the othernames list
-    #in the xml dictionary xmlnm_dict
-
-    # if xmlnomatch not in matching[0]:
-    #         if xmlnm_dict[xmlnomatch][3] != None:
-    #             current = item[1][3]
-    #             if type(current) == str:
-    #                 current = list.custom[current]
-    #             otolsyncheck[item[1][0]] = item[1][3]
-
-
-
-    #if a combination of name and oname from both xml and otol match:
+    print len(matching)
 
 
 #init
@@ -172,6 +144,3 @@ combine_dicts()
 otol_file.close()
 syn_file.close()
 
-
-#if count (matching otolon) in key[1] < 2:
-#   flag
