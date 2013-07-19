@@ -92,7 +92,9 @@ def combine_dicts():
 
     mat = 0
     i = 0
+    X = 0
     for titem in missing[0]:
+        print titem,
         tnl = titem[0]
         #print tnl, 'tnl'
         for xitem in missing[1]:
@@ -109,8 +111,12 @@ def combine_dicts():
                 xcount[0] +=1
                 tcount[1] -=1
                 xcount[1] -=1
-            i += 1
-            print i
+                print 'match!!'
+            X +=1
+            print X, 'X\n'
+        i += 1
+        print i, 'i'    
+
     print '\nafter', mat, 'additional matches:'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'

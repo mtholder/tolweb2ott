@@ -34,6 +34,9 @@ def populate_xmldicts():
                         otext.append(on_name.text)
             xmlid_dict[n_id] = n_id, n_par, name, otext
             xmlnm_dict[name] = n_id, n_par, name, otext
+    print 'populate xmldicts complete'
+
+            
 
 def populate_otoldicts():
     tempdict = {}
@@ -55,6 +58,7 @@ def populate_otoldicts():
             oname = tempdict[n_id]
         otolid_dict[n_id] = n_id, n_par, name, oname
         otolnm_dict[name] = n_id, n_par, name, oname
+    print 'populate otoldicts complete'
 
 def combine_dicts():
     #if names match
@@ -63,7 +67,8 @@ def combine_dicts():
         otolid = otolnm_dict[key][0]
         onlist = otolnm_dict[key][3]
         if x:
-            tcount[0] += 1
+            tcount[0] +=1
+            xcount[0] +=1
             tolid = xmlnm_dict[key][0]
             matching.append([key, otolid, tolid])
         if not x:
@@ -76,8 +81,6 @@ def combine_dicts():
         t = key in otolnm_dict
         tolid = xmlnm_dict[key][0]
         onlist = xmlnm_dict[key][3]
-        if t:
-            xcount[0] +=1
         if not t:
             xcount[1] +=1
             missing[1].append([onlist, tolid])
@@ -85,66 +88,46 @@ def combine_dicts():
     print '\ninitial matches between otol and tolweb'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
+    print len(matching)
 
     mat = 0
+    i = 0
+    X = 0
     for titem in missing[0]:
-        tnl = titem[0]
-        #print tnl, 'tnl'
-        for xitem in missing[1]:
-            xnl = xitem[0]
-            st = set(tnl) & set(xnl)
-            if st:
-                mat += 1
-                st = list(st)
-                xid = xitem[1]
-                otolid = titem[1]
-                #print st[0]
-                matching.append([st[0], otolid, xid])
-                tcount[0] +=1
-                xcount[0] +=1
-                tcount[1] -=1
-                xcount[1] -=1
-
+        if i < 20:
+            print titem,
+            tnl = titem[0]
+            #print tnl, 'tnl'
+            for xitem in missing[1]:
+                xnl = xitem[0]
+                st = set(tnl) & set(xnl)
+                if st:
+                    mat += 1
+                    st = list(st)
+                    xid = xitem[1]
+                    otolid = titem[1]
+                    #print st[0]
+                    matching.append([st[0], otolid, xid])
+                    tcount[0] +=1
+                    xcount[0] +=1
+                    tcount[1] -=1
+                    xcount[1] -=1
+                X +=1
+                print X, 'X\n'
+            i += 1
+            print i, 'i'
     print '\nafter', mat, 'additional matches:'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
-             
+    print len(matching)
 
-            #print xnl, 'xnl'
-        #for titem in missing[0]:
-
-
-
-    #now we have to look at othernames (xml) and synonyms (otol)
-    #look through each name (in missing[0])
-    #missing from tolweb but maybe just called something different in othernames
-    #if that happens, add 
-
-   # for i in missing
-    #    matching.append([key, otolid, tolid])    
-
-
-
-    otolsyncheck = {}
-    #this snippet will check the current missing tnames against the othernames list
-    #in the xml dictionary xmlnm_dict
-
-    # if xmlnomatch not in matching[0]:
-    #         if xmlnm_dict[xmlnomatch][3] != None:
-    #             current = item[1][3]
-    #             if type(current) == str:
-    #                 current = list.custom[current]
-    #             otolsyncheck[item[1][0]] = item[1][3]
-
-
-
-    #if a combination of name and oname from both xml and otol match:
 
 
 #init
 otol_file = open('primates_taxonomy.txt')
 syn_file = open('primates_synonyms.txt')
 xml = ET.parse('primates_tolweb.xml')
+print 'parsed'
 root = xml.getroot()
 
 xmlid_dict = {}
@@ -162,6 +145,8 @@ missing = [ [],[] ]  #0 is only in otol, 1 is only in tolweb
 matching = []
 tcount= [0,0] #matches otol id, doesn't match
 xcount= [0,0] #matches tolweb id, doesn't match
+
+
 #let's go
 populate_otoldicts()
 populate_xmldicts()
