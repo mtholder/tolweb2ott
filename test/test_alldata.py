@@ -88,11 +88,8 @@ def combine_dicts():
     print '\ninitial matches between otol and tolweb'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
-    print len(matching)
 
     mat = 0
-    i = 0
-    X = 0
     for titem in missing[0]:
         tnl = titem[0]
         #print tnl, 'tnl'
@@ -103,23 +100,18 @@ def combine_dicts():
                 st = list(st)
                 xid = xitem[1]
                 otolid = titem[1]
-                missing[0].remove(titem)
-                missing[1].remove(xitem)
                 matching.append([st[0], otolid, xid])
                 mat += 1
-                print '\n', st
-                print st, '\tis match #', mat, '\ti=', i,
+                print 'match #', mat, '\t\t', str(st[0])
                 tcount[0] +=1
                 xcount[0] +=1
                 tcount[1] -=1
                 xcount[1] -=1
-        i += 1
 
 
     print '\nafter', mat, 'additional matches:'
     print xcount, '\tshould equal\t', len(xmlnm_dict), 'entries in xmlnm_dict'
     print tcount, '\tshould equal\t', len(otolnm_dict), 'entries in otolnm_dict'
-    print len(matching)
 
 
 
